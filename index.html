@@ -41,6 +41,19 @@
         .req.st-hold .rb { background: #fef3c7; color: #b45309; }
         mark.fx { background: #fde68a; color: inherit; border-radius: 3px; padding: 0 1px; box-shadow: 0 0 0 1px #f59e0b; }
         .cmp { font-size: 16px; line-height: 1.9; white-space: pre-wrap; background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 8px 12px; margin-top: 6px; }
+        @media (max-width: 640px) {
+            header.sticky { position: static; }
+            .bookbtn { padding: 8px 10px; font-size: 14px; }
+            .chbtn { min-width: 42px; padding: 8px; }
+            .verse { gap: 8px; padding: 10px 8px; }
+            .vnum { flex-basis: 24px; font-size: 12px; }
+            .vtext { line-height: 1.8; }
+            .rptbtn { padding: 8px; }
+            #bar input[type=range] { width: 7rem; }
+            #bar input#q { width: 100%; }
+            #nav button { padding: 10px 12px; }
+            #rptForm input, #rptForm textarea { font-size: 16px; }
+        }
     </style>
 </head>
 <body class="bg-slate-50 text-slate-800">
@@ -55,7 +68,10 @@
                     <p class="text-xs text-slate-500">책 버튼을 누르면 그 책의 <b>*_updated.json</b>을 읽어 화면으로 보여줍니다. <b>bible_errors.json</b>의 요청(어디를 어떻게 고치라고 했는지)을 구절마다 붙여 보여주고, 기존(compiled_bible)과 달라진 구절은 주황색으로 표시합니다.</p>
                 </div>
             </div>
-            <div id="status" class="text-sm font-semibold text-slate-500"></div>
+            <div class="flex items-center gap-3">
+                <button id="rptOpen" class="px-3 py-1 bg-amber-500 text-white rounded text-xs font-bold hover:bg-amber-600"><i class="fa-solid fa-flag"></i> 신고 목록 <span id="rptCnt">0</span></button>
+                <div id="status" class="text-sm font-semibold text-slate-500"></div>
+            </div>
         </div>
 
         <div class="mt-3 text-[11px] font-bold text-slate-400 tracking-wider">구약 39권</div>
@@ -99,6 +115,46 @@
     <div id="empty" class="py-16 text-center text-slate-400 text-sm">위에서 책을 선택하세요.</div>
 </main>
 
+<div id="rptModal" class="hidden fixed inset-0 z-50 bg-black/50 flex items-center justify-center p-4">
+    <div class="bg-white rounded-xl shadow-xl w-full max-w-[720px] max-h-[90vh] flex flex-col">
+        <div class="px-4 py-3 border-b flex items-center justify-between">
+            <b id="rptTitle">오류 신고</b>
+            <button id="rptClose" class="text-slate-400 hover:text-slate-700 text-xl leading-none">&times;</button>
+        </div>
+        <div id="rptForm" class="hidden p-4 flex flex-col gap-2 text-sm">
+            <div id="rptWhere" class="font-bold text-blue-600"></div>
+            <div class="text-xs text-slate-500">문제가 되는 부분 (본문에서 드래그해 선택한 뒤 신고 버튼을 누르면 자동 입력)</div>
+            <input id="rptSel" class="border rounded px-2 py-1" placeholder="해당 문구">
+            <div class="text-xs text-slate-500">어떻게 고쳐야 하는지 / 메모</div>
+            <textarea id="rptMemo" rows="3" class="border rounded px-2 py-1" placeholder="예: '하나님이' → '하나님께서'"></textarea>
+            <button id="rptSave" class="self-end px-4 py-1.5 bg-blue-600 text-white rounded font-bold hover:bg-blue-700">저장</button>
+        </div>
+        <div id="rptListWrap" class="hidden flex flex-col min-h-0">
+            <div class="px-4 py-2 flex flex-wrap gap-2 border-b text-xs">
+                <button id="rptDl" class="px-3 py-1 bg-slate-700 text-white rounded">JSON 다운로드</button>
+                <button id="rptCopy" class="px-3 py-1 bg-slate-700 text-white rounded">텍스트 복사</button>
+                <label class="px-3 py-1 bg-slate-200 rounded cursor-pointer">불러오기<input id="rptImp" type="file" accept=".json" class="hidden"></label>
+                <button id="rptClear" class="px-3 py-1 bg-red-100 text-red-700 rounded ml-auto">전체 삭제</button>
+            </div>
+            <div class="px-4 py-1 text-[11px] text-slate-400">신고는 이 브라우저(localStorage)에만 저장됩니다. 다른 사람/기기에 전달하려면 다운로드 또는 복사하세요.</div>
+            <div id="rptList" class="overflow-y-auto px-4 pb-4 flex flex-col gap-2 text-sm"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+// ======================= 오류 신고 (서버 없이 localStorage) =======================
+const RPT_KEY = 'bibleReports_v1';
+const rptLoad = () => { try { return JSON.parse(localStorage.getItem(RPT_KEY) || '[]'); } catch (e) { return []; } };
+let rptMem = null;   // localStorage 를 못 쓰는 환경 대비 메모리 보관
+function rptGet() { return rptMem || rptLoad(); }
+function rptSet(a) { rptMem = a; try { localStorage.setItem(RPT_KEY, JSON.stringify(a)); } catch (e) {} rptCount(); }
+function rptCount() { const el = document.getElementById('rptCnt'); if (el) el.textContent = rptGet().length; }
+function rptAdd(r) { const a = rptGet().slice(); a.push({ id: Date.now() + '' + Math.floor(Math.random() * 1000), time: new Date().toLocaleString(), url: location.href, ...r }); rptSet(a.slice(-500)); }
+// 자바스크립트 오류·파일 로드 실패도 자동으로 기록한다
+window.addEventListener('error', e => rptAdd({ type: 'system', memo: (e.message || 'error') + (e.filename ? ' @' + e.filename + ':' + e.lineno : '') }));
+window.addEventListener('unhandledrejection', e => rptAdd({ type: 'system', memo: 'Promise: ' + (e.reason && e.reason.message || e.reason) }));
+</script>
 <script>
 // ======================= 설정 =======================
 // 이 html 은 updated_viewer 폴더에 있고, 데이터 파일들은 바로 위 폴더(온라인성경)에 있다.
@@ -138,6 +194,10 @@ const BOOKS = [
  [64,'요한삼서','64_updated.json','64_compiled.json'],[65,'유다서','65_updated.json','65_compiled.json'],
  [66,'요한계시록','66_updated.json','66_compiled.json'],
 ];
+
+// 파일이 아직 없는 책도 버튼을 켜 둔다 (NN_updated.json / NN_compiled.json 을 올리면 자동으로 보인다)
+const NODATA = new Set();
+BOOKS.forEach(b => { if (!b[2]) { const nn = String(b[0]).padStart(2, '0'); b[2] = nn + '_updated.json'; b[3] = nn + '_compiled.json'; NODATA.add(b[0]); } });
 
 // ======================= 유틸 =======================
 const $ = id => document.getElementById(id);
@@ -202,7 +262,9 @@ let cur = null;                 // 지금 보는 책
 let curChapter = 1;
 
 async function getJson(path, bust) {
-    const res = await fetch(DATA_DIR + path + (bust ? '?t=' + Date.now() : ''), bust ? { cache: 'no-store' } : {});
+    const q = bust ? '?t=' + Date.now() : '', opt = bust ? { cache: 'no-store' } : {};
+    let res = await fetch(DATA_DIR + path + q, opt);
+    if (!res.ok) res = await fetch(path + q, opt);        // data/ 에 없으면 index.html 과 같은 폴더도 찾아본다
     if (!res.ok) throw new Error(path + ' (' + res.status + ')');
     return JSON.parse((await res.text()).replace(/^﻿/, ''));
 }
@@ -288,6 +350,7 @@ function verseHtml(item) {
         <div class="vnum">${esc(v.verse)}</div>
         <div class="flex-1 ${linkOn ? '' : 'nolink'}"><div class="vtext">${h}</div>${reqHtml}${cmp}</div>
         ${changed ? '<span class="text-[10px] font-bold text-amber-700 bg-amber-100 rounded-full px-2 py-0.5 h-fit mt-2 whitespace-nowrap">수정됨</span>' : ''}
+        <button class="rptbtn text-slate-300 hover:text-red-500 h-fit mt-2" title="오류 신고" data-c="${esc(v.chapter)}" data-v="${esc(v.verse)}"><i class="fa-solid fa-flag"></i></button>
     </div>`;
 }
 
@@ -328,7 +391,12 @@ async function openBook(b, bust) {
     setStatus(b[1] + ' 불러오는 중...', 'info');
     document.querySelectorAll('.bookbtn').forEach(x => x.classList.toggle('on', x.dataset.n === String(b[0])));
     try { cur = await loadBook(b, bust); }
-    catch (e) { setStatus('읽지 못했습니다: ' + e.message, 'err'); $('empty').classList.remove('hidden'); $('empty').textContent = '파일을 읽지 못했습니다: ' + e.message; return; }
+    catch (e) {
+        const msg = NODATA.has(b[0]) ? `${b[1]}: 아직 데이터 파일(${b[2]})이 없습니다.` : '파일을 읽지 못했습니다: ' + e.message;
+        setStatus(NODATA.has(b[0]) ? '데이터 없음' : '읽지 못했습니다: ' + e.message, 'err');
+        cur = null; $('bar').classList.add('hidden'); $('nav').classList.add('hidden'); $('verses').innerHTML = '';
+        $('empty').classList.remove('hidden'); $('empty').textContent = msg; return;
+    }
     $('bar').classList.remove('hidden');
     $('bookTitle').textContent = `${b[0]}. ${b[1]}`;
     const s = cur.stats;
@@ -343,7 +411,7 @@ async function openBook(b, bust) {
 
 function init() {
     const mk = (list, el) => { el.innerHTML = list.map(b =>
-        `<button class="bookbtn" data-n="${b[0]}" ${b[2] ? '' : 'disabled title="파일이 없습니다"'}>${b[1]}</button>`).join('');
+        `<button class="bookbtn" data-n="${b[0]}" ${NODATA.has(b[0]) ? 'title="데이터 파일이 아직 없습니다" style="border-style:dashed;color:#94a3b8"' : ''}>${b[1]}</button>`).join('');
         el.querySelectorAll('button').forEach(btn => btn.addEventListener('click', () => openBook(BOOKS.find(x => String(x[0]) === btn.dataset.n), false))); };
     mk(BOOKS.slice(0, 39), $('otBtns')); mk(BOOKS.slice(39), $('ntBtns'));
     if (location.protocol === 'file:') {
