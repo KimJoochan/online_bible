@@ -1,0 +1,5082 @@
+[{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e45a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e45a",
+  "book": 39,
+  "chapter": 1,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 <span style=\"color:Blue;\">ᵃ</span>"
+    },
+    {
+      "txt": "말라기",
+      "link": "60b9ffd81376e50012a0da15"
+    },
+    {
+      "txt": "로 "
+    },
+    {
+      "txt": "이스라엘",
+      "link": "60c71f046cfae70012b03764"
+    },
+    {
+      "txt": "에게 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "하신 경고라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "여호와께서 말라기로 이스라엘에게 말씀하신 경고라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "href": "/bible-forest/dictionary/60b9ffd81376e50012a0da15"
+    },
+    {
+      "start": 45,
+      "end": 48,
+      "href": "/bible-forest/dictionary/60c71f046cfae70012b03764"
+    },
+    {
+      "start": 52,
+      "end": 53,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "여호와께서 <span style=\"color:gray;\">¹</span>말라기로 이스라엘에게 말씀하신 경고라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e45b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e45b",
+  "book": 39,
+  "chapter": 1,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 "
+    },
+    {
+      "txt": "가라사대",
+      "link": "62b7209c8f55f40014219d70"
+    },
+    {
+      "txt": " 내가 너희를 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하였노라 하나 너희는 이르기를"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "께서 어떻게 우리를 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하셨나이까 하는도다 나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노라 "
+    },
+    {
+      "txt": "에서",
+      "link": "60bad1f01376e50012a0daff"
+    },
+    {
+      "txt": "는 "
+    },
+    {
+      "txt": "야곱",
+      "link": "60ba06111376e50012a0da1d"
+    },
+    {
+      "txt": "의 형이 아니냐 그러나 내가 "
+    },
+    {
+      "txt": "야곱",
+      "link": "60ba06111376e50012a0da1d"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하였고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "여호와께서 가라사대 내가 너희를 사랑하였노라 하나 너희는 이르기를 주께서 어떻게 우리를 사랑하셨나이까 하는도다 나 여호와가 말하노라 에서는 야곱의 형이 아니냐 그러나 내가 야곱을 사랑하였고",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 6,
+      "end": 9,
+      "href": "/bible-forest/dictionary/62b7209c8f55f40014219d70"
+    },
+    {
+      "start": 55,
+      "end": 56,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 73,
+      "end": 74,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 86,
+      "end": 87,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 101,
+      "end": 103,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 111,
+      "end": 112,
+      "href": "/bible-forest/dictionary/60bad1f01376e50012a0daff"
+    },
+    {
+      "start": 115,
+      "end": 116,
+      "href": "/bible-forest/dictionary/60ba06111376e50012a0da1d"
+    },
+    {
+      "start": 170,
+      "end": 171,
+      "href": "/bible-forest/dictionary/60ba06111376e50012a0da1d"
+    },
+    {
+      "start": 174,
+      "end": 175,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "여호와께서 가라사대 <span style=\"color:crimson;\">¹</span>내가 너희를 사랑하였노라 하나 너희는 이르기를 주께서 어떻게 우리를 사랑하셨나이까 하는도다 나 여호와가 말하노라 에서는 야곱의 형이 아니냐 그러나 <span style=\"color:crimson;\">²</span>내가 야곱을 사랑하였고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e45c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e45c",
+  "book": 39,
+  "chapter": 1,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "에서",
+      "link": "60bad1f01376e50012a0daff"
+    },
+    {
+      "txt": "는 미워하였으며 그의 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "산",
+      "link": "60ba1bb11376e50012a0da53"
+    },
+    {
+      "txt": "들을 황무케 하였고 그의 "
+    },
+    {
+      "txt": "산업",
+      "link": "63b8d7dd6f82e70014841a63"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "광야",
+      "link": "60bb7eed1376e50012a0db57"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "시랑",
+      "link": "63bcf2e26f82e70014841af9"
+    },
+    {
+      "txt": "에게 붙였느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "에서는 미워하였으며 그의 산들을 황무케 하였고 그의 산업을 광야의 시랑에게 붙였느니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/60bad1f01376e50012a0daff"
+    },
+    {
+      "start": 51,
+      "end": 51,
+      "href": "/bible-forest/dictionary/60ba1bb11376e50012a0da53"
+    },
+    {
+      "start": 66,
+      "end": 67,
+      "href": "/bible-forest/dictionary/63b8d7dd6f82e70014841a63"
+    },
+    {
+      "start": 70,
+      "end": 71,
+      "href": "/bible-forest/dictionary/60bb7eed1376e50012a0db57"
+    },
+    {
+      "start": 74,
+      "end": 75,
+      "href": "/bible-forest/dictionary/63bcf2e26f82e70014841af9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "에서는 미워하였으며 그의 <span style=\"color:crimson;\">¹</span>산들을 황무케 하였고 그의 산업을 광야의 시랑에게 붙였느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e45d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e45d",
+  "book": 39,
+  "chapter": 1,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "에돔",
+      "link": "613f12f7e8113c001ae0b55b"
+    },
+    {
+      "txt": "은 말하기를 우리가 <span style=\"color:Blue;\">ᵇ</span>무너뜨림을 당하였으나 황페된 곳을 다시 쌓으리라 하거니와 나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "는 이르노라 그들은 쌓을지라도 나는 헐리라 사람들이 그들을 일컬어 악한 "
+    },
+    {
+      "txt": "지경",
+      "link": "648dd2c78d26fb001388018f"
+    },
+    {
+      "txt": "이라 할 것이요 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 영영한 "
+    },
+    {
+      "txt": "진노",
+      "link": "648a5cabba956c0013dc17bd"
+    },
+    {
+      "txt": "를 받은 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "이라 할 것이며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "에돔은 말하기를 우리가 무너뜨림을 당하였으나 황페된 곳을 다시 쌓으리라 하거니와 나 만군의 여호와는 이르노라 그들은 쌓을지라도 나는 헐리라 사람들이 그들을 일컬어 악한 지경이라 할 것이요 여호와의 영영한 진노를 받은 백성이라 할 것이며",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/613f12f7e8113c001ae0b55b"
+    },
+    {
+      "start": 85,
+      "end": 87,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 128,
+      "end": 129,
+      "href": "/bible-forest/dictionary/648dd2c78d26fb001388018f"
+    },
+    {
+      "start": 139,
+      "end": 141,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 148,
+      "end": 149,
+      "href": "/bible-forest/dictionary/648a5cabba956c0013dc17bd"
+    },
+    {
+      "start": 155,
+      "end": 156,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "에돔은 말하기를 우리가 <span style=\"color:gray;\">²</span>무너뜨림을 당하였으나 황폐된 곳을 다시 쌓으리라 하거니와 나 만군의 여호와는 이르노라 그들은 쌓을찌라도 나는 헐리라 사람들이 그들을 일컬어 악한 지경이라 할 것이요 여호와의 영영한 진노를 받은 백성이라 할 것이며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e45e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e45e",
+  "book": 39,
+  "chapter": 1,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "너희는 목도하고 이르기를 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서는 "
+    },
+    {
+      "txt": "이스라엘",
+      "link": "60c71f046cfae70012b03764"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "지경",
+      "link": "648dd2c78d26fb001388018f"
+    },
+    {
+      "txt": " 밖에서 크시다 하리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희는 목도하고 이르기를 여호와께서는 이스라엘 지경 밖에서 크시다 하리라",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 16,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 21,
+      "end": 24,
+      "href": "/bible-forest/dictionary/60c71f046cfae70012b03764"
+    },
+    {
+      "start": 26,
+      "end": 27,
+      "href": "/bible-forest/dictionary/648dd2c78d26fb001388018f"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희는 목도하고 이르기를 여호와께서는 이스라엘 지경 밖에서 크시다 하리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e45f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e45f",
+  "book": 39,
+  "chapter": 1,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "내 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "을 멸시하는 "
+    },
+    {
+      "txt": "제사장",
+      "link": "60ba18a41376e50012a0da36"
+    },
+    {
+      "txt": "들아 나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 너희에게 이르기를 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": "은 그 아비를, "
+    },
+    {
+      "txt": "종",
+      "link": "62296a218f55f40014219934"
+    },
+    {
+      "txt": "은 그 "
+    },
+    {
+      "txt": "주인",
+      "link": "64676ca8ba956c0013dc1468"
+    },
+    {
+      "txt": "을 공경하나니 내가 아비일진대 나를 공경함이 어디 있느냐 내가 "
+    },
+    {
+      "txt": "주인",
+      "link": "64676ca8ba956c0013dc1468"
+    },
+    {
+      "txt": "일진대 나를 두려워함이 어디 있느냐 하나 너희는 이르기를 우리가 어떻게"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "을 멸시하였나이까 하는도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "내 이름을 멸시하는 제사장들아 나 만군의 여호와가 너희에게 이르기를 아들은 그 아비를, 종은 그 주인을 공경하나니 내가 아비일진대 나를 공경함이 어디 있느냐 내가 주인일진대 나를 두려워함이 어디 있느냐 하나 너희는 이르기를 우리가 어떻게 주의 이름을 멸시하였나이까 하는도다",
+  "link_pos": [
+    {
+      "start": 2,
+      "end": 3,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "href": "/bible-forest/dictionary/60ba18a41376e50012a0da36"
+    },
+    {
+      "start": 23,
+      "end": 25,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 38,
+      "end": 39,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 49,
+      "end": 49,
+      "href": "/bible-forest/dictionary/62296a218f55f40014219934"
+    },
+    {
+      "start": 54,
+      "end": 55,
+      "href": "/bible-forest/dictionary/64676ca8ba956c0013dc1468"
+    },
+    {
+      "start": 91,
+      "end": 92,
+      "href": "/bible-forest/dictionary/64676ca8ba956c0013dc1468"
+    },
+    {
+      "start": 132,
+      "end": 133,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 136,
+      "end": 137,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "내 이름을 멸시하는 제사장들아 나 만군의 여호와가 너희에게 이르기를 아들은 그 아비를, 종은 그 주인을 공경하나니 내가 아비일찐대 나를 공경함이 어디 있느냐 내가 주인일찐대 나를 두려워함이 어디 있느냐 하나 너희는 이르기를 우리가 어떻게 주의 이름을 멸시하였나이까 하는도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e460"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e460",
+  "book": 39,
+  "chapter": 1,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "너희가 더러운 떡을 나의 "
+    },
+    {
+      "txt": "단",
+      "link": "6493051d8d26fb00138801e5"
+    },
+    {
+      "txt": "에 드리고도 말하기를 우리가 어떻게"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "를 더럽게 하였나이까 하는도다 이는 너희가"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "상",
+      "link": "63df94ef155c55001474f5d4"
+    },
+    {
+      "txt": "은 경멸히 여길 것이라 말함을 인함이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 더러운 떡을 나의 단에 드리고도 말하기를 우리가 어떻게 주를 더럽게 하였나이까 하는도다 이는 너희가 주의 상은 경멸히 여길 것이라 말함을 인함이니라",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 14,
+      "href": "/bible-forest/dictionary/6493051d8d26fb00138801e5"
+    },
+    {
+      "start": 34,
+      "end": 35,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 97,
+      "end": 97,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 100,
+      "end": 100,
+      "href": "/bible-forest/dictionary/63df94ef155c55001474f5d4"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 더러운 떡을 나의 단에 드리고도 말하기를 우리가 어떻게 주를 더럽게 하였나이까 하는도다 이는 너희가 <span style=\"color:crimson;\">¹</span>주의 상은 경멸히 여길 것이라 말함을 인함이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e461"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e461",
+  "book": 39,
+  "chapter": 1,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 너희가 "
+    },
+    {
+      "txt": "눈",
+      "link": "6303655bf7b0360013928f6b"
+    },
+    {
+      "txt": " 먼 "
+    },
+    {
+      "txt": "희생",
+      "link": "648286dbba956c0013dc1721"
+    },
+    {
+      "txt": "으로 드리는 것이 어찌 악하지 아니하며 저는 것, "
+    },
+    {
+      "txt": "병든",
+      "link": "63aa79986f82e70014841921"
+    },
+    {
+      "txt": " 것으로 드리는 것이 어찌 악하지 아니하냐 이제 그것을 너희 총독에게 드려보라 그가 너를 기뻐하겠느냐 너를 가납하겠느냐"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 너희가 눈 먼 희생으로 드리는 것이 어찌 악하지 아니하며 저는 것, 병든 것으로 드리는 것이 어찌 악하지 아니하냐 이제 그것을 너희 총독에게 드려보라 그가 너를 기뻐하겠느냐 너를 가납하겠느냐",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 55,
+      "end": 55,
+      "href": "/bible-forest/dictionary/6303655bf7b0360013928f6b"
+    },
+    {
+      "start": 59,
+      "end": 60,
+      "href": "/bible-forest/dictionary/648286dbba956c0013dc1721"
+    },
+    {
+      "start": 89,
+      "end": 90,
+      "href": "/bible-forest/dictionary/63aa79986f82e70014841921"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 <span style=\"color:crimson;\">¹</span>너희가 눈 먼 희생으로 드리는 것이 어찌 악하지 아니하며 저는 것, 병든 것으로 드리는 것이 어찌 악하지 아니하냐 이제 그것을 너희 총독에게 드려보라 그가 너를 기뻐하겠느냐 너를 가납하겠느냐",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e462"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e462",
+  "book": 39,
+  "chapter": 1,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 너희는 나 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "께 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "를 구하기를 우리를 "
+    },
+    {
+      "txt": "긍휼",
+      "link": "62425d4b8f55f400142199d0"
+    },
+    {
+      "txt": "히 여기소서 하여 "
+    },
+    {
+      "txt": "보라",
+      "link": "63c806686f82e70014841c8d"
+    },
+    {
+      "txt": " 너희가 이같이 행하였으니 내가 너희 중 하나인들 받겠느냐"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 너희는 나 하나님께 은혜를 구하기를 우리를 긍휼히 여기소서 하여 보라 너희가 이같이 행하였으니 내가 너희 중 하나인들 받겠느냐",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 20,
+      "end": 22,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 25,
+      "end": 26,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    },
+    {
+      "start": 38,
+      "end": 39,
+      "href": "/bible-forest/dictionary/62425d4b8f55f400142199d0"
+    },
+    {
+      "start": 50,
+      "end": 51,
+      "href": "/bible-forest/dictionary/63c806686f82e70014841c8d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 너희는 나 하나님께 은혜를 구하기를 우리를 긍휼히 여기소서 하여 보라 너희가 이같이 행하였으니 <span style=\"color:crimson;\">¹</span>내가 너희 중 하나인들 받겠느냐",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e463"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e463",
+  "book": 39,
+  "chapter": 1,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 너희가 내 "
+    },
+    {
+      "txt": "단",
+      "link": "6493051d8d26fb00138801e5"
+    },
+    {
+      "txt": " 위에 헛되이 "
+    },
+    {
+      "txt": "불",
+      "link": "633d78296f82e7001484127a"
+    },
+    {
+      "txt": " 사르지 못하게 하기 위하여 너희 중에 "
+    },
+    {
+      "txt": "성전",
+      "link": "61adff2e3b8fc5001467adb2"
+    },
+    {
+      "txt": " 문을 닫을 자가 있었으면 좋겠도다 내가 너희를 기뻐하지 아니하며 너희 "
+    },
+    {
+      "txt": "손",
+      "link": "63c817386f82e70014841c9d"
+    },
+    {
+      "txt": "으로 드리는 것을 받지도 아니하리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 너희가 내 단 위에 헛되이 불 사르지 못하게 하기 위하여 너희 중에 성전 문을 닫을 자가 있었으면 좋겠도다 내가 너희를 기뻐하지 아니하며 너희 손으로 드리는 것을 받지도 아니하리라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 57,
+      "end": 57,
+      "href": "/bible-forest/dictionary/6493051d8d26fb00138801e5"
+    },
+    {
+      "start": 66,
+      "end": 66,
+      "href": "/bible-forest/dictionary/633d78296f82e7001484127a"
+    },
+    {
+      "start": 89,
+      "end": 90,
+      "href": "/bible-forest/dictionary/61adff2e3b8fc5001467adb2"
+    },
+    {
+      "start": 131,
+      "end": 131,
+      "href": "/bible-forest/dictionary/63c817386f82e70014841c9d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 <span style=\"color:crimson;\">¹</span>너희가 내 단 위에 헛되이 불 사르지 못하게 하기 위하여 너희 중에 성전 문을 닫을 자가 있었으면 좋겠도다 내가 너희를 기뻐하지 아니하며 너희 손으로 드리는 것을 받지도 아니하리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e464"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e464",
+  "book": 39,
+  "chapter": 1,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 해 뜨는 곳에서부터 해 지는 곳까지의 "
+    },
+    {
+      "txt": "이방",
+      "link": "61b2f8a93b8fc5001467ade2"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "민족",
+      "link": "6384a1fe6f82e7001484160c"
+    },
+    {
+      "txt": " 중에서 내 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "이 크게 될 것이라 각처에서 내 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "을 위하여 분향하며 깨끗한 "
+    },
+    {
+      "txt": "제물",
+      "link": "64625a15ba956c0013dc13fa"
+    },
+    {
+      "txt": "을 드리리니 이는 내 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "이방",
+      "link": "61b2f8a93b8fc5001467ade2"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "민족",
+      "link": "6384a1fe6f82e7001484160c"
+    },
+    {
+      "txt": " 중에서 크게 될 것임이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 해 뜨는 곳에서부터 해 지는 곳까지의 이방 민족 중에서 내 이름이 크게 될 것이라 각처에서 내 이름을 위하여 분향하며 깨끗한 제물을 드리리니 이는 내 이름이 이방 민족 중에서 크게 될 것임이니라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 35,
+      "end": 36,
+      "href": "/bible-forest/dictionary/61b2f8a93b8fc5001467ade2"
+    },
+    {
+      "start": 38,
+      "end": 39,
+      "href": "/bible-forest/dictionary/6384a1fe6f82e7001484160c"
+    },
+    {
+      "start": 84,
+      "end": 85,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 141,
+      "end": 142,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 158,
+      "end": 159,
+      "href": "/bible-forest/dictionary/64625a15ba956c0013dc13fa"
+    },
+    {
+      "start": 172,
+      "end": 173,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 176,
+      "end": 177,
+      "href": "/bible-forest/dictionary/61b2f8a93b8fc5001467ade2"
+    },
+    {
+      "start": 179,
+      "end": 180,
+      "href": "/bible-forest/dictionary/6384a1fe6f82e7001484160c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 해 뜨는 곳에서부터 해 지는 곳까지의 이방 민족 중에서 <span style=\"color:crimson;\">¹</span>내 이름이 크게 될 것이라 <span style=\"color:crimson;\">²</span>각처에서 내 이름을 위하여 분향하며 깨끗한 제물을 드리리니 이는 내 이름이 이방 민족 중에서 크게 될 것임이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e465"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e465",
+  "book": 39,
+  "chapter": 1,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "그러나 너희는 말하기를 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "상",
+      "link": "63df94ef155c55001474f5d4"
+    },
+    {
+      "txt": "은 더러웠고 그 위에 있는 실과 곧 "
+    },
+    {
+      "txt": "식물",
+      "link": "63d799ca71ef9d001487b57e"
+    },
+    {
+      "txt": "은 경멸히 여길 것이라 하여 내 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "을 더럽히는도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러나 너희는 말하기를 여호와의 상은 더러웠고 그 위에 있는 실과 곧 식물은 경멸히 여길 것이라 하여 내 이름을 더럽히는도다",
+  "link_pos": [
+    {
+      "start": 13,
+      "end": 15,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 18,
+      "end": 18,
+      "href": "/bible-forest/dictionary/63df94ef155c55001474f5d4"
+    },
+    {
+      "start": 39,
+      "end": 40,
+      "href": "/bible-forest/dictionary/63d799ca71ef9d001487b57e"
+    },
+    {
+      "start": 59,
+      "end": 60,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러나 너희는 말하기를 여호와의 상은 더러웠고 그 위에 있는 실과 곧 식물은 경멸히 여길 것이라 하여 내 이름을 더럽히는도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e466"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e466",
+  "book": 39,
+  "chapter": 1,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 너희가 또 말하기를 이 일이 얼마나 "
+    },
+    {
+      "txt": "번폐",
+      "link": "63a878966f82e700148418fd"
+    },
+    {
+      "txt": "스러운고 하며 "
+    },
+    {
+      "txt": "코웃음",
+      "link": "6470ba29ba956c0013dc1529"
+    },
+    {
+      "txt": "하고 "
+    },
+    {
+      "txt": "토색",
+      "link": "64785fa4ba956c0013dc15f7"
+    },
+    {
+      "txt": "한 물건과 저는 것, "
+    },
+    {
+      "txt": "병든",
+      "link": "63aa79986f82e70014841921"
+    },
+    {
+      "txt": " 것을 가져왔느니라 너희가 이같이 "
+    },
+    {
+      "txt": "헌물",
+      "link": "6488a6bcba956c0013dc17ab"
+    },
+    {
+      "txt": "을 가져오니 내가 그것을 너희 "
+    },
+    {
+      "txt": "손",
+      "link": "63c817386f82e70014841c9d"
+    },
+    {
+      "txt": "에서 받겠느냐 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 너희가 또 말하기를 이 일이 얼마나 번폐스러운고 하며 코웃음하고 토색한 물건과 저는 것, 병든 것을 가져왔느니라 너희가 이같이 헌물을 가져오니 내가 그것을 너희 손에서 받겠느냐 여호와의 말이니라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 34,
+      "end": 35,
+      "href": "/bible-forest/dictionary/63a878966f82e700148418fd"
+    },
+    {
+      "start": 44,
+      "end": 46,
+      "href": "/bible-forest/dictionary/6470ba29ba956c0013dc1529"
+    },
+    {
+      "start": 50,
+      "end": 51,
+      "href": "/bible-forest/dictionary/64785fa4ba956c0013dc15f7"
+    },
+    {
+      "start": 64,
+      "end": 65,
+      "href": "/bible-forest/dictionary/63aa79986f82e70014841921"
+    },
+    {
+      "start": 85,
+      "end": 86,
+      "href": "/bible-forest/dictionary/6488a6bcba956c0013dc17ab"
+    },
+    {
+      "start": 104,
+      "end": 104,
+      "href": "/bible-forest/dictionary/63c817386f82e70014841c9d"
+    },
+    {
+      "start": 113,
+      "end": 115,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 너희가 또 말하기를 이 일이 얼마나 번폐스러운고 하며 코웃음하고 토색한 물건과 저는 것, 병든 것을 가져왔느니라 너희가 이같이 헌물을 가져오니 내가 그것을 너희 손에서 받겠느냐 여호와의 말이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e467"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e467",
+  "book": 39,
+  "chapter": 1,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "떼 가운데 수컷이 있거늘 그 "
+    },
+    {
+      "txt": "서원",
+      "link": "618a988bc5894b001b8c5c2b"
+    },
+    {
+      "txt": "하는 일에 흠있는 것으로 사기하여 내게 드리는 자는 "
+    },
+    {
+      "txt": "저주",
+      "link": "6459efebba956c0013dc1364"
+    },
+    {
+      "txt": "를 받으리니 나는 큰 "
+    },
+    {
+      "txt": "임금",
+      "link": "60ba1f021376e50012a0da62"
+    },
+    {
+      "txt": "이요 내 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "열방",
+      "link": "63f0fc75155c55001474f7a9"
+    },
+    {
+      "txt": " 중에서 두려워하는 것이 됨이니라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "떼 가운데 수컷이 있거늘 그 서원하는 일에 흠있는 것으로 사기하여 내게 드리는 자는 저주를 받으리니 나는 큰 임금이요 내 이름은 열방 중에서 두려워하는 것이 됨이니라 만군의 여호와의 말이니라",
+  "link_pos": [
+    {
+      "start": 53,
+      "end": 54,
+      "href": "/bible-forest/dictionary/618a988bc5894b001b8c5c2b"
+    },
+    {
+      "start": 85,
+      "end": 86,
+      "href": "/bible-forest/dictionary/6459efebba956c0013dc1364"
+    },
+    {
+      "start": 99,
+      "end": 100,
+      "href": "/bible-forest/dictionary/60ba1f021376e50012a0da62"
+    },
+    {
+      "start": 106,
+      "end": 107,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 110,
+      "end": 111,
+      "href": "/bible-forest/dictionary/63f0fc75155c55001474f7a9"
+    },
+    {
+      "start": 135,
+      "end": 137,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "떼 가운데 <span style=\"color:crimson;\">¹</span>수컷이 있거늘 그 서원하는 일에 흠 있는 것으로 사기하여 내게 드리는 자는 저주를 받으리니 나는 큰 임금이요 내 이름은 열방 중에서 두려워하는 것이 됨이니라 만군의 여호와의 말이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e468"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e468",
+  "book": 39,
+  "chapter": 2,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "너의 "
+    },
+    {
+      "txt": "제사장",
+      "link": "60ba18a41376e50012a0da36"
+    },
+    {
+      "txt": "들아 이제 너희에게 이같이 명령하노라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너의 제사장들아 이제 너희에게 이같이 명령하노라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 5,
+      "href": "/bible-forest/dictionary/60ba18a41376e50012a0da36"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 제사장들아 이제 너희에게 이같이 명령하노라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e469"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e469",
+  "book": 39,
+  "chapter": 2,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 너희가 만일 듣지 아니하며 마음에 두지 아니하여 내 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "영화",
+      "link": "63f8c95b155c55001474f8e2"
+    },
+    {
+      "txt": "롭게 하지 아니하면 내가 너희에게 "
+    },
+    {
+      "txt": "저주",
+      "link": "6459efebba956c0013dc1364"
+    },
+    {
+      "txt": "를 내려 너희의 "
+    },
+    {
+      "txt": "복",
+      "link": "60bc526a1376e50012a0db6a"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "저주"
+    },
+    {
+      "txt": "하리라 내가 이미 "
+    },
+    {
+      "txt": "저주"
+    },
+    {
+      "txt": "하였나니 이는 너희가 그것을 마음에 두지 아니하였음이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 너희가 만일 듣지 아니하며 마음에 두지 아니하여 내 이름을 영화롭게 하지 아니하면 내가 너희에게 저주를 내려 너희의 복을 저주하리라 내가 이미 저주하였나니 이는 너희가 그것을 마음에 두지 아니하였음이니라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 80,
+      "end": 81,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 84,
+      "end": 85,
+      "href": "/bible-forest/dictionary/63f8c95b155c55001474f8e2"
+    },
+    {
+      "start": 105,
+      "end": 106,
+      "href": "/bible-forest/dictionary/6459efebba956c0013dc1364"
+    },
+    {
+      "start": 116,
+      "end": 116,
+      "href": "/bible-forest/dictionary/60bc526a1376e50012a0db6a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 <span style=\"color:crimson;\">¹</span>너희가 만일 듣지 아니하며 마음에 두지 아니하여 내 이름을 영화롭게 하지 아니하면 내가 너희에게 저주를 내려 너희의 복을 저주하리라 내가 이미 저주하였나니 이는 너희가 그것을 마음에 두지 아니하였음이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e46a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e46a",
+  "book": 39,
+  "chapter": 2,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "보라",
+      "link": "63c806686f82e70014841c8d"
+    },
+    {
+      "txt": " 내가 너희의 "
+    },
+    {
+      "txt": "종자",
+      "link": "64663eaaba956c0013dc143d"
+    },
+    {
+      "txt": "를 견책할 것이요 똥 곧 너희 "
+    },
+    {
+      "txt": "절기",
+      "link": "623981e18f55f4001421997f"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "희생",
+      "link": "648286dbba956c0013dc1721"
+    },
+    {
+      "txt": "의 똥을 너희 얼굴에 바를 것이라 너희가 그것과 함께 제하여 버림을 당하리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "보라 내가 너희의 종자를 견책할 것이요 똥 곧 너희 절기의 희생의 똥을 너희 얼굴에 바를 것이라 너희가 그것과 함께 제하여 버림을 당하리라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/63c806686f82e70014841c8d"
+    },
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/64663eaaba956c0013dc143d"
+    },
+    {
+      "start": 29,
+      "end": 30,
+      "href": "/bible-forest/dictionary/623981e18f55f4001421997f"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/648286dbba956c0013dc1721"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "보라 내가 너희의 종자를 견책할 것이요 똥 곧 너희 절기의 희생의 똥을 너희 얼굴에 바를 것이라 너희가 그것과 함께 제하여 버림을 당하리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e46b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e46b",
+  "book": 39,
+  "chapter": 2,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 내가 이 명령을 너희에게 내린 것은 "
+    },
+    {
+      "txt": "레위",
+      "link": "6121eb5ee8113c001ae0b4b1"
+    },
+    {
+      "txt": "와 세운 나의 "
+    },
+    {
+      "txt": "언약",
+      "link": "618a96f1c5894b001b8c5c28"
+    },
+    {
+      "txt": "이 항상 있게 하려 함인 줄을 너희가 알리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 내가 이 명령을 너희에게 내린 것은 레위와 세운 나의 언약이 항상 있게 하려 함인 줄을 너희가 알리라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 34,
+      "end": 35,
+      "href": "/bible-forest/dictionary/6121eb5ee8113c001ae0b4b1"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "href": "/bible-forest/dictionary/618a96f1c5894b001b8c5c28"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 내가 이 명령을 너희에게 내린 것은 레위와 세운 나의 언약이 항상 있게 하려 함인줄을 너희가 알리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e46c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e46c",
+  "book": 39,
+  "chapter": 2,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "레위",
+      "link": "6121eb5ee8113c001ae0b4b1"
+    },
+    {
+      "txt": "와 세운 나의 "
+    },
+    {
+      "txt": "언약",
+      "link": "618a96f1c5894b001b8c5c28"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "생명",
+      "link": "60bed2721376e50012a0dbd1"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "평강",
+      "link": "648853c9ba956c0013dc1797"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "언약",
+      "link": "618a96f1c5894b001b8c5c28"
+    },
+    {
+      "txt": "이라 내가 이것으로 그에게 준 것은 그로 "
+    },
+    {
+      "txt": "경외",
+      "link": "62a88a908f55f40014219c49"
+    },
+    {
+      "txt": "하게 하려 함이라 그가 나를 "
+    },
+    {
+      "txt": "경외",
+      "link": "62a88a908f55f40014219c49"
+    },
+    {
+      "txt": "하고 내 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "을 두려워하였으며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "레위와 세운 나의 언약은 생명과 평강의 언약이라 내가 이것으로 그에게 준 것은 그로 경외하게 하려 함이라 그가 나를 경외하고 내 이름을 두려워하였으며",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/6121eb5ee8113c001ae0b4b1"
+    },
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/618a96f1c5894b001b8c5c28"
+    },
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/60bed2721376e50012a0dbd1"
+    },
+    {
+      "start": 18,
+      "end": 19,
+      "href": "/bible-forest/dictionary/648853c9ba956c0013dc1797"
+    },
+    {
+      "start": 22,
+      "end": 23,
+      "href": "/bible-forest/dictionary/618a96f1c5894b001b8c5c28"
+    },
+    {
+      "start": 47,
+      "end": 48,
+      "href": "/bible-forest/dictionary/62a88a908f55f40014219c49"
+    },
+    {
+      "start": 65,
+      "end": 66,
+      "href": "/bible-forest/dictionary/62a88a908f55f40014219c49"
+    },
+    {
+      "start": 72,
+      "end": 73,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "레위와 세운 나의 언약은 생명과 평강의 언약이라 내가 이것으로 그에게 준 것은 그로 경외하게 하려 함이라 그가 나를 경외하고 내 이름을 두려워하였으며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e46d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e46d",
+  "book": 39,
+  "chapter": 2,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "그 <span style=\"color:crimson;\">¹</span>입에는 "
+    },
+    {
+      "txt": "진리",
+      "link": "623b38358f55f40014219991"
+    },
+    {
+      "txt": "의 법이 있었고 그 "
+    },
+    {
+      "txt": "입술",
+      "link": "640cb612050c7b001378e834"
+    },
+    {
+      "txt": "에는 "
+    },
+    {
+      "txt": "불의",
+      "link": "63a704336f82e7001484186f"
+    },
+    {
+      "txt": "함이 없었으며 그가 "
+    },
+    {
+      "txt": "화평",
+      "link": "621cd9b38f55f400142198f8"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "정직",
+      "link": "646f9250ba956c0013dc1520"
+    },
+    {
+      "txt": "한 중에서 나와 동행하며 많은 사람을 돌이켜 죄악에서 떠나게 하였느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그 입에는 진리의 법이 있었고 그 입술에는 불의함이 없었으며 그가 화평과 정직한 중에서 나와 동행하며 많은 사람을 돌이켜 죄악에서 떠나게 하였느니라",
+  "link_pos": [
+    {
+      "start": 43,
+      "end": 44,
+      "href": "/bible-forest/dictionary/623b38358f55f40014219991"
+    },
+    {
+      "start": 56,
+      "end": 57,
+      "href": "/bible-forest/dictionary/640cb612050c7b001378e834"
+    },
+    {
+      "start": 61,
+      "end": 62,
+      "href": "/bible-forest/dictionary/63a704336f82e7001484186f"
+    },
+    {
+      "start": 74,
+      "end": 75,
+      "href": "/bible-forest/dictionary/621cd9b38f55f400142198f8"
+    },
+    {
+      "start": 78,
+      "end": 79,
+      "href": "/bible-forest/dictionary/646f9250ba956c0013dc1520"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그 <span style=\"color:crimson;\">¹</span>입에는 진리의 법이 있었고 그 입술에는 불의함이 없었으며 그가 화평과 정직한 중에서 나와 동행하며 많은 사람을 돌이켜 죄악에서 떠나게 하였느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e46e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e46e",
+  "book": 39,
+  "chapter": 2,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "대저 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "제사장",
+      "link": "60ba18a41376e50012a0da36"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "입술",
+      "link": "640cb612050c7b001378e834"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "지식",
+      "link": "6492fce98d26fb00138801e4"
+    },
+    {
+      "txt": "을 지켜야 하겠고 사람들이 그 입에서 "
+    },
+    {
+      "txt": "율법",
+      "link": "6155b133fca7a4001a586e18"
+    },
+    {
+      "txt": "을 구하게 되어야 할 것이니 "
+    },
+    {
+      "txt": "제사장",
+      "link": "60ba18a41376e50012a0da36"
+    },
+    {
+      "txt": "은 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "사자",
+      "link": "63b43c246f82e700148419f9"
+    },
+    {
+      "txt": "가 됨이어늘"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "대저 제사장의 입술은 지식을 지켜야 하겠고 사람들이 그 입에서 율법을 구하게 되어야 할 것이니 제사장은 만군의 여호와의 사자가 됨이어늘",
+  "link_pos": [
+    {
+      "start": 40,
+      "end": 42,
+      "href": "/bible-forest/dictionary/60ba18a41376e50012a0da36"
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "href": "/bible-forest/dictionary/640cb612050c7b001378e834"
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "href": "/bible-forest/dictionary/6492fce98d26fb00138801e4"
+    },
+    {
+      "start": 72,
+      "end": 73,
+      "href": "/bible-forest/dictionary/6155b133fca7a4001a586e18"
+    },
+    {
+      "start": 90,
+      "end": 92,
+      "href": "/bible-forest/dictionary/60ba18a41376e50012a0da36"
+    },
+    {
+      "start": 99,
+      "end": 101,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 104,
+      "end": 105,
+      "href": "/bible-forest/dictionary/63b43c246f82e700148419f9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "대저 <span style=\"color:crimson;\">¹</span>제사장의 입술은 지식을 지켜야 하겠고 사람들이 그 입에서 율법을 구하게 되어야 할 것이니 제사장은 만군의 여호와의 사자가 됨이어늘",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e46f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e46f",
+  "book": 39,
+  "chapter": 2,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "너희는 정도에서 떠나 많은 사람으로 "
+    },
+    {
+      "txt": "율법",
+      "link": "6155b133fca7a4001a586e18"
+    },
+    {
+      "txt": "에 거치게 하도다 나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노니 너희가 "
+    },
+    {
+      "txt": "레위",
+      "link": "6121eb5ee8113c001ae0b4b1"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "언약",
+      "link": "618a96f1c5894b001b8c5c28"
+    },
+    {
+      "txt": "을 파하였느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희는 정도에서 떠나 많은 사람으로 율법에 거치게 하도다 나 만군의 여호와가 이르노니 너희가 레위의 언약을 파하였느니라",
+  "link_pos": [
+    {
+      "start": 20,
+      "end": 21,
+      "href": "/bible-forest/dictionary/6155b133fca7a4001a586e18"
+    },
+    {
+      "start": 38,
+      "end": 40,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 52,
+      "end": 53,
+      "href": "/bible-forest/dictionary/6121eb5ee8113c001ae0b4b1"
+    },
+    {
+      "start": 56,
+      "end": 57,
+      "href": "/bible-forest/dictionary/618a96f1c5894b001b8c5c28"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희는 정도에서 떠나 많은 사람으로 율법에 거치게 하도다 나 만군의 여호와가 이르노니 너희가 레위의 언약을 파하였느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e470"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e470",
+  "book": 39,
+  "chapter": 2,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "너희가 내 도를 지키지 아니하고 "
+    },
+    {
+      "txt": "율법",
+      "link": "6155b133fca7a4001a586e18"
+    },
+    {
+      "txt": "을 행할 때에 사람에게 "
+    },
+    {
+      "txt": "편벽",
+      "link": "647d9a8aba956c0013dc16d3"
+    },
+    {
+      "txt": "되이 하였으므로 나도 너희로 모든 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": " 앞에 멸시와 "
+    },
+    {
+      "txt": "천",
+      "link": "64f00518b2756c0013086ee9"
+    },
+    {
+      "txt": "대를 당하게 하였느니라 하시니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 내 도를 지키지 아니하고 율법을 행할 때에 사람에게 편벽되이 하였으므로 나도 너희로 모든 백성 앞에 멸시와 천대를 당하게 하였느니라 하시니라",
+  "link_pos": [
+    {
+      "start": 18,
+      "end": 19,
+      "href": "/bible-forest/dictionary/6155b133fca7a4001a586e18"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/647d9a8aba956c0013dc16d3"
+    },
+    {
+      "start": 54,
+      "end": 55,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 64,
+      "end": 64,
+      "href": "/bible-forest/dictionary/64f00518b2756c0013086ee9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 내 도를 지키지 아니하고 율법을 행할 때에 사람에게 편벽되이 하였으므로 나도 너희로 모든 백성 앞에 멸시와 천대를 당하게 하였느니라 하시니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e471"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e471",
+  "book": 39,
+  "chapter": 2,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "우리는 <span style=\"color:crimson;\">¹</span>한 아버지를 가지지 아니하였느냐 한 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 지으신 바가 아니냐 어찌하여 우리 각 사람이 자기 형제에게 궤사를 행하여 우리 "
+    },
+    {
+      "txt": "열조",
+      "link": "640719ffcc90a400169b203f"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "언약",
+      "link": "618a96f1c5894b001b8c5c28"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "욕",
+      "link": "640da876050c7b001378e870"
+    },
+    {
+      "txt": "되게 하느냐"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "우리는 한 아버지를 가지지 아니하였느냐 한 하나님의 지으신 바가 아니냐 어찌하여 우리 각 사람이 자기 형제에게 궤사를 행하여 우리 열조의 언약을 욕되게 하느냐",
+  "link_pos": [
+    {
+      "start": 61,
+      "end": 63,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 110,
+      "end": 111,
+      "href": "/bible-forest/dictionary/640719ffcc90a400169b203f"
+    },
+    {
+      "start": 114,
+      "end": 115,
+      "href": "/bible-forest/dictionary/618a96f1c5894b001b8c5c28"
+    },
+    {
+      "start": 118,
+      "end": 118,
+      "href": "/bible-forest/dictionary/640da876050c7b001378e870"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "우리는 <span style=\"color:crimson;\">¹</span>한 아버지를 가지지 아니하였느냐 한 하나님의 지으신 바가 아니냐 어찌하여 우리 각 사람이 자기 형제에게 궤사를 행하여 우리 열조의 언약을 욕되게 하느냐",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e472"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e472",
+  "book": 39,
+  "chapter": 2,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "유다",
+      "link": "618772baab886400139a72d3"
+    },
+    {
+      "txt": "는 궤사를 행하였고 "
+    },
+    {
+      "txt": "이스라엘",
+      "link": "60c71f046cfae70012b03764"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "예루살렘",
+      "link": "60e5376bd73fa40012bc3bcd"
+    },
+    {
+      "txt": " 중에서는 "
+    },
+    {
+      "txt": "가증",
+      "link": "6243e2d48f55f400142199d8"
+    },
+    {
+      "txt": "한 일을 행하였으며 "
+    },
+    {
+      "txt": "유다",
+      "link": "618772baab886400139a72d3"
+    },
+    {
+      "txt": "는 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하시는 그 <span style=\"color:Blue;\">ᵃ</span>"
+    },
+    {
+      "txt": "성결",
+      "link": "63e711cc155c55001474f664"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "욕",
+      "link": "640da876050c7b001378e870"
+    },
+    {
+      "txt": "되게 하여 "
+    },
+    {
+      "txt": "이방",
+      "link": "61b2f8a93b8fc5001467ade2"
+    },
+    {
+      "txt": " 신의 딸과 "
+    },
+    {
+      "txt": "결혼",
+      "link": "61794f11e3f64e001584f4b7"
+    },
+    {
+      "txt": "하였으니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "유다는 궤사를 행하였고 이스라엘과 예루살렘 중에서는 가증한 일을 행하였으며 유다는 여호와의 사랑하시는 그 성결을 욕되게 하여 이방 신의 딸과 결혼하였으니",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/618772baab886400139a72d3"
+    },
+    {
+      "start": 13,
+      "end": 16,
+      "href": "/bible-forest/dictionary/60c71f046cfae70012b03764"
+    },
+    {
+      "start": 19,
+      "end": 22,
+      "href": "/bible-forest/dictionary/60e5376bd73fa40012bc3bcd"
+    },
+    {
+      "start": 29,
+      "end": 30,
+      "href": "/bible-forest/dictionary/6243e2d48f55f400142199d8"
+    },
+    {
+      "start": 42,
+      "end": 43,
+      "href": "/bible-forest/dictionary/618772baab886400139a72d3"
+    },
+    {
+      "start": 46,
+      "end": 48,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 51,
+      "end": 52,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 93,
+      "end": 94,
+      "href": "/bible-forest/dictionary/63e711cc155c55001474f664"
+    },
+    {
+      "start": 97,
+      "end": 97,
+      "href": "/bible-forest/dictionary/640da876050c7b001378e870"
+    },
+    {
+      "start": 104,
+      "end": 105,
+      "href": "/bible-forest/dictionary/61b2f8a93b8fc5001467ade2"
+    },
+    {
+      "start": 113,
+      "end": 114,
+      "href": "/bible-forest/dictionary/61794f11e3f64e001584f4b7"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "유다는 궤사를 행하였고 이스라엘과 예루살렘 중에서는 가증한 일을 행하였으며 유다는 여호와의 사랑하시는 그 <span style=\"color:gray;\">¹</span>성결을 욕되게 하여 이방 신의 딸과 결혼하였으니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e473"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e473",
+  "book": 39,
+  "chapter": 2,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "이 일을 행하는 사람에게 속한 자는 깨는 자나 "
+    },
+    {
+      "txt": "응답",
+      "link": "63f16d08155c55001474f7b2"
+    },
+    {
+      "txt": "하는 자는 물론이요 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께 "
+    },
+    {
+      "txt": "제사",
+      "link": "61546ad2fca7a4001a586e16"
+    },
+    {
+      "txt": "를 드리는 자도 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 "
+    },
+    {
+      "txt": "야곱",
+      "link": "60ba06111376e50012a0da1d"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "장막",
+      "link": "60bceb6e1376e50012a0db8e"
+    },
+    {
+      "txt": " 가운데서 끊어 버리시리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이 일을 행하는 사람에게 속한 자는 깨는 자나 응답하는 자는 물론이요 만군의 여호와께 제사를 드리는 자도 여호와께서 야곱의 장막 가운데서 끊어 버리시리라",
+  "link_pos": [
+    {
+      "start": 26,
+      "end": 27,
+      "href": "/bible-forest/dictionary/63f16d08155c55001474f7b2"
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 48,
+      "end": 49,
+      "href": "/bible-forest/dictionary/61546ad2fca7a4001a586e16"
+    },
+    {
+      "start": 59,
+      "end": 61,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 65,
+      "end": 66,
+      "href": "/bible-forest/dictionary/60ba06111376e50012a0da1d"
+    },
+    {
+      "start": 69,
+      "end": 70,
+      "href": "/bible-forest/dictionary/60bceb6e1376e50012a0db8e"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이 일을 행하는 사람에게 속한 자는 깨는 자나 응답하는 자는 물론이요 만군의 여호와께 제사를 드리는 자도 여호와께서 야곱의 장막 가운데서 끊어 버리시리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e474"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e474",
+  "book": 39,
+  "chapter": 2,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "너희가 이런 일도 행하나니 곧 "
+    },
+    {
+      "txt": "눈물",
+      "link": "62f4832255b278001668dd34"
+    },
+    {
+      "txt": "과 울음과 "
+    },
+    {
+      "txt": "탄식",
+      "link": "646468caba956c0013dc1417"
+    },
+    {
+      "txt": "으로 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "단",
+      "link": "6493051d8d26fb00138801e5"
+    },
+    {
+      "txt": "을 가리우게 하도다 그러므로 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 다시는 너희의 "
+    },
+    {
+      "txt": "헌물",
+      "link": "6488a6bcba956c0013dc17ab"
+    },
+    {
+      "txt": "을 돌아보지도 아니하시며 그것을 너희 "
+    },
+    {
+      "txt": "손",
+      "link": "63c817386f82e70014841c9d"
+    },
+    {
+      "txt": "에서 기꺼이 받지도 아니하시거늘"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 이런 일도 행하나니 곧 눈물과 울음과 탄식으로 여호와의 단을 가리우게 하도다 그러므로 여호와께서 다시는 너희의 헌물을 돌아보지도 아니하시며 그것을 너희 손에서 기꺼이 받지도 아니하시거늘",
+  "link_pos": [
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/62f4832255b278001668dd34"
+    },
+    {
+      "start": 25,
+      "end": 26,
+      "href": "/bible-forest/dictionary/646468caba956c0013dc1417"
+    },
+    {
+      "start": 30,
+      "end": 32,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 35,
+      "end": 35,
+      "href": "/bible-forest/dictionary/6493051d8d26fb00138801e5"
+    },
+    {
+      "start": 52,
+      "end": 54,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 66,
+      "end": 67,
+      "href": "/bible-forest/dictionary/6488a6bcba956c0013dc17ab"
+    },
+    {
+      "start": 89,
+      "end": 89,
+      "href": "/bible-forest/dictionary/63c817386f82e70014841c9d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 이런 일도 행하나니 곧 눈물과 울음과 탄식으로 여호와의 단을 가리우게 하도다 그러므로 여호와께서 다시는 너희의 헌물을 돌아보지도 아니하시며 그것을 너희 손에서 기꺼이 받지도 아니하시거늘",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e475"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e475",
+  "book": 39,
+  "chapter": 2,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "너희는 이르기를 어찜이니까 하는도다 이는 너와 너의 어려서 취한 "
+    },
+    {
+      "txt": "아내"
+    },
+    {
+      "txt": " 사이에 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 일찍이 "
+    },
+    {
+      "txt": "증거",
+      "link": "60bce1091376e50012a0db89"
+    },
+    {
+      "txt": "하셨음을 인함이니라 그는 네 짝이요 너와 맹약한 "
+    },
+    {
+      "txt": "아내",
+      "link": "60bbaf581376e50012a0db62"
+    },
+    {
+      "txt": "로되 네가 그에게 궤사를 행하도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희는 이르기를 어찜이니까 하는도다 이는 너와 너의 어려서 취한 아내 사이에 여호와께서 일찍이 증거하셨음을 인함이니라 그는 네 짝이요 너와 맹약한 아내로되 네가 그에게 궤사를 행하도다",
+  "link_pos": [
+    {
+      "start": 43,
+      "end": 45,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 53,
+      "end": 54,
+      "href": "/bible-forest/dictionary/60bce1091376e50012a0db89"
+    },
+    {
+      "start": 82,
+      "end": 83,
+      "href": "/bible-forest/dictionary/60bbaf581376e50012a0db62"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희는 이르기를 어찜이니까 하는도다 이는 너와 너의 어려서 취한 아내 사이에 여호와께서 일찌기 증거하셨음을 인함이니라 그는 네 짝이요 너와 맹약한 아내로되 네가 그에게 궤사를 행하도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e476"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e476",
+  "book": 39,
+  "chapter": 2,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "는 "
+    },
+    {
+      "txt": "영",
+      "link": "60e53759d73fa40012bc3bcc"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "유여",
+      "link": "63f57354155c55001474f85f"
+    },
+    {
+      "txt": "하실지라도 오직 하나를 짓지 아니하셨느냐 어찌하여 하나만 지으셨느냐 이는 "
+    },
+    {
+      "txt": "경건",
+      "link": "62a543788f55f40014219c28"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "자손",
+      "link": "6460f5eaba956c0013dc13e5"
+    },
+    {
+      "txt": "을 얻고자 하심이니라 그러므로 네 "
+    },
+    {
+      "txt": "심령",
+      "link": "62387b558f55f40014219970"
+    },
+    {
+      "txt": "을 삼가 지켜 어려서 취한 "
+    },
+    {
+      "txt": "아내",
+      "link": "60bbaf581376e50012a0db62"
+    },
+    {
+      "txt": "에게 궤사를 행치 말지니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "여호와는 영이 유여하실지라도 오직 하나를 짓지 아니하셨느냐 어찌하여 하나만 지으셨느냐 이는 경건한 자손을 얻고자 하심이니라 그러므로 네 심령을 삼가 지켜 어려서 취한 아내에게 궤사를 행치 말지니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 5,
+      "end": 5,
+      "href": "/bible-forest/dictionary/60e53759d73fa40012bc3bcc"
+    },
+    {
+      "start": 8,
+      "end": 9,
+      "href": "/bible-forest/dictionary/63f57354155c55001474f85f"
+    },
+    {
+      "start": 51,
+      "end": 52,
+      "href": "/bible-forest/dictionary/62a543788f55f40014219c28"
+    },
+    {
+      "start": 55,
+      "end": 56,
+      "href": "/bible-forest/dictionary/6460f5eaba956c0013dc13e5"
+    },
+    {
+      "start": 76,
+      "end": 77,
+      "href": "/bible-forest/dictionary/62387b558f55f40014219970"
+    },
+    {
+      "start": 93,
+      "end": 94,
+      "href": "/bible-forest/dictionary/60bbaf581376e50012a0db62"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "여호와는 영이 유여하실찌라도 오직 하나를 짓지 아니하셨느냐 어찌하여 하나만 지으셨느냐 이는 경건한 자손을 얻고자 하심이니라 그러므로 네 심령을 삼가 지켜 어려서 취한 아내에게 궤사를 행치 말찌니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e477"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e477",
+  "book": 39,
+  "chapter": 2,
+  "verse": 16,
+  "content": [
+    {
+      "txt": "이스라엘",
+      "link": "60c71f046cfae70012b03764"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노니 나는 "
+    },
+    {
+      "txt": "이혼",
+      "link": "64032a93cc90a400169b1feb"
+    },
+    {
+      "txt": "하는 것과 "
+    },
+    {
+      "txt": "학대",
+      "link": "64685b6eba956c0013dc148e"
+    },
+    {
+      "txt": "로 "
+    },
+    {
+      "txt": "옷",
+      "link": "60bcc2161376e50012a0db81"
+    },
+    {
+      "txt": "을 가리우는 자를 미워하노라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라 그러므로 너희 "
+    },
+    {
+      "txt": "심령",
+      "link": "62387b558f55f40014219970"
+    },
+    {
+      "txt": "을 삼가 지켜 궤사를 행치 말지니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이스라엘의 하나님 여호와가 이르노니 나는 이혼하는 것과 학대로 옷을 가리우는 자를 미워하노라 만군의 여호와의 말이니라 그러므로 너희 심령을 삼가 지켜 궤사를 행치 말지니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 3,
+      "href": "/bible-forest/dictionary/60c71f046cfae70012b03764"
+    },
+    {
+      "start": 6,
+      "end": 8,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 10,
+      "end": 12,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 23,
+      "end": 24,
+      "href": "/bible-forest/dictionary/64032a93cc90a400169b1feb"
+    },
+    {
+      "start": 31,
+      "end": 32,
+      "href": "/bible-forest/dictionary/64685b6eba956c0013dc148e"
+    },
+    {
+      "start": 35,
+      "end": 35,
+      "href": "/bible-forest/dictionary/60bcc2161376e50012a0db81"
+    },
+    {
+      "start": 56,
+      "end": 58,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 74,
+      "end": 75,
+      "href": "/bible-forest/dictionary/62387b558f55f40014219970"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이스라엘의 하나님 여호와가 이르노니 나는 이혼하는 것과 학대로 옷을 가리우는 자를 미워하노라 만군의 여호와의 말이니라 그러므로 너희 심령을 삼가 지켜 궤사를 행치 말찌니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e478"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e478",
+  "book": 39,
+  "chapter": 2,
+  "verse": 17,
+  "content": [
+    {
+      "txt": "너희가 말로 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "를 괴로우시게 하고도 이르기를 우리가 어떻게 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "를 괴로우시게 하였나 하는도다 이는 너희가 말하기를 모든 행악하는 자는 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "눈",
+      "link": "6303655bf7b0360013928f6b"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "히 보이며 그에게 기쁨이 된다 하며 또 말하기를 "
+    },
+    {
+      "txt": "공의",
+      "link": "62bd62028f55f40014219de2"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "이 어디 계시냐 함이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 말로 여호와를 괴로우시게 하고도 이르기를 우리가 어떻게 여호와를 괴로우시게 하였나 하는도다 이는 너희가 말하기를 모든 행악하는 자는 여호와의 눈에 선히 보이며 그에게 기쁨이 된다 하며 또 말하기를 공의의 하나님이 어디 계시냐 함이니라",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 9,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 35,
+      "end": 37,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 78,
+      "end": 80,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 83,
+      "end": 83,
+      "href": "/bible-forest/dictionary/6303655bf7b0360013928f6b"
+    },
+    {
+      "start": 86,
+      "end": 86,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 114,
+      "end": 115,
+      "href": "/bible-forest/dictionary/62bd62028f55f40014219de2"
+    },
+    {
+      "start": 118,
+      "end": 120,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 말로 여호와를 괴로우시게 하고도 이르기를 우리가 어떻게 여호와를 괴로우시게 하였나 하는도다 이는 너희가 말하기를 모든 행악하는 자는 여호와의 눈에 선히 보이며 그에게 기쁨이 된다 하며 또 말하기를 공의의 하나님이 어디 계시냐 함이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e479"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e479",
+  "book": 39,
+  "chapter": 3,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 "
+    },
+    {
+      "txt": "보라",
+      "link": "63c806686f82e70014841c8d"
+    },
+    {
+      "txt": " 내가 내 "
+    },
+    {
+      "txt": "사자",
+      "link": "63b43c246f82e700148419f9"
+    },
+    {
+      "txt": "를 보내리니 그가 내 앞에서 <span style=\"color:crimson;\">¹</span>길을 예비할 것이요 또 너희의 구하는 바"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "가 홀연히 그 전에 임하리니 곧 너희의 사모하는 바 "
+    },
+    {
+      "txt": "언약",
+      "link": "618a96f1c5894b001b8c5c28"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "사자",
+      "link": "63b43c246f82e700148419f9"
+    },
+    {
+      "txt": "가 임할 것이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 보라 내가 내 사자를 보내리니 그가 내 앞에서 길을 예비할 것이요 또 너희의 구하는 바 주가 홀연히 그 전에 임하리니 곧 너희의 사모하는 바 언약의 사자가 임할 것이라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/63c806686f82e70014841c8d"
+    },
+    {
+      "start": 22,
+      "end": 23,
+      "href": "/bible-forest/dictionary/63b43c246f82e700148419f9"
+    },
+    {
+      "start": 98,
+      "end": 99,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 128,
+      "end": 129,
+      "href": "/bible-forest/dictionary/618a96f1c5894b001b8c5c28"
+    },
+    {
+      "start": 132,
+      "end": 133,
+      "href": "/bible-forest/dictionary/63b43c246f82e700148419f9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 보라 내가 내 사자를 보내리니 그가 내 앞에서 <span style=\"color:crimson;\">¹</span>길을 예비할 것이요 또 너희의 구하는바 주가 홀연히 그 전에 임하리니 곧 너희의 사모하는바 언약의 사자가 임할 것이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e47a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e47a",
+  "book": 39,
+  "chapter": 3,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "그의 임하는 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "을 누가 능히 당하며 그의 나타나는 때에 누가 능히 서리요 그는 금을 "
+    },
+    {
+      "txt": "연단",
+      "link": "61882275ab886400139a72fb"
+    },
+    {
+      "txt": "하는 자의 "
+    },
+    {
+      "txt": "불",
+      "link": "633d78296f82e7001484127a"
+    },
+    {
+      "txt": "과 표백하는 자의 "
+    },
+    {
+      "txt": "잿물",
+      "link": "64685b03ba956c0013dc148d"
+    },
+    {
+      "txt": "과 같을 것이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그의 임하는 날을 누가 능히 당하며 그의 나타나는 때에 누가 능히 서리요 그는 금을 연단하는 자의 불과 표백하는 자의 잿물과 같을 것이라",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 7,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 47,
+      "end": 48,
+      "href": "/bible-forest/dictionary/61882275ab886400139a72fb"
+    },
+    {
+      "start": 55,
+      "end": 55,
+      "href": "/bible-forest/dictionary/633d78296f82e7001484127a"
+    },
+    {
+      "start": 66,
+      "end": 67,
+      "href": "/bible-forest/dictionary/64685b03ba956c0013dc148d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그의 임하는 날을 누가 능히 당하며 그의 나타나는 때에 누가 능히 서리요 그는 금을 연단하는 자의 불과 표백하는 자의 잿물과 같을것이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e47b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e47b",
+  "book": 39,
+  "chapter": 3,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "그가 "
+    },
+    {
+      "txt": "은",
+      "link": "63f0cd8b155c55001474f781"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "연단",
+      "link": "61882275ab886400139a72fb"
+    },
+    {
+      "txt": "하여 깨끗케 하는 자 같이 앉아서 "
+    },
+    {
+      "txt": "레위",
+      "link": "6121eb5ee8113c001ae0b4b1"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "자손",
+      "link": "6460f5eaba956c0013dc13e5"
+    },
+    {
+      "txt": "을 깨끗케 하되 금, "
+    },
+    {
+      "txt": "은",
+      "link": "63f0cd8b155c55001474f781"
+    },
+    {
+      "txt": " 같이 그들을 "
+    },
+    {
+      "txt": "연단",
+      "link": "61882275ab886400139a72fb"
+    },
+    {
+      "txt": "하리니 그들이 의로운 "
+    },
+    {
+      "txt": "제물",
+      "link": "64625a15ba956c0013dc13fa"
+    },
+    {
+      "txt": "을 나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께 드릴 것이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그가 은을 연단하여 깨끗케 하는 자 같이 앉아서 레위 자손을 깨끗케 하되 금, 은 같이 그들을 연단하리니 그들이 의로운 제물을 나 여호와께 드릴 것이라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 3,
+      "href": "/bible-forest/dictionary/63f0cd8b155c55001474f781"
+    },
+    {
+      "start": 6,
+      "end": 7,
+      "href": "/bible-forest/dictionary/61882275ab886400139a72fb"
+    },
+    {
+      "start": 27,
+      "end": 28,
+      "href": "/bible-forest/dictionary/6121eb5ee8113c001ae0b4b1"
+    },
+    {
+      "start": 30,
+      "end": 31,
+      "href": "/bible-forest/dictionary/6460f5eaba956c0013dc13e5"
+    },
+    {
+      "start": 44,
+      "end": 44,
+      "href": "/bible-forest/dictionary/63f0cd8b155c55001474f781"
+    },
+    {
+      "start": 53,
+      "end": 54,
+      "href": "/bible-forest/dictionary/61882275ab886400139a72fb"
+    },
+    {
+      "start": 67,
+      "end": 68,
+      "href": "/bible-forest/dictionary/64625a15ba956c0013dc13fa"
+    },
+    {
+      "start": 73,
+      "end": 75,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그가 은을 연단하여 깨끗케 하는 자 같이 앉아서 레위 자손을 깨끗케 하되 금, 은 같이 그들을 연단하리니 그들이 의로운 제물을 나 여호와께 드릴 것이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e47c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e47c",
+  "book": 39,
+  "chapter": 3,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "그 때에 "
+    },
+    {
+      "txt": "유다",
+      "link": "618772baab886400139a72d3"
+    },
+    {
+      "txt": "와 "
+    },
+    {
+      "txt": "예루살렘",
+      "link": "60e5376bd73fa40012bc3bcd"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "헌물",
+      "link": "6488a6bcba956c0013dc17ab"
+    },
+    {
+      "txt": "이 옛날과 고대와 같이 나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께 기쁨이 되려니와"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그 때에 유다와 예루살렘의 헌물이 옛날과 고대와 같이 나 여호와께 기쁨이 되려니와",
+  "link_pos": [
+    {
+      "start": 5,
+      "end": 6,
+      "href": "/bible-forest/dictionary/618772baab886400139a72d3"
+    },
+    {
+      "start": 9,
+      "end": 12,
+      "href": "/bible-forest/dictionary/60e5376bd73fa40012bc3bcd"
+    },
+    {
+      "start": 15,
+      "end": 16,
+      "href": "/bible-forest/dictionary/6488a6bcba956c0013dc17ab"
+    },
+    {
+      "start": 32,
+      "end": 34,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그 때에 유다와 예루살렘의 헌물이 옛날과 고대와 같이 나 여호와께 기쁨이 되려니와",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e47d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e47d",
+  "book": 39,
+  "chapter": 3,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "내가 "
+    },
+    {
+      "txt": "심판",
+      "link": "60c0c0ac6cfae70012b03713"
+    },
+    {
+      "txt": "하러 너희에게 임할 것이라 술수하는 자에게와 "
+    },
+    {
+      "txt": "간음",
+      "link": "618a841cc5894b001b8c5c18"
+    },
+    {
+      "txt": "하는 자에게와 거짓 "
+    },
+    {
+      "txt": "맹세",
+      "link": "62dd55468f55f40014219f68"
+    },
+    {
+      "txt": "하는 자에게와 품꾼의 "
+    },
+    {
+      "txt": "삯",
+      "link": "63b84c636f82e70014841a5d"
+    },
+    {
+      "txt": "에 대하여 억울케 하며 "
+    },
+    {
+      "txt": "과부",
+      "link": "60e53706d73fa40012bc3bc8"
+    },
+    {
+      "txt": "와 "
+    },
+    {
+      "txt": "고아",
+      "link": "60e536ded73fa40012bc3bc7"
+    },
+    {
+      "txt": "를 압제하며 "
+    },
+    {
+      "txt": "나그네",
+      "link": "62f500c355b278001668dd3c"
+    },
+    {
+      "txt": "를 억울케 하며 나를 "
+    },
+    {
+      "txt": "경외",
+      "link": "62a88a908f55f40014219c49"
+    },
+    {
+      "txt": "치 아니하는 자들에게 속히 "
+    },
+    {
+      "txt": "증거",
+      "link": "60bce1091376e50012a0db89"
+    },
+    {
+      "txt": "하리라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하였느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "내가 심판하러 너희에게 임할 것이라 술수하는 자에게와 간음하는 자에게와 거짓 맹세하는 자에게와 품꾼의 삯에 대하여 억울케 하며 과부와 고아를 압제하며 나그네를 억울케 하며 나를 경외치 아니하는 자들에게 속히 증거하리라 만군의 여호와가 말하였느니라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/60c0c0ac6cfae70012b03713"
+    },
+    {
+      "start": 30,
+      "end": 31,
+      "href": "/bible-forest/dictionary/618a841cc5894b001b8c5c18"
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "href": "/bible-forest/dictionary/62dd55468f55f40014219f68"
+    },
+    {
+      "start": 57,
+      "end": 57,
+      "href": "/bible-forest/dictionary/63b84c636f82e70014841a5d"
+    },
+    {
+      "start": 71,
+      "end": 72,
+      "href": "/bible-forest/dictionary/60e53706d73fa40012bc3bc8"
+    },
+    {
+      "start": 75,
+      "end": 76,
+      "href": "/bible-forest/dictionary/60e536ded73fa40012bc3bc7"
+    },
+    {
+      "start": 84,
+      "end": 86,
+      "href": "/bible-forest/dictionary/62f500c355b278001668dd3c"
+    },
+    {
+      "start": 99,
+      "end": 100,
+      "href": "/bible-forest/dictionary/62a88a908f55f40014219c49"
+    },
+    {
+      "start": 116,
+      "end": 117,
+      "href": "/bible-forest/dictionary/60bce1091376e50012a0db89"
+    },
+    {
+      "start": 126,
+      "end": 128,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "내가 심판하러 너희에게 임할 것이라 술수하는 자에게와 간음하는 자에게와 거짓 맹세하는 자에게와 품군의 삯에 대하여 억울케 하며 과부와 고아를 압제하며 나그네를 억울케 하며 나를 경외치 아니하는 자들에게 속히 증거하리라 만군의 여호와가 말하였느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e47e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e47e",
+  "book": 39,
+  "chapter": 3,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "는 변역지 아니하나니 그러므로 "
+    },
+    {
+      "txt": "야곱",
+      "link": "60ba06111376e50012a0da1d"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "자손",
+      "link": "6460f5eaba956c0013dc13e5"
+    },
+    {
+      "txt": "들아 너희가 소멸되지 아니하느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "나 여호와는 변역지 아니하나니 그러므로 야곱의 자손들아 너희가 소멸되지 아니하느니라",
+  "link_pos": [
+    {
+      "start": 2,
+      "end": 4,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 22,
+      "end": 23,
+      "href": "/bible-forest/dictionary/60ba06111376e50012a0da1d"
+    },
+    {
+      "start": 26,
+      "end": 27,
+      "href": "/bible-forest/dictionary/6460f5eaba956c0013dc13e5"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "나 여호와는 변역지 아니하나니 그러므로 야곱의 자손들아 너희가 소멸되지 아니하느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e47f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e47f",
+  "book": 39,
+  "chapter": 3,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 너희 "
+    },
+    {
+      "txt": "열조",
+      "link": "640719ffcc90a400169b203f"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "로부터 너희가 나의 규례를 떠나 지키지 아니하였도다 그런즉 내게로 돌아오라 그리하면 나도 너희에게로 돌아가리라 하였더니 너희가 이르기를 우리가 어떻게 하여야 돌아가리이까 하도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 너희 열조의 날로부터 너희가 나의 규례를 떠나 지키지 아니하였도다 그런즉 내게로 돌아오라 그리하면 나도 너희에게로 돌아가리라 하였더니 너희가 이르기를 우리가 어떻게 하여야 돌아가리이까 하도다",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/640719ffcc90a400169b203f"
+    },
+    {
+      "start": 21,
+      "end": 21,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 너희 열조의 날로부터 너희가 나의 규례를 떠나 지키지 아니하였도다 그런즉 내게로 돌아오라 그리하면 나도 너희에게로 돌아가리라 하였더니 너희가 이르기를 우리가 어떻게 하여야 돌아가리이까 하도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e480"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e480",
+  "book": 39,
+  "chapter": 3,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "사람이 어찌 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 것을 "
+    },
+    {
+      "txt": "도적질",
+      "link": "60c72c316cfae70012b03765"
+    },
+    {
+      "txt": "하겠느냐 그러나 너희는 나의 것을 "
+    },
+    {
+      "txt": "도적질",
+      "link": "60c72c316cfae70012b03765"
+    },
+    {
+      "txt": "하고도 말하기를 우리가 어떻게"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "의 것을 "
+    },
+    {
+      "txt": "도적질",
+      "link": "60c72c316cfae70012b03765"
+    },
+    {
+      "txt": "하였나이까 하도다 이는 곧 "
+    },
+    {
+      "txt": "십일조",
+      "link": "6155c5b3fca7a4001a586e1a"
+    },
+    {
+      "txt": "와 "
+    },
+    {
+      "txt": "헌물",
+      "link": "6488a6bcba956c0013dc17ab"
+    },
+    {
+      "txt": "이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사람이 어찌 하나님의 것을 도적질하겠느냐 그러나 너희는 나의 것을 도적질하고도 말하기를 우리가 어떻게 주의 것을 도적질하였나이까 하도다 이는 곧 십일조와 헌물이라",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 9,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 15,
+      "end": 17,
+      "href": "/bible-forest/dictionary/60c72c316cfae70012b03765"
+    },
+    {
+      "start": 37,
+      "end": 39,
+      "href": "/bible-forest/dictionary/60c72c316cfae70012b03765"
+    },
+    {
+      "start": 56,
+      "end": 57,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 63,
+      "end": 65,
+      "href": "/bible-forest/dictionary/60c72c316cfae70012b03765"
+    },
+    {
+      "start": 81,
+      "end": 83,
+      "href": "/bible-forest/dictionary/6155c5b3fca7a4001a586e1a"
+    },
+    {
+      "start": 86,
+      "end": 87,
+      "href": "/bible-forest/dictionary/6488a6bcba956c0013dc17ab"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사람이 어찌 하나님의 것을 도적질하겠느냐 그러나 너희는 나의 것을 도적질하고도 말하기를 우리가 어떻게 주의 것을 도적질하였나이까 하도다 이는 곧 십일조와 헌물이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e481"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e481",
+  "book": 39,
+  "chapter": 3,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "너희 곧 온 "
+    },
+    {
+      "txt": "나라",
+      "link": "60ba1bcc1376e50012a0da54"
+    },
+    {
+      "txt": "가 나의 것을 "
+    },
+    {
+      "txt": "도적질",
+      "link": "60c72c316cfae70012b03765"
+    },
+    {
+      "txt": "하였으므로 너희가 "
+    },
+    {
+      "txt": "저주",
+      "link": "6459efebba956c0013dc1364"
+    },
+    {
+      "txt": "를 받았느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 곧 온 나라가 나의 것을 도적질하였으므로 너희가 저주를 받았느니라",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 8,
+      "href": "/bible-forest/dictionary/60ba1bcc1376e50012a0da54"
+    },
+    {
+      "start": 17,
+      "end": 19,
+      "href": "/bible-forest/dictionary/60c72c316cfae70012b03765"
+    },
+    {
+      "start": 30,
+      "end": 31,
+      "href": "/bible-forest/dictionary/6459efebba956c0013dc1364"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 곧 온 나라가 나의 것을 도적질하였으므로 너희가 저주를 받았느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e482"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e482",
+  "book": 39,
+  "chapter": 3,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 너희의 "
+    },
+    {
+      "txt": "온전",
+      "link": "64438370e73ff90013f38a27"
+    },
+    {
+      "txt": "한 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "십일조",
+      "link": "6155c5b3fca7a4001a586e1a"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "창고",
+      "link": "64735c16ba956c0013dc157d"
+    },
+    {
+      "txt": "에 들여 나의 집에 "
+    },
+    {
+      "txt": "양식",
+      "link": "61463f5e5f803400131d4a22"
+    },
+    {
+      "txt": "이 있게 하고 그것으로 나를 "
+    },
+    {
+      "txt": "시험",
+      "link": "623a79598f55f40014219984"
+    },
+    {
+      "txt": "하여 내가 "
+    },
+    {
+      "txt": "하늘",
+      "link": "60c5f93a6cfae70012b03757"
+    },
+    {
+      "txt": " 문을 열고 너희에게 "
+    },
+    {
+      "txt": "복",
+      "link": "60bc526a1376e50012a0db6a"
+    },
+    {
+      "txt": "을 쌓을 곳이 없도록 붓지 아니하나 "
+    },
+    {
+      "txt": "보라",
+      "link": "63c806686f82e70014841c8d"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 너희의 온전한 십일조를 창고에 들여 나의 집에 양식이 있게 하고 그것으로 나를 시험하여 내가 하늘 문을 열고 너희에게 복을 쌓을 곳이 없도록 붓지 아니하나 보라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 18,
+      "end": 19,
+      "href": "/bible-forest/dictionary/64438370e73ff90013f38a27"
+    },
+    {
+      "start": 59,
+      "end": 61,
+      "href": "/bible-forest/dictionary/6155c5b3fca7a4001a586e1a"
+    },
+    {
+      "start": 64,
+      "end": 65,
+      "href": "/bible-forest/dictionary/64735c16ba956c0013dc157d"
+    },
+    {
+      "start": 77,
+      "end": 78,
+      "href": "/bible-forest/dictionary/61463f5e5f803400131d4a22"
+    },
+    {
+      "start": 95,
+      "end": 96,
+      "href": "/bible-forest/dictionary/623a79598f55f40014219984"
+    },
+    {
+      "start": 103,
+      "end": 104,
+      "href": "/bible-forest/dictionary/60c5f93a6cfae70012b03757"
+    },
+    {
+      "start": 117,
+      "end": 117,
+      "href": "/bible-forest/dictionary/60bc526a1376e50012a0db6a"
+    },
+    {
+      "start": 138,
+      "end": 139,
+      "href": "/bible-forest/dictionary/63c806686f82e70014841c8d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 너희의 온전한 <span style=\"color:crimson;\">¹</span>십일조를 창고에 들여 나의 집에 양식이 있게 하고 그것으로 나를 시험하여 내가 하늘 문을 열고 너희에게 복을 쌓을 곳이 없도록 붓지 아니하나 보라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e483"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e483",
+  "book": 39,
+  "chapter": 3,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 내가 너희를 위하여 <span style=\"color:Blue;\">ᵃ</span><span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "황충",
+      "link": "60ba1aae1376e50012a0da43"
+    },
+    {
+      "txt": "을 금하여 너희 "
+    },
+    {
+      "txt": "토지",
+      "link": "647863d6ba956c0013dc15f9"
+    },
+    {
+      "txt": " 소산을 멸하지 않게 하며 너희 "
+    },
+    {
+      "txt": "밭",
+      "link": "60ba12271376e50012a0da31"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "포도나무",
+      "link": "62ee709b55b278001668dd0a"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "과실",
+      "link": "618e4ddaab04fd00148cc567"
+    },
+    {
+      "txt": "로 기한 전에 떨어지지 않게 하리니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 내가 너희를 위하여 황충을 금하여 너희 토지 소산을 멸하지 않게 하며 너희 밭에 포도나무의 과실로 기한 전에 떨어지지 않게 하리니",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 96,
+      "end": 97,
+      "href": "/bible-forest/dictionary/60ba1aae1376e50012a0da43"
+    },
+    {
+      "start": 107,
+      "end": 108,
+      "href": "/bible-forest/dictionary/647863d6ba956c0013dc15f9"
+    },
+    {
+      "start": 127,
+      "end": 127,
+      "href": "/bible-forest/dictionary/60ba12271376e50012a0da31"
+    },
+    {
+      "start": 130,
+      "end": 133,
+      "href": "/bible-forest/dictionary/62ee709b55b278001668dd0a"
+    },
+    {
+      "start": 136,
+      "end": 137,
+      "href": "/bible-forest/dictionary/618e4ddaab04fd00148cc567"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 내가 너희를 위하여 <span style=\"color:gray;\">¹</span><span style=\"color:crimson;\">¹</span>황충을 금하여 너희 토지 소산을 멸하지 않게 하며 너희 밭에 포도나무의 과실로 기한 전에 떨어지지 않게 하리니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e484"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e484",
+  "book": 39,
+  "chapter": 3,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "너희 땅이 아름다와지므로 "
+    },
+    {
+      "txt": "열방",
+      "link": "63f0fc75155c55001474f7a9"
+    },
+    {
+      "txt": "이 너희를 "
+    },
+    {
+      "txt": "복",
+      "link": "60bc526a1376e50012a0db6a"
+    },
+    {
+      "txt": "되다 하리라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 땅이 아름다와지므로 열방이 너희를 복되다 하리라 만군의 여호와의 말이니라",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/63f0fc75155c55001474f7a9"
+    },
+    {
+      "start": 22,
+      "end": 22,
+      "href": "/bible-forest/dictionary/60bc526a1376e50012a0db6a"
+    },
+    {
+      "start": 34,
+      "end": 36,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 땅이 아름다와지므로 열방이 너희를 복되다 하리라 만군의 여호와의 말이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e485"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e485",
+  "book": 39,
+  "chapter": 3,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 너희가 "
+    },
+    {
+      "txt": "완악",
+      "link": "63f3314c155c55001474f811"
+    },
+    {
+      "txt": "한 말로 나를 "
+    },
+    {
+      "txt": "대적",
+      "link": "6237d8a38f55f4001421996c"
+    },
+    {
+      "txt": "하고도 이르기를 우리가 무슨 말로"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "대적",
+      "link": "6237d8a38f55f4001421996c"
+    },
+    {
+      "txt": "하였나이까 하는도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "여호와가 이르노라 너희가 완악한 말로 나를 대적하고도 이르기를 우리가 무슨 말로 주를 대적하였나이까 하는도다",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/63f3314c155c55001474f811"
+    },
+    {
+      "start": 24,
+      "end": 25,
+      "href": "/bible-forest/dictionary/6237d8a38f55f4001421996c"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 48,
+      "end": 49,
+      "href": "/bible-forest/dictionary/6237d8a38f55f4001421996c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "여호와가 이르노라 너희가 완악한 말로 나를 대적하고도 이르기를 우리가 무슨 말로 주를 대적하였나이까 하는도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e486"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e486",
+  "book": 39,
+  "chapter": 3,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "이는 너희가 말하기를 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "을 섬기는 것이 헛되니 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": " 앞에 그 명령을 지키며 슬프게 행하는 것이 무엇이 "
+    },
+    {
+      "txt": "유익",
+      "link": "63f81bf4155c55001474f8ac"
+    },
+    {
+      "txt": "하리요"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이는 너희가 말하기를 하나님을 섬기는 것이 헛되니 만군의 여호와 앞에 그 명령을 지키며 슬프게 행하는 것이 무엇이 유익하리요",
+  "link_pos": [
+    {
+      "start": 12,
+      "end": 14,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 32,
+      "end": 34,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 64,
+      "end": 65,
+      "href": "/bible-forest/dictionary/63f81bf4155c55001474f8ac"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이는 너희가 말하기를 하나님을 섬기는 것이 헛되니 만군의 여호와 앞에 그 명령을 지키며 슬프게 행하는 것이 무엇이 유익하리요",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e487"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e487",
+  "book": 39,
+  "chapter": 3,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "지금 우리는 "
+    },
+    {
+      "txt": "교만",
+      "link": "61882281ab886400139a72fc"
+    },
+    {
+      "txt": "한 자가 "
+    },
+    {
+      "txt": "복",
+      "link": "60bc526a1376e50012a0db6a"
+    },
+    {
+      "txt": "되다 하며 "
+    },
+    {
+      "txt": "악",
+      "link": "61d6ec1d21976e001389d950"
+    },
+    {
+      "txt": "을 행하는 자가 창성하며 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "시험",
+      "link": "623a79598f55f40014219984"
+    },
+    {
+      "txt": "하는 자가 "
+    },
+    {
+      "txt": "화",
+      "link": "624182908f55f400142199cc"
+    },
+    {
+      "txt": "를 면한다 하노라 함이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "지금 우리는 교만한 자가 복되다 하며 악을 행하는 자가 창성하며 하나님을 시험하는 자가 화를 면한다 하노라 함이니라",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 8,
+      "href": "/bible-forest/dictionary/61882281ab886400139a72fc"
+    },
+    {
+      "start": 14,
+      "end": 14,
+      "href": "/bible-forest/dictionary/60bc526a1376e50012a0db6a"
+    },
+    {
+      "start": 21,
+      "end": 21,
+      "href": "/bible-forest/dictionary/61d6ec1d21976e001389d950"
+    },
+    {
+      "start": 36,
+      "end": 38,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 41,
+      "end": 42,
+      "href": "/bible-forest/dictionary/623a79598f55f40014219984"
+    },
+    {
+      "start": 49,
+      "end": 49,
+      "href": "/bible-forest/dictionary/624182908f55f400142199cc"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "지금 우리는 교만한 자가 복되다 하며 악을 행하는 자가 창성하며 하나님을 시험하는 자가 화를 면한다 하노라 함이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e488"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e488",
+  "book": 39,
+  "chapter": 3,
+  "verse": 16,
+  "content": [
+    {
+      "txt": "그 때에 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "경외",
+      "link": "62a88a908f55f40014219c49"
+    },
+    {
+      "txt": "하는 자들이 피차에 말하매 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 그것을 분명히 들으시고 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "경외",
+      "link": "62a88a908f55f40014219c49"
+    },
+    {
+      "txt": "하는 자와 그 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "을 존중히 생각하는 자를 위하여 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": " 앞에 있는 기념책에 기록하셨느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그 때에 여호와를 경외하는 자들이 피차에 말하매 여호와께서 그것을 분명히 들으시고 여호와를 경외하는 자와 그 이름을 존중히 생각하는 자를 위하여 여호와 앞에 있는 기념책에 기록하셨느니라",
+  "link_pos": [
+    {
+      "start": 5,
+      "end": 7,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/62a88a908f55f40014219c49"
+    },
+    {
+      "start": 27,
+      "end": 29,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 46,
+      "end": 48,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 51,
+      "end": 52,
+      "href": "/bible-forest/dictionary/62a88a908f55f40014219c49"
+    },
+    {
+      "start": 61,
+      "end": 62,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 81,
+      "end": 83,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그 때에 여호와를 경외하는 자들이 피차에 말하매 여호와께서 그것을 분명히 들으시고 여호와를 경외하는 자와 그 이름을 존중히 생각하는 자를 위하여 여호와 앞에 있는 기념책에 기록하셨느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e489"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e489",
+  "book": 39,
+  "chapter": 3,
+  "verse": 17,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 내가 나의 <span style=\"color:crimson;\">¹</span>정한 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 그들로 나의 특별한 "
+    },
+    {
+      "txt": "소유",
+      "link": "63bb30646f82e70014841ac3"
+    },
+    {
+      "txt": "를 삼을 것이요 또 사람이 자기를 섬기는 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": "을 아낌 같이 내가 그들을 아끼리니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 내가 나의 정한 날에 그들로 나의 특별한 소유를 삼을 것이요 또 사람이 자기를 섬기는 아들을 아낌 같이 내가 그들을 아끼리니",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 60,
+      "end": 60,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 74,
+      "end": 75,
+      "href": "/bible-forest/dictionary/63bb30646f82e70014841ac3"
+    },
+    {
+      "start": 99,
+      "end": 100,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 내가 나의 <span style=\"color:crimson;\">¹</span>정한 날에 그들로 나의 특별한 소유를 삼을 것이요 또 사람이 자기를 섬기는 아들을 아낌 같이 내가 그들을 아끼리니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e48a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e48a",
+  "book": 39,
+  "chapter": 3,
+  "verse": 18,
+  "content": [
+    {
+      "txt": "그 때에 너희가 돌아와서 "
+    },
+    {
+      "txt": "의인",
+      "link": "623c02998f55f40014219993"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "악인",
+      "link": "6237ea178f55f4001421996e"
+    },
+    {
+      "txt": "이며 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "을 섬기는 자와 섬기지 아니하는 자를 분별하리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그 때에 너희가 돌아와서 의인과 악인이며 하나님을 섬기는 자와 섬기지 아니하는 자를 분별하리라",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/623c02998f55f40014219993"
+    },
+    {
+      "start": 18,
+      "end": 19,
+      "href": "/bible-forest/dictionary/6237ea178f55f4001421996e"
+    },
+    {
+      "start": 23,
+      "end": 25,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그 때에 너희가 돌아와서 의인과 악인이며 하나님을 섬기는 자와 섬기지 아니하는 자를 분별하리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e48b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e48b",
+  "book": 39,
+  "chapter": 4,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 "
+    },
+    {
+      "txt": "보라",
+      "link": "63c806686f82e70014841c8d"
+    },
+    {
+      "txt": " 극렬한 <span style=\"color:crimson;\">¹</span> "
+    },
+    {
+      "txt": "풀무불",
+      "link": "62387be78f55f40014219971"
+    },
+    {
+      "txt": " 같은 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "이 이르리니 "
+    },
+    {
+      "txt": "교만",
+      "link": "61882281ab886400139a72fc"
+    },
+    {
+      "txt": "한 자와 "
+    },
+    {
+      "txt": "악",
+      "link": "61d6ec1d21976e001389d950"
+    },
+    {
+      "txt": "을 행하는 자는 다 "
+    },
+    {
+      "txt": "초개",
+      "link": "6493f35f8d26fb00138801f5"
+    },
+    {
+      "txt": " 같을 것이라 그 이르는 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "이 그들을 살라 그 "
+    },
+    {
+      "txt": "뿌리",
+      "link": "63de5880155c55001474f5b4"
+    },
+    {
+      "txt": "와 "
+    },
+    {
+      "txt": "가지",
+      "link": "611fbfd5e8113c001ae0b4ab"
+    },
+    {
+      "txt": "를 남기지 아니할 것이로되"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 이르노라 보라 극렬한 풀무불 같은 날이 이르리니 교만한 자와 악을 행하는 자는 다 초개 같을 것이라 그 이르는 날이 그들을 살라 그 뿌리와 가지를 남기지 아니할 것이로되",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/63c806686f82e70014841c8d"
+    },
+    {
+      "start": 58,
+      "end": 60,
+      "href": "/bible-forest/dictionary/62387be78f55f40014219971"
+    },
+    {
+      "start": 65,
+      "end": 65,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 73,
+      "end": 74,
+      "href": "/bible-forest/dictionary/61882281ab886400139a72fc"
+    },
+    {
+      "start": 80,
+      "end": 80,
+      "href": "/bible-forest/dictionary/61d6ec1d21976e001389d950"
+    },
+    {
+      "start": 92,
+      "end": 93,
+      "href": "/bible-forest/dictionary/6493f35f8d26fb00138801f5"
+    },
+    {
+      "start": 108,
+      "end": 108,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 120,
+      "end": 121,
+      "href": "/bible-forest/dictionary/63de5880155c55001474f5b4"
+    },
+    {
+      "start": 124,
+      "end": 125,
+      "href": "/bible-forest/dictionary/611fbfd5e8113c001ae0b4ab"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 이르노라 보라 극렬한 <span style=\"color:crimson;\">¹</span>풀무불 같은 날이 이르리니 교만한 자와 악을 행하는 자는 다 초개 같을 것이라 그 이르는 날이 그들을 살라 그 뿌리와 가지를 남기지 아니할 것이로되",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e48c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e48c",
+  "book": 39,
+  "chapter": 4,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "내 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "경외",
+      "link": "62a88a908f55f40014219c49"
+    },
+    {
+      "txt": "하는 너희에게는 의로운 해가 떠올라서 "
+    },
+    {
+      "txt": "치료",
+      "link": "6477431aba956c0013dc15d9"
+    },
+    {
+      "txt": "하는 <span style=\"color:Blue;\">ᵃ</span>광선을 발하리니 너희가 나가서 "
+    },
+    {
+      "txt": "외양간",
+      "link": "6402e951cc90a400169b1fc1"
+    },
+    {
+      "txt": "에서 나온 "
+    },
+    {
+      "txt": "송아지",
+      "link": "63ac567f6f82e7001484196b"
+    },
+    {
+      "txt": " 같이 뛰리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "내 이름을 경외하는 너희에게는 의로운 해가 떠올라서 치료하는 광선을 발하리니 너희가 나가서 외양간에서 나온 송아지 같이 뛰리라",
+  "link_pos": [
+    {
+      "start": 2,
+      "end": 3,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 6,
+      "end": 7,
+      "href": "/bible-forest/dictionary/62a88a908f55f40014219c49"
+    },
+    {
+      "start": 29,
+      "end": 30,
+      "href": "/bible-forest/dictionary/6477431aba956c0013dc15d9"
+    },
+    {
+      "start": 85,
+      "end": 87,
+      "href": "/bible-forest/dictionary/6402e951cc90a400169b1fc1"
+    },
+    {
+      "start": 94,
+      "end": 96,
+      "href": "/bible-forest/dictionary/63ac567f6f82e7001484196b"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "내 이름을 경외하는 너희에게는 의로운 해가 떠올라서 치료하는 <span style=\"color:gray;\">¹</span>광선을 발하리니 너희가 나가서 외양간에서 나온 송아지 같이 뛰리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e48d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e48d",
+  "book": 39,
+  "chapter": 4,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "또 너희가 "
+    },
+    {
+      "txt": "악인",
+      "link": "6237ea178f55f4001421996e"
+    },
+    {
+      "txt": "을 밟을 것이니 그들이 나의 정한 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 너희 "
+    },
+    {
+      "txt": "발바닥",
+      "link": "63a6d4ee6f82e7001484184b"
+    },
+    {
+      "txt": " 밑에 재와 같으리라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "또 너희가 악인을 밟을 것이니 그들이 나의 정한 날에 너희 발바닥 밑에 재와 같으리라 만군의 여호와의 말이니라",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 7,
+      "href": "/bible-forest/dictionary/6237ea178f55f4001421996e"
+    },
+    {
+      "start": 27,
+      "end": 27,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 33,
+      "end": 35,
+      "href": "/bible-forest/dictionary/63a6d4ee6f82e7001484184b"
+    },
+    {
+      "start": 52,
+      "end": 54,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "또 너희가 악인을 밟을 것이니 그들이 나의 정한 날에 너희 발바닥 밑에 재와 같으리라 만군의 여호와의 말이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e48e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e48e",
+  "book": 39,
+  "chapter": 4,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "너희는 내가 <span style=\"color:crimson;\">¹</span>호렙에서 온 "
+    },
+    {
+      "txt": "이스라엘",
+      "link": "60c71f046cfae70012b03764"
+    },
+    {
+      "txt": "을 위하여 내 "
+    },
+    {
+      "txt": "종",
+      "link": "62296a218f55f40014219934"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "모세",
+      "link": "60b9fe5f1376e50012a0da0d"
+    },
+    {
+      "txt": "에게 명한 법 곧 "
+    },
+    {
+      "txt": "율례",
+      "link": "63efa39b155c55001474f744"
+    },
+    {
+      "txt": "와 "
+    },
+    {
+      "txt": "법도",
+      "link": "63a6f63b6f82e7001484185a"
+    },
+    {
+      "txt": "를 기억하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희는 내가 호렙에서 온 이스라엘을 위하여 내 종 모세에게 명한 법 곧 율례와 법도를 기억하라",
+  "link_pos": [
+    {
+      "start": 51,
+      "end": 54,
+      "href": "/bible-forest/dictionary/60c71f046cfae70012b03764"
+    },
+    {
+      "start": 63,
+      "end": 63,
+      "href": "/bible-forest/dictionary/62296a218f55f40014219934"
+    },
+    {
+      "start": 65,
+      "end": 66,
+      "href": "/bible-forest/dictionary/60b9fe5f1376e50012a0da0d"
+    },
+    {
+      "start": 77,
+      "end": 78,
+      "href": "/bible-forest/dictionary/63efa39b155c55001474f744"
+    },
+    {
+      "start": 81,
+      "end": 82,
+      "href": "/bible-forest/dictionary/63a6f63b6f82e7001484185a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희는 내가 <span style=\"color:crimson;\">¹</span>호렙에서 온 이스라엘을 위하여 내 종 모세에게 명한 법 곧 율례와 법도를 기억하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e48f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e48f",
+  "book": 39,
+  "chapter": 4,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "보라",
+      "link": "63c806686f82e70014841c8d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 크고 <span style=\"color:crimson;\">¹</span>두려운 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "이 이르기 전에 내가 선지 "
+    },
+    {
+      "txt": "엘리야",
+      "link": "60ba19d21376e50012a0da3e"
+    },
+    {
+      "txt": "를 너희에게 보내리니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "보라 여호와의 크고 두려운 날이 이르기 전에 내가 선지 엘리야를 너희에게 보내리니",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/63c806686f82e70014841c8d"
+    },
+    {
+      "start": 3,
+      "end": 5,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 52,
+      "end": 52,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 68,
+      "end": 70,
+      "href": "/bible-forest/dictionary/60ba19d21376e50012a0da3e"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "보라 여호와의 크고 <span style=\"color:crimson;\">¹</span>두려운 날이 이르기 전에 내가 선지 엘리야를 너희에게 보내리니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e490"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219791,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e490",
+  "book": 39,
+  "chapter": 4,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>그가 아비의 마음을 "
+    },
+    {
+      "txt": "자녀",
+      "link": "647220f9ba956c0013dc155c"
+    },
+    {
+      "txt": "에게로 돌이키게 하고 "
+    },
+    {
+      "txt": "자녀",
+      "link": "647220f9ba956c0013dc155c"
+    },
+    {
+      "txt": "들의 마음을 그들의 아비에게로 돌이키게 하리라 돌이키지 아니하면 두렵건대 내가 와서 "
+    },
+    {
+      "txt": "저주",
+      "link": "6459efebba956c0013dc1364"
+    },
+    {
+      "txt": "로 그 땅을 칠까 하노라 하시니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그가 아비의 마음을 자녀에게로 돌이키게 하고 자녀들의 마음을 그들의 아비에게로 돌이키게 하리라 돌이키지 아니하면 두렵건대 내가 와서 저주로 그 땅을 칠까 하노라 하시니라",
+  "link_pos": [
+    {
+      "start": 48,
+      "end": 49,
+      "href": "/bible-forest/dictionary/647220f9ba956c0013dc155c"
+    },
+    {
+      "start": 62,
+      "end": 63,
+      "href": "/bible-forest/dictionary/647220f9ba956c0013dc155c"
+    },
+    {
+      "start": 111,
+      "end": 112,
+      "href": "/bible-forest/dictionary/6459efebba956c0013dc1364"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>그가 아비의 마음을 자녀에게로 돌이키게 하고 자녀들의 마음을 그들의 아비에게로 돌이키게 하리라 돌이키지 아니하면 두렵건대 내가 와서 저주로 그 땅을 칠까 하노라 하시니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+}]

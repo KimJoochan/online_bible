@@ -1,0 +1,3354 @@
+[{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e361"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e361",
+  "book": 37,
+  "chapter": 1,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "다리오",
+      "link": "61459a1d5f803400131d49ec"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "왕",
+      "link": "60b9fd141376e50012a0da00"
+    },
+    {
+      "txt": " 이년 유월 곧 그 달 "
+    },
+    {
+      "txt": "초하루",
+      "link": "6479f7a2ba956c0013dc1677"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "선지자",
+      "link": "6145de9d5f803400131d4a12"
+    },
+    {
+      "txt": " <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "로 말미암아 <span style=\"color:crimson;\">³</span>"
+    },
+    {
+      "txt": "스알디엘",
+      "link": "63cd375f6f82e70014841cfd"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "유다",
+      "link": "618772baab886400139a72d3"
+    },
+    {
+      "txt": " 총독 <span style=\"color:crimson;\">⁴</span>"
+    },
+    {
+      "txt": "스룹바벨",
+      "link": "60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "txt": "과 <span style=\"color:crimson;\">⁵</span>"
+    },
+    {
+      "txt": "여호사닥",
+      "link": "63f9764f155c55001474f8f3"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "대제사장",
+      "link": "61422f31a69917001a3f04e4"
+    },
+    {
+      "txt": " <span style=\"color:crimson;\">⁶</span>"
+    },
+    {
+      "txt": "여호수아",
+      "link": "60bb83151376e50012a0db5b"
+    },
+    {
+      "txt": "에게 임하니라 "
+    },
+    {
+      "txt": "가라사대",
+      "link": "62b7209c8f55f40014219d70"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "다리오 왕 이년 유월 곧 그 달 초하루에 여호와의 말씀이 선지자 학개로 말미암아 스알디엘의 아들 유다 총독 스룹바벨과 여호사닥의 아들 대제사장 여호수아에게 임하니라 가라사대",
+  "link_pos": [
+    {
+      "start": 37,
+      "end": 39,
+      "href": "/bible-forest/dictionary/61459a1d5f803400131d49ec"
+    },
+    {
+      "start": 41,
+      "end": 41,
+      "href": "/bible-forest/dictionary/60b9fd141376e50012a0da00"
+    },
+    {
+      "start": 55,
+      "end": 57,
+      "href": "/bible-forest/dictionary/6479f7a2ba956c0013dc1677"
+    },
+    {
+      "start": 60,
+      "end": 62,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 65,
+      "end": 66,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    },
+    {
+      "start": 69,
+      "end": 71,
+      "href": "/bible-forest/dictionary/6145de9d5f803400131d4a12"
+    },
+    {
+      "start": 110,
+      "end": 111,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 156,
+      "end": 159,
+      "href": "/bible-forest/dictionary/63cd375f6f82e70014841cfd"
+    },
+    {
+      "start": 162,
+      "end": 163,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 165,
+      "end": 166,
+      "href": "/bible-forest/dictionary/618772baab886400139a72d3"
+    },
+    {
+      "start": 208,
+      "end": 211,
+      "href": "/bible-forest/dictionary/60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "start": 251,
+      "end": 254,
+      "href": "/bible-forest/dictionary/63f9764f155c55001474f8f3"
+    },
+    {
+      "start": 257,
+      "end": 258,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 260,
+      "end": 263,
+      "href": "/bible-forest/dictionary/61422f31a69917001a3f04e4"
+    },
+    {
+      "start": 302,
+      "end": 305,
+      "href": "/bible-forest/dictionary/60bb83151376e50012a0db5b"
+    },
+    {
+      "start": 314,
+      "end": 317,
+      "href": "/bible-forest/dictionary/62b7209c8f55f40014219d70"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>다리오 왕 이년 유월 곧 그 달 초하루에 여호와의 말씀이 선지자 <span style=\"color:crimson;\">²</span>학개로 말미암아 <span style=\"color:crimson;\">³</span>스알디엘의 아들 유다 총독 <span style=\"color:crimson;\">⁴</span>스룹바벨과 <span style=\"color:crimson;\">⁵</span>여호사닥의 아들 대제사장 <span style=\"color:crimson;\">⁶</span>여호수아에게 임하니라 가라사대",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e362"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e362",
+  "book": 37,
+  "chapter": 1,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하여 이르노라 이 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "이 말하기를 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 <span style=\"color:crimson;\">¹</span>전을 건축할 시기가 이르지 아니하였다 하느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만군의 여호와가 말하여 이르노라 이 백성이 말하기를 여호와의 전을 건축할 시기가 이르지 아니하였다 하느니라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 20,
+      "end": 21,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 29,
+      "end": 31,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만군의 여호와가 말하여 이르노라 이 백성이 말하기를 여호와의 <span style=\"color:crimson;\">¹</span>전을 건축할 시기가 이르지 아니하였다 하느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e363"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e363",
+  "book": 37,
+  "chapter": 1,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "선지자",
+      "link": "6145de9d5f803400131d4a12"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "에게 임하여 "
+    },
+    {
+      "txt": "가라사대",
+      "link": "62b7209c8f55f40014219d70"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "여호와의 말씀이 선지자 학개에게 임하여 가라사대",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 5,
+      "end": 6,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    },
+    {
+      "start": 9,
+      "end": 11,
+      "href": "/bible-forest/dictionary/6145de9d5f803400131d4a12"
+    },
+    {
+      "start": 13,
+      "end": 14,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 22,
+      "end": 25,
+      "href": "/bible-forest/dictionary/62b7209c8f55f40014219d70"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "여호와의 말씀이 선지자 학개에게 임하여 가라사대",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e364"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e364",
+  "book": 37,
+  "chapter": 1,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "이 전이 황무하였거늘 너희가 이 때에 "
+    },
+    {
+      "txt": "판벽",
+      "link": "6478eb39ba956c0013dc164d"
+    },
+    {
+      "txt": "한 집에 거하는 것이 가하냐"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이 전이 황무하였거늘 너희가 이 때에 판벽한 집에 거하는 것이 가하냐",
+  "link_pos": [
+    {
+      "start": 21,
+      "end": 22,
+      "href": "/bible-forest/dictionary/6478eb39ba956c0013dc164d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이 전이 황무하였거늘 너희가 이 때에 판벽한 집에 거하는 것이 가하냐",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e365"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e365",
+  "book": 37,
+  "chapter": 1,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "그러므로 이제 나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노니 너희는 자기의 소위를 살펴 볼지니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 이제 나 만군의 여호와가 말하노니 너희는 자기의 소위를 살펴 볼지니라",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 16,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 이제 나 만군의 여호와가 말하노니 너희는 자기의 소위를 살펴 볼찌니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e366"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e366",
+  "book": 37,
+  "chapter": 1,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "너희가 많이 뿌릴지라도 수입이 적으며 먹을지라도 배부르지 못하며 마실지라도 흡족하지 못하며 입어도 따뜻하지 못하며 일꾼이 "
+    },
+    {
+      "txt": "삯",
+      "link": "63b84c636f82e70014841a5d"
+    },
+    {
+      "txt": "을 받아도 그것을 "
+    },
+    {
+      "txt": "구멍",
+      "link": "62b5b1f28f55f40014219d2f"
+    },
+    {
+      "txt": " 뚫어진 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "전대에",
+      "link": "646308fdba956c0013dc140a"
+    },
+    {
+      "txt": " 넣음이 되느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 많이 뿌릴지라도 수입이 적으며 먹을지라도 배부르지 못하며 마실지라도 흡족하지 못하며 입어도 따뜻하지 못하며 일꾼이 삯을 받아도 그것을 구멍 뚫어진 전대에 넣음이 되느니라",
+  "link_pos": [
+    {
+      "start": 68,
+      "end": 68,
+      "href": "/bible-forest/dictionary/63b84c636f82e70014841a5d"
+    },
+    {
+      "start": 79,
+      "end": 80,
+      "href": "/bible-forest/dictionary/62b5b1f28f55f40014219d2f"
+    },
+    {
+      "start": 123,
+      "end": 125,
+      "href": "/bible-forest/dictionary/646308fdba956c0013dc140a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 많이 뿌릴찌라도 수입이 적으며 먹을찌라도 배부르지 못하며 마실찌라도 흡족하지 못하며 입어도 따뜻하지 못하며 일군이 삯을 받아도 그것을 구멍 뚫어진 <span style=\"color:crimson;\">¹</span>전대에 넣음이 되느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e367"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e367",
+  "book": 37,
+  "chapter": 1,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노니 너희는 자기의 소위를 살펴 볼지니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "나 만군의 여호와가 말하노니 너희는 자기의 소위를 살펴 볼지니라",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 8,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "나 만군의 여호와가 말하노니 너희는 자기의 소위를 살펴 볼지니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e368"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e368",
+  "book": 37,
+  "chapter": 1,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "너희는 "
+    },
+    {
+      "txt": "산",
+      "link": "60ba1bb11376e50012a0da53"
+    },
+    {
+      "txt": "에 올라가서 "
+    },
+    {
+      "txt": "나무",
+      "link": "60ba1d581376e50012a0da5e"
+    },
+    {
+      "txt": "를 가져다가 전을 건축하라 그리하면 내가 그로 인하여 기뻐하고 또 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "을 얻으리라 나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하였느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희는 산에 올라가서 나무를 가져다가 전을 건축하라 그리하면 내가 그로 인하여 기뻐하고 또 영광을 얻으리라 나 여호와가 말하였느니라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 4,
+      "href": "/bible-forest/dictionary/60ba1bb11376e50012a0da53"
+    },
+    {
+      "start": 12,
+      "end": 13,
+      "href": "/bible-forest/dictionary/60ba1d581376e50012a0da5e"
+    },
+    {
+      "start": 51,
+      "end": 52,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 62,
+      "end": 64,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희는 산에 올라가서 나무를 가져다가 전을 건축하라 그리하면 내가 그로 인하여 기뻐하고 또 영광을 얻으리라 나 여호와가 말하였느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e369"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e369",
+  "book": 37,
+  "chapter": 1,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "너희가 많은 것을 바랐으나 도리어 적었고 너희가 그것을 집으로 가져갔으나 내가 불어 버렸느니라 나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노라 이것이 무슨 연고뇨 내 집은 황무하였으되 너희는 각각 자기의 집에 빨랐음이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 많은 것을 바랐으나 도리어 적었고 너희가 그것을 집으로 가져갔으나 내가 불어 버렸느니라 나 만군의 여호와가 말하노라 이것이 무슨 연고뇨 내 집은 황무하였으되 너희는 각각 자기의 집에 빨랐음이니라",
+  "link_pos": [
+    {
+      "start": 59,
+      "end": 61,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 많은 것을 바랐으나 도리어 적었고 너희가 그것을 집으로 가져갔으나 내가 불어 버렸느니라 나 만군의 여호와가 말하노라 이것이 무슨 연고뇨 내 집은 황무하였으되 너희는 각각 자기의 집에 빨랐음이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e36a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e36a",
+  "book": 37,
+  "chapter": 1,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "그러므로 너희로 인하여 "
+    },
+    {
+      "txt": "하늘",
+      "link": "60c5f93a6cfae70012b03757"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "이슬",
+      "link": "64886967ba956c0013dc179f"
+    },
+    {
+      "txt": "을 그쳤고 땅은 산물을 그쳤으며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 너희로 인하여 하늘은 이슬을 그쳤고 땅은 산물을 그쳤으며",
+  "link_pos": [
+    {
+      "start": 13,
+      "end": 14,
+      "href": "/bible-forest/dictionary/60c5f93a6cfae70012b03757"
+    },
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/64886967ba956c0013dc179f"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 너희로 인하여 하늘은 이슬을 그쳤고 땅은 산물을 그쳤으며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e36b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e36b",
+  "book": 37,
+  "chapter": 1,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "내가 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "한재",
+      "link": "6478ba91ba956c0013dc1643"
+    },
+    {
+      "txt": "를 불러 이 땅에, "
+    },
+    {
+      "txt": "산",
+      "link": "60ba1bb11376e50012a0da53"
+    },
+    {
+      "txt": "에, 곡물에, "
+    },
+    {
+      "txt": "새 포도주",
+      "link": "618cc4ebab04fd00148cc558"
+    },
+    {
+      "txt": "에, 기름에, 땅의 모든 소"
+    },
+    {
+      "txt": "산"
+    },
+    {
+      "txt": "에, 사람에게, "
+    },
+    {
+      "txt": "육축",
+      "link": "646b0646ba956c0013dc14dd"
+    },
+    {
+      "txt": "에게, "
+    },
+    {
+      "txt": "손",
+      "link": "63c817386f82e70014841c9d"
+    },
+    {
+      "txt": "으로 수고하는 모든 일에 임하게 하였느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "내가 한재를 불러 이 땅에, 산에, 곡물에, 새 포도주에, 기름에, 땅의 모든 소산에, 사람에게, 육축에게, 손으로 수고하는 모든 일에 임하게 하였느니라",
+  "link_pos": [
+    {
+      "start": 40,
+      "end": 41,
+      "href": "/bible-forest/dictionary/6478ba91ba956c0013dc1643"
+    },
+    {
+      "start": 53,
+      "end": 53,
+      "href": "/bible-forest/dictionary/60ba1bb11376e50012a0da53"
+    },
+    {
+      "start": 62,
+      "end": 66,
+      "href": "/bible-forest/dictionary/618cc4ebab04fd00148cc558"
+    },
+    {
+      "start": 92,
+      "end": 93,
+      "href": "/bible-forest/dictionary/646b0646ba956c0013dc14dd"
+    },
+    {
+      "start": 98,
+      "end": 98,
+      "href": "/bible-forest/dictionary/63c817386f82e70014841c9d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "내가 <span style=\"color:crimson;\">¹</span>한재를 불러 이 땅에, 산에, 곡물에, 새 포도주에, 기름에, 땅의 모든 소산에, 사람에게, 육축에게, 손으로 수고하는 모든 일에 임하게 하였느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e36c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e36c",
+  "book": 37,
+  "chapter": 1,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "스알디엘",
+      "link": "63cd375f6f82e70014841cfd"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "스룹바벨",
+      "link": "60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "txt": "과 <span style=\"color:crimson;\">³</span>"
+    },
+    {
+      "txt": "여호사닥",
+      "link": "63f9764f155c55001474f8f3"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "대제사장",
+      "link": "61422f31a69917001a3f04e4"
+    },
+    {
+      "txt": " <span style=\"color:crimson;\">⁴</span>"
+    },
+    {
+      "txt": "여호수아",
+      "link": "60bb83151376e50012a0db5b"
+    },
+    {
+      "txt": "와 남은바 모든 "
+    },
+    {
+      "txt": "백성"
+    },
+    {
+      "txt": "이 그 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 목소리와 "
+    },
+    {
+      "txt": "선지자",
+      "link": "6145de9d5f803400131d4a12"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "의 말을 "
+    },
+    {
+      "txt": "청종",
+      "link": "647a1388ba956c0013dc168a"
+    },
+    {
+      "txt": "하였으니 이는 그들의 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 그를 <span style=\"color:crimson;\">⁵</span>보내셨음을 인함이라 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "이 다 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "경외",
+      "link": "62a88a908f55f40014219c49"
+    },
+    {
+      "txt": "하매"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "스알디엘의 아들 스룹바벨과 여호사닥의 아들 대제사장 여호수아와 남은바 모든 백성이 그 하나님 여호와의 목소리와 선지자 학개의 말을 청종하였으니 이는 그들의 하나님 여호와께서 그를 보내셨음을 인함이라 백성이 다 여호와를 경외하매",
+  "link_pos": [
+    {
+      "start": 37,
+      "end": 40,
+      "href": "/bible-forest/dictionary/63cd375f6f82e70014841cfd"
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 83,
+      "end": 86,
+      "href": "/bible-forest/dictionary/60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "start": 126,
+      "end": 129,
+      "href": "/bible-forest/dictionary/63f9764f155c55001474f8f3"
+    },
+    {
+      "start": 132,
+      "end": 133,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 135,
+      "end": 138,
+      "href": "/bible-forest/dictionary/61422f31a69917001a3f04e4"
+    },
+    {
+      "start": 177,
+      "end": 180,
+      "href": "/bible-forest/dictionary/60bb83151376e50012a0db5b"
+    },
+    {
+      "start": 196,
+      "end": 198,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 200,
+      "end": 202,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 210,
+      "end": 212,
+      "href": "/bible-forest/dictionary/6145de9d5f803400131d4a12"
+    },
+    {
+      "start": 214,
+      "end": 215,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 221,
+      "end": 222,
+      "href": "/bible-forest/dictionary/647a1388ba956c0013dc168a"
+    },
+    {
+      "start": 235,
+      "end": 237,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 239,
+      "end": 241,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 296,
+      "end": 297,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 302,
+      "end": 304,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 307,
+      "end": 308,
+      "href": "/bible-forest/dictionary/62a88a908f55f40014219c49"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>스알디엘의 아들 <span style=\"color:crimson;\">²</span>스룹바벨과 <span style=\"color:crimson;\">³</span>여호사닥의 아들 대제사장 <span style=\"color:crimson;\">⁴</span>여호수아와 남은바 모든 백성이 그 하나님 여호와의 목소리와 선지자 학개의 말을 청종하였으니 이는 그들의 하나님 여호와께서 그를 <span style=\"color:crimson;\">⁵</span>보내셨음을 인함이라 백성이 다 여호와를 경외하매",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e36d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e36d",
+  "book": 37,
+  "chapter": 1,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "때에 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "사자",
+      "link": "63b43c246f82e700148419f9"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "가 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 명을 의지하여 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "에게 고하여 가로되 나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노니 내가 너희와 함께 하노라 하셨느니라 하니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "때에 여호와의 사자 학개가 여호와의 명을 의지하여 백성에게 고하여 가로되 나 여호와가 말하노니 내가 너희와 함께 하노라 하셨느니라 하니라",
+  "link_pos": [
+    {
+      "start": 40,
+      "end": 42,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "href": "/bible-forest/dictionary/63b43c246f82e700148419f9"
+    },
+    {
+      "start": 48,
+      "end": 49,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 52,
+      "end": 54,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 65,
+      "end": 66,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 80,
+      "end": 82,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "때에 <span style=\"color:crimson;\">¹</span>여호와의 사자 학개가 여호와의 명을 의지하여 백성에게 고하여 가로되 나 여호와가 말하노니 내가 너희와 함께하노라 하셨느니라 하니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e36e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e36e",
+  "book": 37,
+  "chapter": 1,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "스알디엘",
+      "link": "63cd375f6f82e70014841cfd"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "유다",
+      "link": "618772baab886400139a72d3"
+    },
+    {
+      "txt": " 총독 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "스룹바벨",
+      "link": "60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "txt": "의 마음과 <span style=\"color:crimson;\">³</span>"
+    },
+    {
+      "txt": "여호사닥",
+      "link": "63f9764f155c55001474f8f3"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "대제사장",
+      "link": "61422f31a69917001a3f04e4"
+    },
+    {
+      "txt": " <span style=\"color:crimson;\">⁴</span>"
+    },
+    {
+      "txt": "여호수아",
+      "link": "60bb83151376e50012a0db5b"
+    },
+    {
+      "txt": "의 마음과 남은바 모든 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "의 마음을 흥분시키시매 그들이 와서 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": " 그들의 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 전"
+    },
+    {
+      "txt": "역사",
+      "link": "641d9254050c7b00137963a0"
+    },
+    {
+      "txt": "를 하였으니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "여호와께서 스알디엘의 아들 유다 총독 스룹바벨의 마음과 여호사닥의 아들 대제사장 여호수아의 마음과 남은바 모든 백성의 마음을 흥분시키시매 그들이 와서 만군의 여호와 그들의 하나님의 전역사를 하였으니",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 43,
+      "end": 46,
+      "href": "/bible-forest/dictionary/63cd375f6f82e70014841cfd"
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 52,
+      "end": 53,
+      "href": "/bible-forest/dictionary/618772baab886400139a72d3"
+    },
+    {
+      "start": 95,
+      "end": 98,
+      "href": "/bible-forest/dictionary/60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "start": 142,
+      "end": 145,
+      "href": "/bible-forest/dictionary/63f9764f155c55001474f8f3"
+    },
+    {
+      "start": 148,
+      "end": 149,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 151,
+      "end": 154,
+      "href": "/bible-forest/dictionary/61422f31a69917001a3f04e4"
+    },
+    {
+      "start": 193,
+      "end": 196,
+      "href": "/bible-forest/dictionary/60bb83151376e50012a0db5b"
+    },
+    {
+      "start": 210,
+      "end": 211,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 236,
+      "end": 238,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 244,
+      "end": 246,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 250,
+      "end": 251,
+      "href": "/bible-forest/dictionary/641d9254050c7b00137963a0"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "여호와께서 <span style=\"color:crimson;\">¹</span>스알디엘의 아들 유다 총독 <span style=\"color:crimson;\">²</span>스룹바벨의 마음과 <span style=\"color:crimson;\">³</span>여호사닥의 아들 대제사장 <span style=\"color:crimson;\">⁴</span>여호수아의 마음과 남은바 모든 백성의 마음을 흥분시키시매 그들이 와서 만군의 여호와 그들의 하나님의 전역사를 하였으니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e36f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e36f",
+  "book": 37,
+  "chapter": 1,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "때는 "
+    },
+    {
+      "txt": "다리오",
+      "link": "61459f685f803400131d49ed"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "왕",
+      "link": "60b9fd141376e50012a0da00"
+    },
+    {
+      "txt": " 이년 유월 이십사일이었더라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "때는 다리오 왕 이년 유월 이십사일이었더라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 5,
+      "href": "/bible-forest/dictionary/61459f685f803400131d49ed"
+    },
+    {
+      "start": 7,
+      "end": 7,
+      "href": "/bible-forest/dictionary/60b9fd141376e50012a0da00"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "때는 다리오 왕 이년 유월 이십사일이었더라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e370"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e370",
+  "book": 37,
+  "chapter": 2,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "칠월 곧 그 달 이십일일에 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "선지자",
+      "link": "6145de9d5f803400131d4a12"
+    },
+    {
+      "txt": " <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "에게 임하니라 "
+    },
+    {
+      "txt": "가라사대",
+      "link": "62b7209c8f55f40014219d70"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "칠월 곧 그 달 이십일일에 여호와의 말씀이 선지자 학개에게 임하니라 가라사대",
+  "link_pos": [
+    {
+      "start": 15,
+      "end": 17,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 20,
+      "end": 21,
+      "href": "/bible-forest/dictionary/62356e018f55f40012a0da23"
+    },
+    {
+      "start": 24,
+      "end": 26,
+      "href": "/bible-forest/dictionary/6145de9d5f803400131d4a12"
+    },
+    {
+      "start": 65,
+      "end": 66,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 75,
+      "end": 78,
+      "href": "/bible-forest/dictionary/62b7209c8f55f40014219d70"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "칠월 곧 그 달 이십일일에 여호와의 말씀이 선지자 <span style=\"color:crimson;\">¹</span>학개에게 임하니라 가라사대",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e371"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e371",
+  "book": 37,
+  "chapter": 2,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "너는 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "스알디엘",
+      "link": "63cd375f6f82e70014841cfd"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "유다",
+      "link": "618772baab886400139a72d3"
+    },
+    {
+      "txt": " 총독 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "스룹바벨",
+      "link": "60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "txt": "과 <span style=\"color:crimson;\">³</span>"
+    },
+    {
+      "txt": "여호사닥",
+      "link": "63f9764f155c55001474f8f3"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "대제사장",
+      "link": "61422f31a69917001a3f04e4"
+    },
+    {
+      "txt": " <span style=\"color:crimson;\">⁴</span>"
+    },
+    {
+      "txt": "여호수아",
+      "link": "60bb83151376e50012a0db5b"
+    },
+    {
+      "txt": "와 남은 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "에게 고하여 이르라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너는 스알디엘의 아들 유다 총독 스룹바벨과 여호사닥의 아들 대제사장 여호수아와 남은 백성에게 고하여 이르라",
+  "link_pos": [
+    {
+      "start": 40,
+      "end": 43,
+      "href": "/bible-forest/dictionary/63cd375f6f82e70014841cfd"
+    },
+    {
+      "start": 46,
+      "end": 47,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "href": "/bible-forest/dictionary/618772baab886400139a72d3"
+    },
+    {
+      "start": 92,
+      "end": 95,
+      "href": "/bible-forest/dictionary/60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "start": 135,
+      "end": 138,
+      "href": "/bible-forest/dictionary/63f9764f155c55001474f8f3"
+    },
+    {
+      "start": 141,
+      "end": 142,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 144,
+      "end": 147,
+      "href": "/bible-forest/dictionary/61422f31a69917001a3f04e4"
+    },
+    {
+      "start": 186,
+      "end": 189,
+      "href": "/bible-forest/dictionary/60bb83151376e50012a0db5b"
+    },
+    {
+      "start": 195,
+      "end": 196,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너는 <span style=\"color:crimson;\">¹</span>스알디엘의 아들 유다 총독 <span style=\"color:crimson;\">²</span>스룹바벨과 <span style=\"color:crimson;\">³</span>여호사닥의 아들 대제사장 <span style=\"color:crimson;\">⁴</span>여호수아와 남은 백성에게 고하여 이르라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e372"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e372",
+  "book": 37,
+  "chapter": 2,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "너희 중에 남아 있는 자 곧 <span style=\"color:crimson;\">¹</span>이 전의 이전 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "을 본 자가 누구냐 이제 이것이 너희에게 어떻게 보이느냐 이것이 너희 "
+    },
+    {
+      "txt": "눈",
+      "link": "6303655bf7b0360013928f6b"
+    },
+    {
+      "txt": "에 보잘것이 없지 아니하냐"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 중에 남아 있는 자 곧 이 전의 이전 영광을 본 자가 누구냐 이제 이것이 너희에게 어떻게 보이느냐 이것이 너희 눈에 보잘것이 없지 아니하냐",
+  "link_pos": [
+    {
+      "start": 61,
+      "end": 62,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 102,
+      "end": 102,
+      "href": "/bible-forest/dictionary/6303655bf7b0360013928f6b"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 중에 남아 있는 자 곧 <span style=\"color:crimson;\">¹</span>이 전의 이전 영광을 본 자가 누구냐 이제 이것이 너희에게 어떻게 보이느냐 이것이 너희 눈에 보잘것이 없지 아니하냐",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e373"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e373",
+  "book": 37,
+  "chapter": 2,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "그러나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 이르노라 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "스룹바벨",
+      "link": "60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "txt": "아 스스로 굳세게 할지어다 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "여호사닥",
+      "link": "63f9764f155c55001474f8f3"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "대제사장",
+      "link": "61422f31a69917001a3f04e4"
+    },
+    {
+      "txt": " <span style=\"color:crimson;\">³</span>"
+    },
+    {
+      "txt": "여호수아",
+      "link": "60bb83151376e50012a0db5b"
+    },
+    {
+      "txt": "야 스스로 굳세게 할지어다 나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라 이 땅 모든 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "아 스스로 굳세게 하여 일할지어다 내가 너희와 함께 하노라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러나 여호와가 이르노라 스룹바벨아 스스로 굳세게 할지어다 여호사닥의 아들 대제사장 여호수아야 스스로 굳세게 할지어다 나 여호와의 말이니라 이 땅 모든 백성아 스스로 굳세게 하여 일할지어다 내가 너희와 함께 하노라 만군의 여호와의 말이니라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 51,
+      "end": 54,
+      "href": "/bible-forest/dictionary/60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "start": 107,
+      "end": 110,
+      "href": "/bible-forest/dictionary/63f9764f155c55001474f8f3"
+    },
+    {
+      "start": 113,
+      "end": 114,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 116,
+      "end": 119,
+      "href": "/bible-forest/dictionary/61422f31a69917001a3f04e4"
+    },
+    {
+      "start": 158,
+      "end": 161,
+      "href": "/bible-forest/dictionary/60bb83151376e50012a0db5b"
+    },
+    {
+      "start": 179,
+      "end": 181,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 196,
+      "end": 197,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 235,
+      "end": 237,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러나 여호와가 이르노라 <span style=\"color:crimson;\">¹</span>스룹바벨아 스스로 굳세게 할지어다 <span style=\"color:crimson;\">²</span>여호사닥의 아들 대제사장 <span style=\"color:crimson;\">³</span>여호수아야 스스로 굳세게 할지어다 나 여호와의 말이니라 이 땅 모든 백성아 스스로 굳세게 하여 일할지어다 내가 너희와 함께 하노라 만군의 여호와의 말이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e374"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e374",
+  "book": 37,
+  "chapter": 2,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "너희가 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "애굽",
+      "link": "60feb3851ef2ea00133538cc"
+    },
+    {
+      "txt": "에서 나올 때에 내가 너희와 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "언약",
+      "link": "618a96f1c5894b001b8c5c28"
+    },
+    {
+      "txt": "한 말과 나의 신이 오히려 너희 중에 머물러 있나니 너희는 두려워하지 말지어다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 애굽에서 나올 때에 내가 너희와 언약한 말과 나의 신이 오히려 너희 중에 머물러 있나니 너희는 두려워하지 말지어다",
+  "link_pos": [
+    {
+      "start": 41,
+      "end": 42,
+      "href": "/bible-forest/dictionary/60feb3851ef2ea00133538cc"
+    },
+    {
+      "start": 96,
+      "end": 97,
+      "href": "/bible-forest/dictionary/618a96f1c5894b001b8c5c28"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 <span style=\"color:crimson;\">¹</span>애굽에서 나올 때에 내가 너희와 <span style=\"color:crimson;\">²</span>언약한 말과 나의 신이 오히려 너희 중에 머물러 있나니 너희는 두려워하지 말찌어다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e375"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e375",
+  "book": 37,
+  "chapter": 2,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노라 조금 있으면 내가 "
+    },
+    {
+      "txt": "하늘",
+      "link": "60c5f93a6cfae70012b03757"
+    },
+    {
+      "txt": "과 땅과 "
+    },
+    {
+      "txt": "바다",
+      "link": "60ba366e1376e50012a0dad2"
+    },
+    {
+      "txt": "와 육지를 <span style=\"color:crimson;\">¹</span>진동시킬 것이요"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "나 만군의 여호와가 말하노라 조금 있으면 내가 하늘과 땅과 바다와 육지를 진동시킬 것이요",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 8,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 26,
+      "end": 27,
+      "href": "/bible-forest/dictionary/60c5f93a6cfae70012b03757"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/60ba366e1376e50012a0dad2"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "나 만군의 여호와가 말하노라 조금 있으면 내가 하늘과 땅과 바다와 육지를 <span style=\"color:crimson;\">¹</span>진동시킬 것이요",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e376"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e376",
+  "book": 37,
+  "chapter": 2,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "또한 "
+    },
+    {
+      "txt": "만국",
+      "link": "60bb1fb41376e50012a0db28"
+    },
+    {
+      "txt": "을 <span style=\"color:crimson;\">¹</span>진동시킬 것이며 "
+    },
+    {
+      "txt": "만국",
+      "link": "60bb1fb41376e50012a0db28"
+    },
+    {
+      "txt": "의 <span style=\"color:Blue;\">ᵃ</span>"
+    },
+    {
+      "txt": "보배",
+      "link": "623432858f55f40014219955"
+    },
+    {
+      "txt": "가 이르리니 내가 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "으로 <span style=\"color:crimson;\">²</span>이 전에 "
+    },
+    {
+      "txt": "충만",
+      "link": "647add64ba956c0013dc1695"
+    },
+    {
+      "txt": "케 하리라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "또한 만국을 진동시킬 것이며 만국의 보배가 이르리니 내가 영광으로 이 전에 충만케 하리라 만군의 여호와의 말이니라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/60bb1fb41376e50012a0db28"
+    },
+    {
+      "start": 53,
+      "end": 54,
+      "href": "/bible-forest/dictionary/60bb1fb41376e50012a0db28"
+    },
+    {
+      "start": 91,
+      "end": 92,
+      "href": "/bible-forest/dictionary/623432858f55f40014219955"
+    },
+    {
+      "start": 103,
+      "end": 104,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 150,
+      "end": 151,
+      "href": "/bible-forest/dictionary/647add64ba956c0013dc1695"
+    },
+    {
+      "start": 162,
+      "end": 164,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "또한 만국을 <span style=\"color:crimson;\">¹</span>진동시킬 것이며 만국의 <span style=\"color:gray;\">¹</span>보배가 이르리니 내가 영광으로 <span style=\"color:crimson;\">²</span>이 전에 충만케 하리라 만군의 여호와의 말이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e377"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e377",
+  "book": 37,
+  "chapter": 2,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "은",
+      "link": "63f0cd8b155c55001474f781"
+    },
+    {
+      "txt": "도 내 것이요 금도 내 것이니라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "은도 내 것이요 금도 내 것이니라 만군의 여호와의 말이니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 0,
+      "href": "/bible-forest/dictionary/63f0cd8b155c55001474f781"
+    },
+    {
+      "start": 23,
+      "end": 25,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "은도 내 것이요 금도 내 것이니라 만군의 여호와의 말이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e378"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e378",
+  "book": 37,
+  "chapter": 2,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "이 전의 "
+    },
+    {
+      "txt": "나중",
+      "link": "6300f4e4f7b0360013928f50"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "이 이전 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "보다 크리라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라 내가 이곳에 "
+    },
+    {
+      "txt": "평강",
+      "link": "648853c9ba956c0013dc1797"
+    },
+    {
+      "txt": "을 주리라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이 전의 나중 영광이 이전 영광보다 크리라 만군의 여호와의 말이니라 내가 이곳에 평강을 주리라 만군의 여호와의 말이니라",
+  "link_pos": [
+    {
+      "start": 5,
+      "end": 6,
+      "href": "/bible-forest/dictionary/6300f4e4f7b0360013928f50"
+    },
+    {
+      "start": 8,
+      "end": 9,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 15,
+      "end": 16,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 28,
+      "end": 30,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "href": "/bible-forest/dictionary/648853c9ba956c0013dc1797"
+    },
+    {
+      "start": 57,
+      "end": 59,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이 전의 나중 영광이 이전 영광보다 크리라 만군의 여호와의 말이니라 내가 이곳에 평강을 주리라 만군의 여호와의 말이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e379"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e379",
+  "book": 37,
+  "chapter": 2,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "다리오",
+      "link": "61459f685f803400131d49ed"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "왕",
+      "link": "60b9fd141376e50012a0da00"
+    },
+    {
+      "txt": " 이년 구월 이십사일에 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "선지자",
+      "link": "6145de9d5f803400131d4a12"
+    },
+    {
+      "txt": " <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "에게 임하니라 "
+    },
+    {
+      "txt": "가라사대",
+      "link": "62b7209c8f55f40014219d70"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "다리오 왕 이년 구월 이십사일에 여호와의 말씀이 선지자 학개에게 임하니라 가라사대",
+  "link_pos": [
+    {
+      "start": 37,
+      "end": 39,
+      "href": "/bible-forest/dictionary/61459f685f803400131d49ed"
+    },
+    {
+      "start": 41,
+      "end": 41,
+      "href": "/bible-forest/dictionary/60b9fd141376e50012a0da00"
+    },
+    {
+      "start": 55,
+      "end": 57,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 60,
+      "end": 61,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    },
+    {
+      "start": 64,
+      "end": 66,
+      "href": "/bible-forest/dictionary/6145de9d5f803400131d4a12"
+    },
+    {
+      "start": 105,
+      "end": 106,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 115,
+      "end": 118,
+      "href": "/bible-forest/dictionary/62b7209c8f55f40014219d70"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>다리오왕 이년 구월 이십 사일에 여호와의 말씀이 선지자 <span style=\"color:crimson;\">²</span>학개에게 임하니라 가라사대",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e37a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e37a",
+  "book": 37,
+  "chapter": 2,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노니 너는 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "제사장",
+      "link": "60ba18a41376e50012a0da36"
+    },
+    {
+      "txt": "에게 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "율법",
+      "link": "6155b133fca7a4001a586e18"
+    },
+    {
+      "txt": "에 대하여 물어 이르기를"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "나 만군의 여호와가 말하노니 너는 제사장에게 율법에 대하여 물어 이르기를",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 8,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 56,
+      "end": 58,
+      "href": "/bible-forest/dictionary/60ba18a41376e50012a0da36"
+    },
+    {
+      "start": 99,
+      "end": 100,
+      "href": "/bible-forest/dictionary/6155b133fca7a4001a586e18"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "나 만군의 여호와가 말하노니 너는 <span style=\"color:crimson;\">¹</span>제사장에게 <span style=\"color:crimson;\">²</span>율법에 대하여 물어 이르기를",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e37b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e37b",
+  "book": 37,
+  "chapter": 2,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "사람이 옷자락에 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "한 고기를 쌌는데 그 옷자락이 만일 떡에나"
+    },
+    {
+      "txt": " 국에",
+      "link": "62a412b18f55f40014219c08"
+    },
+    {
+      "txt": "나 "
+    },
+    {
+      "txt": "포도주",
+      "link": "60b9fce61376e50012a0d9fc"
+    },
+    {
+      "txt": "에나 기름에나 다른 "
+    },
+    {
+      "txt": "식물",
+      "link": "63d799ca71ef9d001487b57e"
+    },
+    {
+      "txt": "에 닿았으면 그것이 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "성물",
+      "link": "63dcb8a2155c55001474f56a"
+    },
+    {
+      "txt": "이 되겠느냐 하라 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "가 물으매 <span style=\"color:crimson;\">³</span>"
+    },
+    {
+      "txt": "제사장",
+      "link": "60ba18a41376e50012a0da36"
+    },
+    {
+      "txt": "들이 대답하여 가로되 아니니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사람이 옷자락에 거룩한 고기를 쌌는데 그 옷자락이 만일 떡에나 국에나 포도주에나 기름에나 다른 식물에 닿았으면 그것이 성물이 되겠느냐 하라 학개가 물으매 제사장들이 대답하여 가로되 아니니라",
+  "link_pos": [
+    {
+      "start": 9,
+      "end": 10,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    },
+    {
+      "start": 34,
+      "end": 36,
+      "href": "/bible-forest/dictionary/62a412b18f55f40014219c08"
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "href": "/bible-forest/dictionary/60b9fce61376e50012a0d9fc"
+    },
+    {
+      "start": 53,
+      "end": 54,
+      "href": "/bible-forest/dictionary/63d799ca71ef9d001487b57e"
+    },
+    {
+      "start": 103,
+      "end": 104,
+      "href": "/bible-forest/dictionary/63dcb8a2155c55001474f56a"
+    },
+    {
+      "start": 152,
+      "end": 153,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 197,
+      "end": 199,
+      "href": "/bible-forest/dictionary/60ba18a41376e50012a0da36"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사람이 옷자락에 거룩한 고기를 쌌는데 그 옷자락이 만일 떡에나 국에나 포도주에나 기름에나 다른 식물에 닿았으면 그것이 <span style=\"color:crimson;\">¹</span>성물이 되겠느냐 하라 <span style=\"color:crimson;\">²</span>학개가 물으매 <span style=\"color:crimson;\">³</span>제사장들이 대답하여 가로되 아니니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e37c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e37c",
+  "book": 37,
+  "chapter": 2,
+  "verse": 13,
+  "content": [
+    {
+      "txt": ""
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "가 가로되 시체를 만져서 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "부정",
+      "link": "63abb1ab6f82e7001484194d"
+    },
+    {
+      "txt": "하여진 자가 만일 그것들 중에 하나를 만지면 그것이 "
+    },
+    {
+      "txt": "부정",
+      "link": "63abb1ab6f82e7001484194d"
+    },
+    {
+      "txt": "하겠느냐 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "제사장",
+      "link": "60ba18a41376e50012a0da36"
+    },
+    {
+      "txt": "들이 대답하여 가로되 "
+    },
+    {
+      "txt": "부정",
+      "link": "63abb1ab6f82e7001484194d"
+    },
+    {
+      "txt": "하겠느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "학개가 가로되 시체를 만져서 부정하여진 자가 만일 그것들 중에 하나를 만지면 그것이 부정하겠느냐 제사장들이 대답하여 가로되 부정하겠느니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 53,
+      "end": 54,
+      "href": "/bible-forest/dictionary/63abb1ab6f82e7001484194d"
+    },
+    {
+      "start": 84,
+      "end": 85,
+      "href": "/bible-forest/dictionary/63abb1ab6f82e7001484194d"
+    },
+    {
+      "start": 128,
+      "end": 130,
+      "href": "/bible-forest/dictionary/60ba18a41376e50012a0da36"
+    },
+    {
+      "start": 143,
+      "end": 144,
+      "href": "/bible-forest/dictionary/63abb1ab6f82e7001484194d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "학개가 가로되 시체를 만져서 <span style=\"color:crimson;\">¹</span>부정하여진 자가 만일 그것들 중에 하나를 만지면 그것이 부정하겠느냐 <span style=\"color:crimson;\">²</span>제사장들이 대답하여 가로되 부정하겠느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e37d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e37d",
+  "book": 37,
+  "chapter": 2,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "이에 "
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "가 대답하여 가로되 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "에 내 앞에서 이 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "이 그러하고 이 "
+    },
+    {
+      "txt": "나라",
+      "link": "60ba1bcc1376e50012a0da54"
+    },
+    {
+      "txt": "가 그러하고 그 "
+    },
+    {
+      "txt": "손",
+      "link": "63c817386f82e70014841c9d"
+    },
+    {
+      "txt": "의 모든 일도 그러하고 그들이 거기서 드리는 것도 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "부정",
+      "link": "63abb1ab6f82e7001484194d"
+    },
+    {
+      "txt": "하니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이에 학개가 대답하여 가로되 여호와의 말씀에 내 앞에서 이 백성이 그러하고 이 나라가 그러하고 그 손의 모든 일도 그러하고 그들이 거기서 드리는 것도 부정하니라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 16,
+      "end": 18,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 21,
+      "end": 22,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "href": "/bible-forest/dictionary/60ba1bcc1376e50012a0da54"
+    },
+    {
+      "start": 55,
+      "end": 55,
+      "href": "/bible-forest/dictionary/63c817386f82e70014841c9d"
+    },
+    {
+      "start": 121,
+      "end": 122,
+      "href": "/bible-forest/dictionary/63abb1ab6f82e7001484194d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이에 학개가 대답하여 가로되 여호와의 말씀에 내 앞에서 이 백성이 그러하고 이 나라가 그러하고 그 손의 모든 일도 그러하고 그들이 거기서 드리는 것도 <span style=\"color:crimson;\">¹</span>부정하니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e37e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e37e",
+  "book": 37,
+  "chapter": 2,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "이제 청컨대 너희는 오늘부터 이전 곧 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 전에 "
+    },
+    {
+      "txt": "돌",
+      "link": "60c4abd56cfae70012b03733"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "돌",
+      "link": "60c4abd56cfae70012b03733"
+    },
+    {
+      "txt": " 위에 첩놓이지 않았던 때를 추억하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이제 청컨대 너희는 오늘부터 이전 곧 여호와의 전에 돌이 돌 위에 첩놓이지 않았던 때를 추억하라",
+  "link_pos": [
+    {
+      "start": 21,
+      "end": 23,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 29,
+      "end": 29,
+      "href": "/bible-forest/dictionary/60c4abd56cfae70012b03733"
+    },
+    {
+      "start": 32,
+      "end": 32,
+      "href": "/bible-forest/dictionary/60c4abd56cfae70012b03733"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이제 청컨대 너희는 오늘부터 이전 곧 여호와의 전에 돌이 돌 위에 첩놓이지 않았던 때를 추억하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e37f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e37f",
+  "book": 37,
+  "chapter": 2,
+  "verse": 16,
+  "content": [
+    {
+      "txt": "그 때에는 이십 "
+    },
+    {
+      "txt": "석",
+      "link": "63c5478a6f82e70014841bfd"
+    },
+    {
+      "txt": " 곡식더미에 이른즉 십 "
+    },
+    {
+      "txt": "석",
+      "link": "63c5478a6f82e70014841bfd"
+    },
+    {
+      "txt": "뿐이었고 포도즙 틀에 오십 그릇을 길으려 이른즉 이십 그릇뿐이었었느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그 때에는 이십 석 곡식더미에 이른즉 십 석뿐이었고 포도즙 틀에 오십 그릇을 길으려 이른즉 이십 그릇뿐이었었느니라",
+  "link_pos": [
+    {
+      "start": 9,
+      "end": 9,
+      "href": "/bible-forest/dictionary/63c5478a6f82e70014841bfd"
+    },
+    {
+      "start": 23,
+      "end": 23,
+      "href": "/bible-forest/dictionary/63c5478a6f82e70014841bfd"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그 때에는 이십 석 곡식더미에 이른즉 십 석뿐이었고 포도즙 틀에 오십 그릇을 길으려 이른즉 이십 그릇뿐이었었느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e380"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e380",
+  "book": 37,
+  "chapter": 2,
+  "verse": 17,
+  "content": [
+    {
+      "txt": "나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노라 내가 너희 "
+    },
+    {
+      "txt": "손",
+      "link": "63c817386f82e70014841c9d"
+    },
+    {
+      "txt": "으로 지은 모든 일에 폭풍과 곰팡과 "
+    },
+    {
+      "txt": "우박",
+      "link": "60ba241f1376e50012a0da89"
+    },
+    {
+      "txt": "으로 쳤으나 너희가 내게로 돌이키지 아니하였었느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "나 만군의 여호와가 말하노라 내가 너희 손으로 지은 모든 일에 폭풍과 곰팡과 우박으로 쳤으나 너희가 내게로 돌이키지 아니하였었느니라",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 8,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 22,
+      "end": 22,
+      "href": "/bible-forest/dictionary/63c817386f82e70014841c9d"
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "href": "/bible-forest/dictionary/60ba241f1376e50012a0da89"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "나 만군의 여호와가 말하노라 내가 너희 손으로 지은 모든 일에 폭풍과 곰팡과 우박으로 쳤으나 너희가 내게로 돌이키지 아니하였었느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e381"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e381",
+  "book": 37,
+  "chapter": 2,
+  "verse": 18,
+  "content": [
+    {
+      "txt": "너희는 오늘부터 이전을 추억하여 "
+    },
+    {
+      "txt": "보라",
+      "link": "63c806686f82e70014841c8d"
+    },
+    {
+      "txt": " 구월 이십사일 곧 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 전 지대를 쌓던 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "부터 추억하여 "
+    },
+    {
+      "txt": "보라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희는 오늘부터 이전을 추억하여 보라 구월 이십사일 곧 여호와의 전 지대를 쌓던 날부터 추억하여 보라",
+  "link_pos": [
+    {
+      "start": 18,
+      "end": 19,
+      "href": "/bible-forest/dictionary/63c806686f82e70014841c8d"
+    },
+    {
+      "start": 31,
+      "end": 33,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 45,
+      "end": 45,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희는 오늘부터 이전을 추억하여 보라 구월 이십사일 곧 여호와의 전 지대를 쌓던 날부터 추억하여 보라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e382"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e382",
+  "book": 37,
+  "chapter": 2,
+  "verse": 19,
+  "content": [
+    {
+      "txt": "곡식 "
+    },
+    {
+      "txt": "종자",
+      "link": "64663e85ba956c0013dc143c"
+    },
+    {
+      "txt": "가 오히려 "
+    },
+    {
+      "txt": "창고",
+      "link": "64735c16ba956c0013dc157d"
+    },
+    {
+      "txt": "에 있느냐 포도"
+    },
+    {
+      "txt": "나무"
+    },
+    {
+      "txt": ", "
+    },
+    {
+      "txt": "무화과",
+      "link": "6370ec7b6f82e7001484153d"
+    },
+    {
+      "txt": "나무",
+      "link": "60ba1d581376e50012a0da5e"
+    },
+    {
+      "txt": ", "
+    },
+    {
+      "txt": "석류",
+      "link": "63c549046f82e70014841bfe"
+    },
+    {
+      "txt": "나무",
+      "link": "60ba1d581376e50012a0da5e"
+    },
+    {
+      "txt": ", "
+    },
+    {
+      "txt": "감람나무",
+      "link": "60ba1b7c1376e50012a0da4f"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "열매",
+      "link": "60ba29a51376e50012a0daa6"
+    },
+    {
+      "txt": "가 맺지 못하였었느니라 그러나 오늘부터는 내가 너희에게 "
+    },
+    {
+      "txt": "복",
+      "link": "60bc526a1376e50012a0db6a"
+    },
+    {
+      "txt": "을 주리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "곡식 종자가 오히려 창고에 있느냐 포도나무, 무화과나무, 석류나무, 감람나무에 열매가 맺지 못하였었느니라 그러나 오늘부터는 내가 너희에게 복을 주리라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/64663e85ba956c0013dc143c"
+    },
+    {
+      "start": 11,
+      "end": 12,
+      "href": "/bible-forest/dictionary/64735c16ba956c0013dc157d"
+    },
+    {
+      "start": 25,
+      "end": 27,
+      "href": "/bible-forest/dictionary/6370ec7b6f82e7001484153d"
+    },
+    {
+      "start": 28,
+      "end": 29,
+      "href": "/bible-forest/dictionary/60ba1d581376e50012a0da5e"
+    },
+    {
+      "start": 32,
+      "end": 33,
+      "href": "/bible-forest/dictionary/63c549046f82e70014841bfe"
+    },
+    {
+      "start": 34,
+      "end": 35,
+      "href": "/bible-forest/dictionary/60ba1d581376e50012a0da5e"
+    },
+    {
+      "start": 38,
+      "end": 41,
+      "href": "/bible-forest/dictionary/60ba1b7c1376e50012a0da4f"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "href": "/bible-forest/dictionary/60ba29a51376e50012a0daa6"
+    },
+    {
+      "start": 77,
+      "end": 77,
+      "href": "/bible-forest/dictionary/60bc526a1376e50012a0db6a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "곡식 종자가 오히려 창고에 있느냐 포도나무, 무화과나무, 석류나무, 감람나무에 열매가 맺지 못하였었느니라 그러나 오늘부터는 내가 너희에게 복을 주리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e383"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e383",
+  "book": 37,
+  "chapter": 2,
+  "verse": 20,
+  "content": [
+    {
+      "txt": "그 달 이십사일에 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "이 다시 "
+    },
+    {
+      "txt": "학개",
+      "link": "60ba07d61376e50012a0da23"
+    },
+    {
+      "txt": "에게 임하니라 "
+    },
+    {
+      "txt": "가라사대",
+      "link": "62b7209c8f55f40014219d70"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그 달 이십사일에 여호와의 말씀이 다시 학개에게 임하니라 가라사대",
+  "link_pos": [
+    {
+      "start": 10,
+      "end": 12,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 15,
+      "end": 16,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    },
+    {
+      "start": 22,
+      "end": 23,
+      "href": "/bible-forest/dictionary/60ba07d61376e50012a0da23"
+    },
+    {
+      "start": 32,
+      "end": 35,
+      "href": "/bible-forest/dictionary/62b7209c8f55f40014219d70"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그 달 이십사일에 여호와의 말씀이 다시 학개에게 임하니라 가라사대",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e384"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e384",
+  "book": 37,
+  "chapter": 2,
+  "verse": 21,
+  "content": [
+    {
+      "txt": "너는 "
+    },
+    {
+      "txt": "유다",
+      "link": "618772baab886400139a72d3"
+    },
+    {
+      "txt": " 총독 "
+    },
+    {
+      "txt": "스룹바벨",
+      "link": "60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "txt": "에게 고하여 이르라 내가 "
+    },
+    {
+      "txt": "하늘",
+      "link": "60c5f93a6cfae70012b03757"
+    },
+    {
+      "txt": "과 땅을 진동시킬 것이요"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너는 유다 총독 스룹바벨에게 고하여 이르라 내가 하늘과 땅을 진동시킬 것이요",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/618772baab886400139a72d3"
+    },
+    {
+      "start": 9,
+      "end": 12,
+      "href": "/bible-forest/dictionary/60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "start": 27,
+      "end": 28,
+      "href": "/bible-forest/dictionary/60c5f93a6cfae70012b03757"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너는 유다 총독 스룹바벨에게 고하여 이르라 내가 하늘과 땅을 진동시킬 것이요",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e385"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e385",
+  "book": 37,
+  "chapter": 2,
+  "verse": 22,
+  "content": [
+    {
+      "txt": "열국",
+      "link": "6239f5468f55f40014219982"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "보좌",
+      "link": "60ba23ed1376e50012a0da87"
+    },
+    {
+      "txt": "를 엎을 것이요 "
+    },
+    {
+      "txt": "열방",
+      "link": "63f0fc75155c55001474f7a9"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "세력",
+      "link": "63bcf2216f82e70014841af7"
+    },
+    {
+      "txt": "을 멸할 것이요 그 "
+    },
+    {
+      "txt": "병거",
+      "link": "6187db70ab886400139a72de"
+    },
+    {
+      "txt": "들과 그 탄 자를 엎드러뜨리리니 말과 그 탄 자가 각각 그 동무의"
+    },
+    {
+      "txt": " 칼",
+      "link": "6470c91bba956c0013dc152b"
+    },
+    {
+      "txt": "에 엎드러지리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "열국의 보좌를 엎을 것이요 열방의 세력을 멸할 것이요 그 병거들과 그 탄 자를 엎드러뜨리리니 말과 그 탄 자가 각각 그 동무의 칼에 엎드러지리라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/6239f5468f55f40014219982"
+    },
+    {
+      "start": 4,
+      "end": 5,
+      "href": "/bible-forest/dictionary/60ba23ed1376e50012a0da87"
+    },
+    {
+      "start": 15,
+      "end": 16,
+      "href": "/bible-forest/dictionary/63f0fc75155c55001474f7a9"
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "href": "/bible-forest/dictionary/63bcf2216f82e70014841af7"
+    },
+    {
+      "start": 32,
+      "end": 33,
+      "href": "/bible-forest/dictionary/6187db70ab886400139a72de"
+    },
+    {
+      "start": 70,
+      "end": 71,
+      "href": "/bible-forest/dictionary/6470c91bba956c0013dc152b"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "열국의 보좌를 엎을 것이요 열방의 세력을 멸할 것이요 그 병거들과 그 탄 자를 엎드러뜨리리니 말과 그 탄 자가 각각 그 동무의 칼에 엎드러지리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e386"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219707,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e386",
+  "book": 37,
+  "chapter": 2,
+  "verse": 23,
+  "content": [
+    {
+      "txt": "나 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노라 "
+    },
+    {
+      "txt": "스알디엘",
+      "link": "63cd375f6f82e70014841cfd"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " 내 "
+    },
+    {
+      "txt": "종",
+      "link": "62296a218f55f40014219934"
+    },
+    {
+      "txt": "  "
+    },
+    {
+      "txt": "스룹바벨",
+      "link": "60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "txt": "아 나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노라 그 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 내가 너를 취하고 너로 <span style=\"color:crimson;\">¹</span>인을 삼으리니 이는 내가 너를 "
+    },
+    {
+      "txt": "택",
+      "link": "646ccea9ba956c0013dc14ff"
+    },
+    {
+      "txt": "하였음이니라 만군의 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 말이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "나 만군의 여호와가 말하노라 스알디엘의 아들 내 종 스룹바벨아 나 여호와가 말하노라 그 날에 내가 너를 취하고 너로 인을 삼으리니 이는 내가 너를 택하였음이니라 만군의 여호와의 말이니라",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 8,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 16,
+      "end": 19,
+      "href": "/bible-forest/dictionary/63cd375f6f82e70014841cfd"
+    },
+    {
+      "start": 22,
+      "end": 23,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    },
+    {
+      "start": 27,
+      "end": 27,
+      "href": "/bible-forest/dictionary/62296a218f55f40014219934"
+    },
+    {
+      "start": 30,
+      "end": 33,
+      "href": "/bible-forest/dictionary/60b9fcb61376e50012a0d9fb"
+    },
+    {
+      "start": 37,
+      "end": 39,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 49,
+      "end": 49,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 119,
+      "end": 119,
+      "href": "/bible-forest/dictionary/646ccea9ba956c0013dc14ff"
+    },
+    {
+      "start": 131,
+      "end": 133,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "나 만군의 여호와가 말하노라 스알디엘의 아들 내 종 스룹바벨아 나 여호와가 말하노라 그 날에 내가 너를 취하고 너로 <span style=\"color:crimson;\">¹</span>인을 삼으리니 이는 내가 너를 택하였음이니라 만군의 여호와의 말이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+}]
