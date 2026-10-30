@@ -1,0 +1,8103 @@
+[{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400ce"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400ce",
+  "book": 60,
+  "chapter": 1,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "사도",
+      "link": "6152be53fca7a4001a586e0e"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "베드로",
+      "link": "611f08f2e8113c001ae0b4a8"
+    },
+    {
+      "txt": "는 "
+    },
+    {
+      "txt": "본도",
+      "link": "63b7fc696f82e70014841a48"
+    },
+    {
+      "txt": ", "
+    },
+    {
+      "txt": "갈라디아",
+      "link": "62b80d438f55f40014219d8a"
+    },
+    {
+      "txt": ", "
+    },
+    {
+      "txt": "갑바도기아",
+      "link": "62bef3b68f55f40014219e13"
+    },
+    {
+      "txt": ", "
+    },
+    {
+      "txt": "아시아",
+      "link": "63f47b66155c55001474f840"
+    },
+    {
+      "txt": "와 "
+    },
+    {
+      "txt": "비두니아",
+      "link": "63a300d86f82e70014841799"
+    },
+    {
+      "txt": " 에 흩어진 "
+    },
+    {
+      "txt": "나그네",
+      "link": "62f500c355b278001668dd3c"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "예수 그리스도의 사도 베드로는 본도, 갈라디아, 갑바도기아, 아시아와 비두니아 에 흩어진 나그네",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 3,
+      "end": 6,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 9,
+      "end": 10,
+      "href": "/bible-forest/dictionary/6152be53fca7a4001a586e0e"
+    },
+    {
+      "start": 12,
+      "end": 14,
+      "href": "/bible-forest/dictionary/611f08f2e8113c001ae0b4a8"
+    },
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/63b7fc696f82e70014841a48"
+    },
+    {
+      "start": 21,
+      "end": 24,
+      "href": "/bible-forest/dictionary/62b80d438f55f40014219d8a"
+    },
+    {
+      "start": 27,
+      "end": 31,
+      "href": "/bible-forest/dictionary/62bef3b68f55f40014219e13"
+    },
+    {
+      "start": 34,
+      "end": 36,
+      "href": "/bible-forest/dictionary/63f47b66155c55001474f840"
+    },
+    {
+      "start": 39,
+      "end": 42,
+      "href": "/bible-forest/dictionary/63a300d86f82e70014841799"
+    },
+    {
+      "start": 49,
+      "end": 51,
+      "href": "/bible-forest/dictionary/62f500c355b278001668dd3c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "예수 그리스도의 사도 베드로는 본도, 갈라디아, 갑바도기아, 아시아와 비두니아에 흩어진 나그네",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400cf"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400cf",
+  "book": 60,
+  "chapter": 1,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "곧 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " 아버지의 미리 아심을 따라 "
+    },
+    {
+      "txt": "성령",
+      "link": "60ba24ce1376e50012a0da8b"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "하게 하심으로 "
+    },
+    {
+      "txt": "순종",
+      "link": "624424ad8f55f400142199d9"
+    },
+    {
+      "txt": "함과 "
+    },
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "피",
+      "link": "60f805151ef2ea00133538a7"
+    },
+    {
+      "txt": " 뿌림을 얻기 위하여 "
+    },
+    {
+      "txt": "택",
+      "link": "646ccea9ba956c0013dc14ff"
+    },
+    {
+      "txt": "하심을 입은 자들에게 "
+    },
+    {
+      "txt": "편지",
+      "link": "6488541aba956c0013dc1798"
+    },
+    {
+      "txt": "하노니 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "와 "
+    },
+    {
+      "txt": "평강",
+      "link": "648853c9ba956c0013dc1797"
+    },
+    {
+      "txt": "이 너희에게 더욱 많을지어다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "곧 하나님 아버지의 미리 아심을 따라 성령의 거룩하게 하심으로 순종함과 예수 그리스도의 피 뿌림을 얻기 위하여 택하심을 입은 자들에게 편지하노니 은혜와 평강이 너희에게 더욱 많을지어다",
+  "link_pos": [
+    {
+      "start": 2,
+      "end": 4,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 21,
+      "end": 22,
+      "href": "/bible-forest/dictionary/60ba24ce1376e50012a0da8b"
+    },
+    {
+      "start": 25,
+      "end": 26,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    },
+    {
+      "start": 35,
+      "end": 36,
+      "href": "/bible-forest/dictionary/624424ad8f55f400142199d9"
+    },
+    {
+      "start": 40,
+      "end": 41,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 43,
+      "end": 46,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 49,
+      "end": 49,
+      "href": "/bible-forest/dictionary/60f805151ef2ea00133538a7"
+    },
+    {
+      "start": 62,
+      "end": 62,
+      "href": "/bible-forest/dictionary/646ccea9ba956c0013dc14ff"
+    },
+    {
+      "start": 75,
+      "end": 76,
+      "href": "/bible-forest/dictionary/6488541aba956c0013dc1798"
+    },
+    {
+      "start": 81,
+      "end": 82,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    },
+    {
+      "start": 85,
+      "end": 86,
+      "href": "/bible-forest/dictionary/648853c9ba956c0013dc1797"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "곧 하나님 아버지의 미리 아심을 따라 성령의 거룩하게 하심으로 순종함과 예수 그리스도의 피 뿌림을 얻기 위하여 택하심을 입은 자들에게 편지하노니 은혜와 평강이 너희에게 더욱 많을찌어다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d0"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d0",
+  "book": 60,
+  "chapter": 1,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "찬송하리로다 우리"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 아버지 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "이 그 많으신 "
+    },
+    {
+      "txt": "긍휼",
+      "link": "62425d4b8f55f400142199d0"
+    },
+    {
+      "txt": "대로 "
+    },
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "그리스도"
+    },
+    {
+      "txt": "의 죽은 자 가운데서 "
+    },
+    {
+      "txt": "부활",
+      "link": "60bb30671376e50012a0db35"
+    },
+    {
+      "txt": "하심으로 말미암아 우리를 <span style=\"color:crimson;\">¹</span>거듭나게 하사 산 "
+    },
+    {
+      "txt": "소망",
+      "link": "623b36658f55f40014219990"
+    },
+    {
+      "txt": "이 있게 하시며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "찬송하리로다 우리 주 예수 그리스도의 아버지 하나님이 그 많으신 긍휼대로 예수 그리스도의 죽은 자 가운데서 부활하심으로 말미암아 우리를 거듭나게 하사 산 소망이 있게 하시며",
+  "link_pos": [
+    {
+      "start": 9,
+      "end": 10,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 12,
+      "end": 13,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 15,
+      "end": 18,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 25,
+      "end": 27,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 36,
+      "end": 37,
+      "href": "/bible-forest/dictionary/62425d4b8f55f400142199d0"
+    },
+    {
+      "start": 41,
+      "end": 42,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 60,
+      "end": 61,
+      "href": "/bible-forest/dictionary/60bb30671376e50012a0db35"
+    },
+    {
+      "start": 123,
+      "end": 124,
+      "href": "/bible-forest/dictionary/623b36658f55f40014219990"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "찬송하리로다 우리 주 예수 그리스도의 아버지 하나님이 그 많으신 긍휼대로 예수 그리스도의 죽은 자 가운데서 부활하심으로 말미암아 우리를 <span style=\"color:crimson;\">¹</span>거듭나게 하사 산 소망이 있게 하시며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d1"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d1",
+  "book": 60,
+  "chapter": 1,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>썩지 않고 더럽지 않고 쇠하지 아니하는 기업을 잇게 하시나니 곧 너희를 위하여 "
+    },
+    {
+      "txt": "하늘",
+      "link": "60c5f93a6cfae70012b03757"
+    },
+    {
+      "txt": "에 간직하신 것이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "썩지 않고 더럽지 않고 쇠하지 아니하는 기업을 잇게 하시나니 곧 너희를 위하여 하늘에 간직하신 것이라",
+  "link_pos": [
+    {
+      "start": 81,
+      "end": 82,
+      "href": "/bible-forest/dictionary/60c5f93a6cfae70012b03757"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>썩지 않고 더럽지 않고 쇠하지 아니하는 기업을 잇게 하시나니 곧 너희를 위하여 하늘에 간직하신 것이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d2"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d2",
+  "book": 60,
+  "chapter": 1,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "너희가 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "말세",
+      "link": "629c81fe8f55f40014219bc7"
+    },
+    {
+      "txt": "에 나타내기로 예비하신 "
+    },
+    {
+      "txt": "구원",
+      "link": "618f9f7aab04fd00148cc58c"
+    },
+    {
+      "txt": "을 얻기 위하여 <span style=\"color:crimson;\">²</span>믿음으로 말미암아 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "능력",
+      "link": "63011193f7b0360013928f55"
+    },
+    {
+      "txt": "으로 "
+    },
+    {
+      "txt": "보호",
+      "link": "63b4fd936f82e70014841a04"
+    },
+    {
+      "txt": "하심을 입었나니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 말세에 나타내기로 예비하신 구원을 얻기 위하여 믿음으로 말미암아 하나님의 능력으로 보호하심을 입었나니",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 5,
+      "href": "/bible-forest/dictionary/629c81fe8f55f40014219bc7"
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "href": "/bible-forest/dictionary/618f9f7aab04fd00148cc58c"
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "href": "/bible-forest/dictionary/63011193f7b0360013928f55"
+    },
+    {
+      "start": 50,
+      "end": 51,
+      "href": "/bible-forest/dictionary/63b4fd936f82e70014841a04"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 말세에 나타내기로 예비하신 구원을 얻기 위하여 믿음으로 말미암아 하나님의 능력으로 보호하심을 입었나니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d3"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d3",
+  "book": 60,
+  "chapter": 1,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "그러므로 너희가 이제 <span style=\"color:crimson;\">¹</span>여러 가지 "
+    },
+    {
+      "txt": "시험",
+      "link": "623a79598f55f40014219984"
+    },
+    {
+      "txt": "을 인하여 잠간 "
+    },
+    {
+      "txt": "근심",
+      "link": "62ae5fef8f55f40014219cd8"
+    },
+    {
+      "txt": "하게 되지 않을 수 없었으나 오히려 크게 기뻐하도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 너희가 이제 여러 가지 시험을 인하여 잠간 근심하게 되지 않을 수 없었으나 오히려 크게 기뻐하도다",
+  "link_pos": [
+    {
+      "start": 55,
+      "end": 56,
+      "href": "/bible-forest/dictionary/623a79598f55f40014219984"
+    },
+    {
+      "start": 66,
+      "end": 67,
+      "href": "/bible-forest/dictionary/62ae5fef8f55f40014219cd8"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 너희가 이제 <span style=\"color:crimson;\">¹</span>여러 가지 시험을 인하여 잠간 근심하게 되지 않을 수 없었으나 오히려 크게 기뻐하도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d4"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d4",
+  "book": 60,
+  "chapter": 1,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>너희 "
+    },
+    {
+      "txt": "믿음",
+      "link": "638785616f82e7001484161a"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "시련",
+      "link": "61882268ab886400139a72fa"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "불",
+      "link": "633d78296f82e7001484127a"
+    },
+    {
+      "txt": "로 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "연단",
+      "link": "61882275ab886400139a72fb"
+    },
+    {
+      "txt": "하여도 없어질 금보다 더 귀하여 "
+    },
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 나타나실 때에 <span style=\"color:crimson;\">³</span>칭찬과 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "존귀",
+      "link": "64721b9aba956c0013dc155b"
+    },
+    {
+      "txt": "를 얻게 하려 함이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 믿음의 시련이 불로 연단하여도 없어질 금보다 더 귀하여 예수 그리스도의 나타나실 때에 칭찬과 영광과 존귀를 얻게 하려 함이라",
+  "link_pos": [
+    {
+      "start": 40,
+      "end": 41,
+      "href": "/bible-forest/dictionary/638785616f82e7001484161a"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "href": "/bible-forest/dictionary/61882268ab886400139a72fa"
+    },
+    {
+      "start": 48,
+      "end": 48,
+      "href": "/bible-forest/dictionary/633d78296f82e7001484127a"
+    },
+    {
+      "start": 88,
+      "end": 89,
+      "href": "/bible-forest/dictionary/61882275ab886400139a72fb"
+    },
+    {
+      "start": 108,
+      "end": 109,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 111,
+      "end": 114,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 166,
+      "end": 167,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 170,
+      "end": 171,
+      "href": "/bible-forest/dictionary/64721b9aba956c0013dc155b"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>너희 믿음의 시련이 불로 <span style=\"color:crimson;\">²</span>연단하여도 없어질 금보다 더 귀하여 예수 그리스도의 나타나실 때에 <span style=\"color:crimson;\">³</span>칭찬과 영광과 존귀를 얻게 하려 함이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d5"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d5",
+  "book": 60,
+  "chapter": 1,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": "를 너희가 보지 못하였으나 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하는도다 이제도 보지 못하나 믿고 말할 수 없는 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "스러운 "
+    },
+    {
+      "txt": "즐거움",
+      "link": "64916f048d26fb00138801da"
+    },
+    {
+      "txt": "으로 기뻐하니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "예수를 너희가 보지 못하였으나 사랑하는도다 이제도 보지 못하나 믿고 말할 수 없는 영광스러운 즐거움으로 기뻐하니",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 46,
+      "end": 47,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 52,
+      "end": 54,
+      "href": "/bible-forest/dictionary/64916f048d26fb00138801da"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "예수를 너희가 보지 못하였으나 사랑하는도다 이제도 보지 못하나 믿고 말할 수 없는 영광스러운 즐거움으로 기뻐하니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d6"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d6",
+  "book": 60,
+  "chapter": 1,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "믿음",
+      "link": "638785616f82e7001484161a"
+    },
+    {
+      "txt": "의 결국 곧 "
+    },
+    {
+      "txt": "영혼",
+      "link": "6186e368ab886400139a72b9"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "구원",
+      "link": "618f9f7aab04fd00148cc58c"
+    },
+    {
+      "txt": "을 받음이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "믿음의 결국 곧 영혼의 구원을 받음이라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/638785616f82e7001484161a"
+    },
+    {
+      "start": 9,
+      "end": 10,
+      "href": "/bible-forest/dictionary/6186e368ab886400139a72b9"
+    },
+    {
+      "start": 13,
+      "end": 14,
+      "href": "/bible-forest/dictionary/618f9f7aab04fd00148cc58c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "믿음의 결국 곧 영혼의 구원을 받음이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d7"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d7",
+  "book": 60,
+  "chapter": 1,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "구원",
+      "link": "618f9f7aab04fd00148cc58c"
+    },
+    {
+      "txt": "에 대하여는 너희에게 임할 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "예언",
+      "link": "60bcbf501376e50012a0db7d"
+    },
+    {
+      "txt": "하던 "
+    },
+    {
+      "txt": "선지자",
+      "link": "6145de9d5f803400131d4a12"
+    },
+    {
+      "txt": "들이 연구하고 부지런히 살펴서"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이 구원에 대하여는 너희에게 임할 은혜를 예언하던 선지자들이 연구하고 부지런히 살펴서",
+  "link_pos": [
+    {
+      "start": 2,
+      "end": 3,
+      "href": "/bible-forest/dictionary/618f9f7aab04fd00148cc58c"
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    },
+    {
+      "start": 23,
+      "end": 24,
+      "href": "/bible-forest/dictionary/60bcbf501376e50012a0db7d"
+    },
+    {
+      "start": 28,
+      "end": 30,
+      "href": "/bible-forest/dictionary/6145de9d5f803400131d4a12"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이 구원에 대하여는 너희에게 임할 은혜를 예언하던 선지자들이 연구하고 부지런히 살펴서",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d8"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d8",
+  "book": 60,
+  "chapter": 1,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "자기 속에 계신 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "영",
+      "link": "60e53759d73fa40012bc3bcc"
+    },
+    {
+      "txt": "이 그 받으실 <span style=\"color:crimson;\">²</span>고난과 후에 얻으실 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "을 미리 "
+    },
+    {
+      "txt": "증거",
+      "link": "60bce1091376e50012a0db89"
+    },
+    {
+      "txt": "하여 어느 시, 어떠한 때를 지시하시는지 "
+    },
+    {
+      "txt": "상고",
+      "link": "6103cc7b7716f100139c58bc"
+    },
+    {
+      "txt": "하니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "자기 속에 계신 그리스도의 영이 그 받으실 고난과 후에 얻으실 영광을 미리 증거하여 어느 시, 어떠한 때를 지시하시는지 상고하니라",
+  "link_pos": [
+    {
+      "start": 46,
+      "end": 49,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 52,
+      "end": 52,
+      "href": "/bible-forest/dictionary/60e53759d73fa40012bc3bcc"
+    },
+    {
+      "start": 109,
+      "end": 110,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 116,
+      "end": 117,
+      "href": "/bible-forest/dictionary/60bce1091376e50012a0db89"
+    },
+    {
+      "start": 141,
+      "end": 142,
+      "href": "/bible-forest/dictionary/6103cc7b7716f100139c58bc"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "자기 속에 계신 <span style=\"color:crimson;\">¹</span>그리스도의 영이 그 받으실 <span style=\"color:crimson;\">²</span>고난과 후에 얻으실 영광을 미리 증거하여 어느 시, 어떠한 때를 지시하시는지 상고하니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400d9"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400d9",
+  "book": 60,
+  "chapter": 1,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "이 섬긴 바가 자기를 위한 것이 아니요 너희를 위한 것임이 "
+    },
+    {
+      "txt": "계시",
+      "link": "60f6bf741ef2ea00133538a3"
+    },
+    {
+      "txt": "로 알게 되었으니 이것은 "
+    },
+    {
+      "txt": "하늘",
+      "link": "60c5f93a6cfae70012b03757"
+    },
+    {
+      "txt": "로부터 보내신 "
+    },
+    {
+      "txt": "성령",
+      "link": "60ba24ce1376e50012a0da8b"
+    },
+    {
+      "txt": "을 힘입어 "
+    },
+    {
+      "txt": "복음",
+      "link": "6188cb0cab886400139a7301"
+    },
+    {
+      "txt": "을 전하는 자들로 이제 너희에게 고한 것이요 "
+    },
+    {
+      "txt": "천사",
+      "link": "60fce1af1ef2ea00133538c2"
+    },
+    {
+      "txt": "들도 살펴 보기를 원하는 것이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이 섬긴 바가 자기를 위한 것이 아니요 너희를 위한 것임이 계시로 알게 되었으니 이것은 하늘로부터 보내신 성령을 힘입어 복음을 전하는 자들로 이제 너희에게 고한 것이요 천사들도 살펴 보기를 원하는 것이니라",
+  "link_pos": [
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/60f6bf741ef2ea00133538a3"
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "href": "/bible-forest/dictionary/60c5f93a6cfae70012b03757"
+    },
+    {
+      "start": 59,
+      "end": 60,
+      "href": "/bible-forest/dictionary/60ba24ce1376e50012a0da8b"
+    },
+    {
+      "start": 67,
+      "end": 68,
+      "href": "/bible-forest/dictionary/6188cb0cab886400139a7301"
+    },
+    {
+      "start": 94,
+      "end": 95,
+      "href": "/bible-forest/dictionary/60fce1af1ef2ea00133538c2"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이 섬긴 바가 자기를 위한 것이 아니요 너희를 위한 것임이 계시로 알게 되었으니 이것은 하늘로부터 보내신 성령을 힘입어 복음을 전하는 자들로 이제 너희에게 고한 것이요 천사들도 살펴 보기를 원하는 것이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400da"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400da",
+  "book": 60,
+  "chapter": 1,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "그러므로 너희 마음의 "
+    },
+    {
+      "txt": "허리",
+      "link": "648f17e98d26fb00138801bb"
+    },
+    {
+      "txt": "를 동이고 <span style=\"color:crimson;\">¹</span>근신하여 "
+    },
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 나타나실 때에 너희에게 가져올 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "온전",
+      "link": "64438370e73ff90013f38a27"
+    },
+    {
+      "txt": "히 바랄지어다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 너희 마음의 허리를 동이고 근신하여 예수 그리스도의 나타나실 때에 너희에게 가져올 은혜를 온전히 바랄지어다",
+  "link_pos": [
+    {
+      "start": 12,
+      "end": 13,
+      "href": "/bible-forest/dictionary/648f17e98d26fb00138801bb"
+    },
+    {
+      "start": 62,
+      "end": 63,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 65,
+      "end": 68,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 88,
+      "end": 89,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    },
+    {
+      "start": 92,
+      "end": 93,
+      "href": "/bible-forest/dictionary/64438370e73ff90013f38a27"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 너희 마음의 허리를 동이고 <span style=\"color:crimson;\">¹</span>근신하여 예수 그리스도의 나타나실 때에 너희에게 가져올 은혜를 온전히 바랄찌어다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400db"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400db",
+  "book": 60,
+  "chapter": 1,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "너희가 "
+    },
+    {
+      "txt": "순종",
+      "link": "624424ad8f55f400142199d9"
+    },
+    {
+      "txt": "하는 "
+    },
+    {
+      "txt": "자식",
+      "link": "6455f2f2ba956c0013dc134c"
+    },
+    {
+      "txt": "처럼 이전 알지 못할 때에 좇던 너희 "
+    },
+    {
+      "txt": "사욕",
+      "link": "63b7bd0b6f82e70014841a41"
+    },
+    {
+      "txt": "을 본 삼지 말고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 순종하는 자식처럼 이전 알지 못할 때에 좇던 너희 사욕을 본 삼지 말고",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 5,
+      "href": "/bible-forest/dictionary/624424ad8f55f400142199d9"
+    },
+    {
+      "start": 9,
+      "end": 10,
+      "href": "/bible-forest/dictionary/6455f2f2ba956c0013dc134c"
+    },
+    {
+      "start": 32,
+      "end": 33,
+      "href": "/bible-forest/dictionary/63b7bd0b6f82e70014841a41"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 순종하는 자식처럼 이전 알지 못할 때에 좇던 너희 사욕을 본 삼지 말고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400dc"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400dc",
+  "book": 60,
+  "chapter": 1,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "오직 너희를 부르신 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "한 자처럼 너희도 모든 행실에 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "한 자가 되라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "오직 너희를 부르신 거룩한 자처럼 너희도 모든 행실에 거룩한 자가 되라",
+  "link_pos": [
+    {
+      "start": 11,
+      "end": 12,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    },
+    {
+      "start": 30,
+      "end": 31,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "오직 너희를 부르신 거룩한 자처럼 너희도 모든 행실에 거룩한 자가 되라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400dd"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400dd",
+  "book": 60,
+  "chapter": 1,
+  "verse": 16,
+  "content": [
+    {
+      "txt": "기록하였으되 <span style=\"color:crimson;\">¹</span>내가 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "하니 너희도 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "할지어다 하셨느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "기록하였으되 <span style=\"color:crimson;\">¹</span>내가 거룩하니 너희도 거룩할지어다 하셨느니라",
+  "link_pos": [
+    {
+      "start": 47,
+      "end": 48,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    },
+    {
+      "start": 56,
+      "end": 57,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "기록하였으되 <span style=\"color:crimson;\">¹</span>내가 거룩하니 너희도 거룩할찌어다 하셨느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400de"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400de",
+  "book": 60,
+  "chapter": 1,
+  "verse": 17,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>외모로 보시지 않고 각 사람의 "
+    },
+    {
+      "txt": "행위",
+      "link": "648e52d08d26fb0013880192"
+    },
+    {
+      "txt": "대로 "
+    },
+    {
+      "txt": "판단",
+      "link": "64df53693d39340013796348"
+    },
+    {
+      "txt": "하시는 자를 너희가 아버지라 부른즉 너희의 "
+    },
+    {
+      "txt": "나그네",
+      "link": "62f500c355b278001668dd3c"
+    },
+    {
+      "txt": "로 있을 때를 <span style=\"color:crimson;\">²</span>두려움으로 지내라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "외모로 보시지 않고 각 사람의 행위대로 판단하시는 자를 너희가 아버지라 부른즉 너희의 나그네로 있을 때를 두려움으로 지내라",
+  "link_pos": [
+    {
+      "start": 54,
+      "end": 55,
+      "href": "/bible-forest/dictionary/648e52d08d26fb0013880192"
+    },
+    {
+      "start": 59,
+      "end": 60,
+      "href": "/bible-forest/dictionary/64df53693d39340013796348"
+    },
+    {
+      "start": 85,
+      "end": 87,
+      "href": "/bible-forest/dictionary/62f500c355b278001668dd3c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>외모로 보시지 않고 각 사람의 행위대로 판단하시는 자를 너희가 아버지라 부른즉 너희의 나그네로 있을 때를 <span style=\"color:crimson;\">²</span>두려움으로 지내라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400df"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400df",
+  "book": 60,
+  "chapter": 1,
+  "verse": 18,
+  "content": [
+    {
+      "txt": "너희가 알거니와 너희 "
+    },
+    {
+      "txt": "조상",
+      "link": "6466fefeba956c0013dc144a"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "유전",
+      "link": "623fbf178f55f400142199c1"
+    },
+    {
+      "txt": "한 망령된 행실에서 "
+    },
+    {
+      "txt": "구속",
+      "link": "62b5cd2f8f55f40014219d48"
+    },
+    {
+      "txt": "된 것"
+    },
+    {
+      "txt": "은"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "은",
+      "link": "63f0cd8b155c55001474f781"
+    },
+    {
+      "txt": "이나 금 같이 <span style=\"color:Blue;\">ᵃ</span>없어질 것으로 한 것이 아니요"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 알거니와 너희 조상의 유전한 망령된 행실에서 구속된 것은 은이나 금 같이 없어질 것으로 한 것이 아니요",
+  "link_pos": [
+    {
+      "start": 12,
+      "end": 13,
+      "href": "/bible-forest/dictionary/6466fefeba956c0013dc144a"
+    },
+    {
+      "start": 16,
+      "end": 17,
+      "href": "/bible-forest/dictionary/623fbf178f55f400142199c1"
+    },
+    {
+      "start": 29,
+      "end": 30,
+      "href": "/bible-forest/dictionary/62b5cd2f8f55f40014219d48"
+    },
+    {
+      "start": 36,
+      "end": 36,
+      "href": "/bible-forest/dictionary/63f0cd8b155c55001474f781"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 알거니와 너희 조상의 유전한 망령된 행실에서 구속된 것은 은이나 금 같이 <span style=\"color:gray;\">¹</span>없어질 것으로 한 것이 아니요",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e0"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e0",
+  "book": 60,
+  "chapter": 1,
+  "verse": 19,
+  "content": [
+    {
+      "txt": "오직 <span style=\"color:crimson;\">¹</span>흠 없고 "
+    },
+    {
+      "txt": "점",
+      "link": "649848e28240bb001263dbec"
+    },
+    {
+      "txt": " 없는 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "어린 양",
+      "link": "60ba21091376e50012a0da6f"
+    },
+    {
+      "txt": " 같은 "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "보배",
+      "link": "623432858f55f40014219955"
+    },
+    {
+      "txt": "로운 "
+    },
+    {
+      "txt": "피",
+      "link": "60f805151ef2ea00133538a7"
+    },
+    {
+      "txt": "로 한 것이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "오직 흠 없고 점 없는 어린 양 같은 그리스도의 보배로운 피로 한 것이니라",
+  "link_pos": [
+    {
+      "start": 45,
+      "end": 45,
+      "href": "/bible-forest/dictionary/649848e28240bb001263dbec"
+    },
+    {
+      "start": 87,
+      "end": 90,
+      "href": "/bible-forest/dictionary/60ba21091376e50012a0da6f"
+    },
+    {
+      "start": 94,
+      "end": 97,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 100,
+      "end": 101,
+      "href": "/bible-forest/dictionary/623432858f55f40014219955"
+    },
+    {
+      "start": 105,
+      "end": 105,
+      "href": "/bible-forest/dictionary/60f805151ef2ea00133538a7"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "오직 <span style=\"color:crimson;\">¹</span>흠 없고 점 없는 <span style=\"color:crimson;\">²</span>어린양 같은 그리스도의 보배로운 피로 한 것이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e1"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e1",
+  "book": 60,
+  "chapter": 1,
+  "verse": 20,
+  "content": [
+    {
+      "txt": "그는 "
+    },
+    {
+      "txt": "창세",
+      "link": "62295b1f8f55f40014219933"
+    },
+    {
+      "txt": " 전부터 미리 알리신 바 된 자나 이 "
+    },
+    {
+      "txt": "말세",
+      "link": "629c81fe8f55f40014219bc7"
+    },
+    {
+      "txt": "에 너희를 위하여 나타내신 바 되었으니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그는 창세 전부터 미리 알리신 바 된 자나 이 말세에 너희를 위하여 나타내신 바 되었으니",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/62295b1f8f55f40014219933"
+    },
+    {
+      "start": 24,
+      "end": 25,
+      "href": "/bible-forest/dictionary/629c81fe8f55f40014219bc7"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그는 창세전부터 미리 알리신바 된 자나 이 말세에 너희를 위하여 나타내신바 되었으니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e2"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e2",
+  "book": 60,
+  "chapter": 1,
+  "verse": 21,
+  "content": [
+    {
+      "txt": "너희는 저를 <span style=\"color:crimson;\">¹</span>죽은 자 가운데서 살리시고 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "을 주신 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "로 말미암아 믿는 자니 너희 "
+    },
+    {
+      "txt": "믿음",
+      "link": "638785616f82e7001484161a"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "소망",
+      "link": "623b36658f55f40014219990"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "께 있게 하셨느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희는 저를 죽은 자 가운데서 살리시고 영광을 주신 하나님을 그리스도로 말미암아 믿는 자니 너희 믿음과 소망이 하나님께 있게 하셨느니라",
+  "link_pos": [
+    {
+      "start": 59,
+      "end": 60,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 66,
+      "end": 68,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 71,
+      "end": 74,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 91,
+      "end": 92,
+      "href": "/bible-forest/dictionary/638785616f82e7001484161a"
+    },
+    {
+      "start": 95,
+      "end": 96,
+      "href": "/bible-forest/dictionary/623b36658f55f40014219990"
+    },
+    {
+      "start": 99,
+      "end": 101,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희는 저를 <span style=\"color:crimson;\">¹</span>죽은 자 가운데서 살리시고 영광을 주신 하나님을 그리스도로 말미암아 믿는 자니 너희 믿음과 소망이 하나님께 있게 하셨느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e3"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e3",
+  "book": 60,
+  "chapter": 1,
+  "verse": 22,
+  "content": [
+    {
+      "txt": "너희가 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "진리",
+      "link": "623b38358f55f40014219991"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "순종",
+      "link": "624424ad8f55f400142199d9"
+    },
+    {
+      "txt": "함으로 너희 "
+    },
+    {
+      "txt": "영혼",
+      "link": "6186e368ab886400139a72b9"
+    },
+    {
+      "txt": "을 깨끗하게 하여 거짓이 없이 형제를 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하기에 이르렀으니 마음으로 뜨겁게 피차 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 진리를 순종함으로 너희 영혼을 깨끗하게 하여 거짓이 없이 형제를 사랑하기에 이르렀으니 마음으로 뜨겁게 피차 사랑하라",
+  "link_pos": [
+    {
+      "start": 41,
+      "end": 42,
+      "href": "/bible-forest/dictionary/623b38358f55f40014219991"
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "href": "/bible-forest/dictionary/624424ad8f55f400142199d9"
+    },
+    {
+      "start": 54,
+      "end": 55,
+      "href": "/bible-forest/dictionary/6186e368ab886400139a72b9"
+    },
+    {
+      "start": 77,
+      "end": 78,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 101,
+      "end": 102,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 <span style=\"color:crimson;\">¹</span>진리를 순종함으로 너희 영혼을 깨끗하게 하여 거짓이 없이 형제를 사랑하기에 이르렀으니 마음으로 뜨겁게 피차 사랑하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e4"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e4",
+  "book": 60,
+  "chapter": 1,
+  "verse": 23,
+  "content": [
+    {
+      "txt": "너희가 <span style=\"color:crimson;\">¹</span>거듭난 것이 썩어질 씨로 된 것이 아니요 썩지 아니할 씨로 된 것이니 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 살아 있고 항상 있는 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "으로 되었느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 거듭난 것이 썩어질 씨로 된 것이 아니요 썩지 아니할 씨로 된 것이니 하나님의 살아 있고 항상 있는 말씀으로 되었느니라",
+  "link_pos": [
+    {
+      "start": 80,
+      "end": 82,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 97,
+      "end": 98,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 <span style=\"color:crimson;\">¹</span>거듭난 것이 썩어질 씨로 된 것이 아니요 썩지 아니할 씨로 된 것이니 하나님의 살아 있고 항상 있는 말씀으로 되었느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e5"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e5",
+  "book": 60,
+  "chapter": 1,
+  "verse": 24,
+  "content": [
+    {
+      "txt": "그러므로 모든 육체는 "
+    },
+    {
+      "txt": "풀",
+      "link": "64a199008240bb001263dc1c"
+    },
+    {
+      "txt": "과 같고 그 모든 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "이 <span style=\"color:crimson;\">¹</span>풀의 꽃과 같으니 "
+    },
+    {
+      "txt": "풀",
+      "link": "64a199008240bb001263dc1c"
+    },
+    {
+      "txt": "은 마르고 꽃은 떨어지되"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 모든 육체는 풀과 같고 그 모든 영광이 풀의 꽃과 같으니 풀은 마르고 꽃은 떨어지되",
+  "link_pos": [
+    {
+      "start": 12,
+      "end": 12,
+      "href": "/bible-forest/dictionary/64a199008240bb001263dc1c"
+    },
+    {
+      "start": 23,
+      "end": 24,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 74,
+      "end": 74,
+      "href": "/bible-forest/dictionary/64a199008240bb001263dc1c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 모든 육체는 풀과 같고 그 모든 영광이 <span style=\"color:crimson;\">¹</span>풀의 꽃과 같으니 풀은 마르고 꽃은 떨어지되",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e6"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e6",
+  "book": 60,
+  "chapter": 1,
+  "verse": 25,
+  "content": [
+    {
+      "txt": "오직"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "세세",
+      "link": "63cb7b986f82e70014841ce5"
+    },
+    {
+      "txt": "토록 있도다 하였으니 너희에게 전한 "
+    },
+    {
+      "txt": "복음",
+      "link": "6188cb0cab886400139a7301"
+    },
+    {
+      "txt": "이 곧 이 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "오직 주의 말씀은 세세토록 있도다 하였으니 너희에게 전한 복음이 곧 이 말씀이니라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 3,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 6,
+      "end": 7,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    },
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/63cb7b986f82e70014841ce5"
+    },
+    {
+      "start": 32,
+      "end": 33,
+      "href": "/bible-forest/dictionary/6188cb0cab886400139a7301"
+    },
+    {
+      "start": 40,
+      "end": 41,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "오직 주의 말씀은 세세토록 있도다 하였으니 너희에게 전한 복음이 곧 이 말씀이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e7"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e7",
+  "book": 60,
+  "chapter": 2,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "그러므로 모든 "
+    },
+    {
+      "txt": "악독",
+      "link": "63ef64a3155c55001474f731"
+    },
+    {
+      "txt": "과 모든 "
+    },
+    {
+      "txt": "궤휼",
+      "link": "62ad34468f55f40014219cb6"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "외식",
+      "link": "6226e3b48f55f4001421992c"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "시기",
+      "link": "63c3fafd6f82e70014841bd9"
+    },
+    {
+      "txt": "와 모든 "
+    },
+    {
+      "txt": "비방",
+      "link": "63dd1ccb155c55001474f584"
+    },
+    {
+      "txt": "하는 말을 버리고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 모든 악독과 모든 궤휼과 외식과 시기와 모든 비방하는 말을 버리고",
+  "link_pos": [
+    {
+      "start": 8,
+      "end": 9,
+      "href": "/bible-forest/dictionary/63ef64a3155c55001474f731"
+    },
+    {
+      "start": 15,
+      "end": 16,
+      "href": "/bible-forest/dictionary/62ad34468f55f40014219cb6"
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "href": "/bible-forest/dictionary/6226e3b48f55f4001421992c"
+    },
+    {
+      "start": 23,
+      "end": 24,
+      "href": "/bible-forest/dictionary/63c3fafd6f82e70014841bd9"
+    },
+    {
+      "start": 30,
+      "end": 31,
+      "href": "/bible-forest/dictionary/63dd1ccb155c55001474f584"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 모든 악독과 모든 궤휼과 외식과 시기와 모든 비방하는 말을 버리고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e8"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e8",
+  "book": 60,
+  "chapter": 2,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>갓난 아이들 같이 순전하고 신령한 "
+    },
+    {
+      "txt": "젖",
+      "link": "6229c67f8f55f40014219938"
+    },
+    {
+      "txt": "을 사모하라 이는 이로 말미암아 너희로 "
+    },
+    {
+      "txt": "구원",
+      "link": "618f9f7aab04fd00148cc58c"
+    },
+    {
+      "txt": "에 이르도록 자라게 하려 함이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "갓난 아이들 같이 순전하고 신령한 젖을 사모하라 이는 이로 말미암아 너희로 구원에 이르도록 자라게 하려 함이라",
+  "link_pos": [
+    {
+      "start": 56,
+      "end": 56,
+      "href": "/bible-forest/dictionary/6229c67f8f55f40014219938"
+    },
+    {
+      "start": 79,
+      "end": 80,
+      "href": "/bible-forest/dictionary/618f9f7aab04fd00148cc58c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>갓난 아이들 같이 순전하고 신령한 젖을 사모하라 이는 이로 말미암아 너희로 구원에 이르도록 자라게 하려 함이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400e9"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400e9",
+  "book": 60,
+  "chapter": 2,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "너희가"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "인자",
+      "link": "64109b85050c7b001378e902"
+    },
+    {
+      "txt": "하심을 맛보았으면 그리하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 주의 인자하심을 맛보았으면 그리하라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 4,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 7,
+      "end": 8,
+      "href": "/bible-forest/dictionary/64109b85050c7b001378e902"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 주의 인자하심을 맛보았으면 그리하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400ea"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400ea",
+  "book": 60,
+  "chapter": 2,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "사람에게는 버린 바가 되었으나 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "께는 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "택",
+      "link": "646ccea9ba956c0013dc14ff"
+    },
+    {
+      "txt": "하심을 입은 "
+    },
+    {
+      "txt": "보배",
+      "link": "623432858f55f40014219955"
+    },
+    {
+      "txt": "로운 산 "
+    },
+    {
+      "txt": "돌",
+      "link": "60c4abd56cfae70012b03733"
+    },
+    {
+      "txt": "이신 "
+    },
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": "에게 나아와"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사람에게는 버린 바가 되었으나 하나님께는 택하심을 입은 보배로운 산 돌이신 예수에게 나아와",
+  "link_pos": [
+    {
+      "start": 17,
+      "end": 19,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 60,
+      "end": 60,
+      "href": "/bible-forest/dictionary/646ccea9ba956c0013dc14ff"
+    },
+    {
+      "start": 68,
+      "end": 69,
+      "href": "/bible-forest/dictionary/623432858f55f40014219955"
+    },
+    {
+      "start": 75,
+      "end": 75,
+      "href": "/bible-forest/dictionary/60c4abd56cfae70012b03733"
+    },
+    {
+      "start": 79,
+      "end": 80,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사람에게는 버린 바가 되었으나 하나님께는 <span style=\"color:crimson;\">¹</span>택하심을 입은 보배로운 산 돌이신 예수에게 나아와",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400eb"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400eb",
+  "book": 60,
+  "chapter": 2,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "너희도 산 "
+    },
+    {
+      "txt": "돌",
+      "link": "60c4abd56cfae70012b03733"
+    },
+    {
+      "txt": " 같이 신령한 집으로 세워지고 "
+    },
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "로 말미암아 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "이 기쁘게 받으실 신령한 "
+    },
+    {
+      "txt": "제사",
+      "link": "61546ad2fca7a4001a586e16"
+    },
+    {
+      "txt": "를 드릴 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "제사장",
+      "link": "60ba18a41376e50012a0da36"
+    },
+    {
+      "txt": "이 될지니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희도 산 돌 같이 신령한 집으로 세워지고 예수 그리스도로 말미암아 하나님이 기쁘게 받으실 신령한 제사를 드릴 거룩한 제사장이 될지니라",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 6,
+      "href": "/bible-forest/dictionary/60c4abd56cfae70012b03733"
+    },
+    {
+      "start": 24,
+      "end": 25,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 27,
+      "end": 30,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 38,
+      "end": 40,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 55,
+      "end": 56,
+      "href": "/bible-forest/dictionary/61546ad2fca7a4001a586e16"
+    },
+    {
+      "start": 99,
+      "end": 100,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    },
+    {
+      "start": 103,
+      "end": 105,
+      "href": "/bible-forest/dictionary/60ba18a41376e50012a0da36"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희도 산 돌 같이 신령한 집으로 세워지고 예수 그리스도로 말미암아 하나님이 기쁘게 받으실 신령한 제사를 드릴 <span style=\"color:crimson;\">¹</span>거룩한 제사장이 될찌니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400ec"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400ec",
+  "book": 60,
+  "chapter": 2,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "경",
+      "link": "62a9b1a48f55f40014219c5b"
+    },
+    {
+      "txt": "에 기록하였으되 "
+    },
+    {
+      "txt": "보라",
+      "link": "63c806686f82e70014841c8d"
+    },
+    {
+      "txt": " 내가 "
+    },
+    {
+      "txt": "택",
+      "link": "646ccea9ba956c0013dc14ff"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "보배",
+      "link": "623432858f55f40014219955"
+    },
+    {
+      "txt": "롭고 요긴한 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "모퉁이 돌",
+      "link": "637372d26f82e70014841559"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "시온",
+      "link": "60be35c51376e50012a0dbc3"
+    },
+    {
+      "txt": "에 두노니 저를 믿는 자는 <span style=\"color:crimson;\">²</span>부끄러움을 당치 아니하리라 하였으니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "경에 기록하였으되 보라 내가 택한 보배롭고 요긴한 모퉁이 돌을 시온에 두노니 저를 믿는 자는 부끄러움을 당치 아니하리라 하였으니",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 0,
+      "href": "/bible-forest/dictionary/62a9b1a48f55f40014219c5b"
+    },
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/63c806686f82e70014841c8d"
+    },
+    {
+      "start": 16,
+      "end": 16,
+      "href": "/bible-forest/dictionary/646ccea9ba956c0013dc14ff"
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "href": "/bible-forest/dictionary/623432858f55f40014219955"
+    },
+    {
+      "start": 65,
+      "end": 69,
+      "href": "/bible-forest/dictionary/637372d26f82e70014841559"
+    },
+    {
+      "start": 72,
+      "end": 73,
+      "href": "/bible-forest/dictionary/60be35c51376e50012a0dbc3"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "경에 기록하였으되 보라 내가 택한 보배롭고 요긴한 <span style=\"color:crimson;\">¹</span>모퉁이 돌을 시온에 두노니 저를 믿는 자는 <span style=\"color:crimson;\">²</span>부끄러움을 당치 아니하리라 하였으니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400ed"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400ed",
+  "book": 60,
+  "chapter": 2,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "그러므로 믿는 너희에게는 "
+    },
+    {
+      "txt": "보배",
+      "link": "623432858f55f40014219955"
+    },
+    {
+      "txt": "이나 믿지 아니하는 자에게는 <span style=\"color:crimson;\">¹</span>건축자들의 버린 그 "
+    },
+    {
+      "txt": "돌",
+      "link": "60c4abd56cfae70012b03733"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "모퉁이의 머릿돌",
+      "link": "6373727d6f82e70014841558"
+    },
+    {
+      "txt": "이 되고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 믿는 너희에게는 보배이나 믿지 아니하는 자에게는 건축자들의 버린 그 돌이 모퉁이의 머릿돌이 되고",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/623432858f55f40014219955"
+    },
+    {
+      "start": 80,
+      "end": 80,
+      "href": "/bible-forest/dictionary/60c4abd56cfae70012b03733"
+    },
+    {
+      "start": 83,
+      "end": 90,
+      "href": "/bible-forest/dictionary/6373727d6f82e70014841558"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 믿는 너희에게는 보배이나 믿지 아니하는 자에게는 <span style=\"color:crimson;\">¹</span>건축자들의 버린 그 돌이 모퉁이의 머릿돌이 되고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400ee"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400ee",
+  "book": 60,
+  "chapter": 2,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "또한 <span style=\"color:crimson;\">¹</span>부딪히는 돌과 거치는 "
+    },
+    {
+      "txt": "반석",
+      "link": "61894a88ab886400139a7308"
+    },
+    {
+      "txt": "이 되었다 하니라 저희가 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "순종",
+      "link": "624424ad8f55f400142199d9"
+    },
+    {
+      "txt": "치 아니하므로 넘어지나니 이는 저희를 이렇게 정하신 것이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "또한 부딪히는 돌과 거치는 반석이 되었다 하니라 저희가 말씀을 순종치 아니하므로 넘어지나니 이는 저희를 이렇게 정하신 것이라",
+  "link_pos": [
+    {
+      "start": 52,
+      "end": 53,
+      "href": "/bible-forest/dictionary/61894a88ab886400139a7308"
+    },
+    {
+      "start": 68,
+      "end": 69,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    },
+    {
+      "start": 72,
+      "end": 73,
+      "href": "/bible-forest/dictionary/624424ad8f55f400142199d9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "또한 <span style=\"color:crimson;\">¹</span>부딪히는 돌과 거치는 반석이 되었다 하니라 저희가 말씀을 순종치 아니하므로 넘어지나니 이는 저희를 이렇게 정하신 것이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400ef"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400ef",
+  "book": 60,
+  "chapter": 2,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "오직 너희는 "
+    },
+    {
+      "txt": "택",
+      "link": "646ccea9ba956c0013dc14ff"
+    },
+    {
+      "txt": "하신 "
+    },
+    {
+      "txt": "족속",
+      "link": "6472109dba956c0013dc1550"
+    },
+    {
+      "txt": "이요 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "왕",
+      "link": "60b9fd141376e50012a0da00"
+    },
+    {
+      "txt": "같은 "
+    },
+    {
+      "txt": "제사장",
+      "link": "60ba18a41376e50012a0da36"
+    },
+    {
+      "txt": "들이요 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "나라",
+      "link": "60ba1bcc1376e50012a0da54"
+    },
+    {
+      "txt": "요 그의 소유된 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "이니 이는 너희를 어두운 데서 불러내어 그의 기이한 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "빛",
+      "link": "60cf04bf6cfae70012b03774"
+    },
+    {
+      "txt": "에 들어가게 하신 자의 아름다운 "
+    },
+    {
+      "txt": "덕",
+      "link": "632e536e6f82e7001484120f"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "선전",
+      "link": "6412763a050c7b001378e944"
+    },
+    {
+      "txt": "하게 하려 하심이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "오직 너희는 택하신 족속이요 왕같은 제사장들이요 거룩한 나라요 그의 소유된 백성이니 이는 너희를 어두운 데서 불러내어 그의 기이한 빛에 들어가게 하신 자의 아름다운 덕을 선전하게 하려 하심이라",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 7,
+      "href": "/bible-forest/dictionary/646ccea9ba956c0013dc14ff"
+    },
+    {
+      "start": 11,
+      "end": 12,
+      "href": "/bible-forest/dictionary/6472109dba956c0013dc1550"
+    },
+    {
+      "start": 53,
+      "end": 53,
+      "href": "/bible-forest/dictionary/60b9fd141376e50012a0da00"
+    },
+    {
+      "start": 57,
+      "end": 59,
+      "href": "/bible-forest/dictionary/60ba18a41376e50012a0da36"
+    },
+    {
+      "start": 64,
+      "end": 65,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    },
+    {
+      "start": 68,
+      "end": 69,
+      "href": "/bible-forest/dictionary/60ba1bcc1376e50012a0da54"
+    },
+    {
+      "start": 79,
+      "end": 80,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 147,
+      "end": 147,
+      "href": "/bible-forest/dictionary/60cf04bf6cfae70012b03774"
+    },
+    {
+      "start": 166,
+      "end": 166,
+      "href": "/bible-forest/dictionary/632e536e6f82e7001484120f"
+    },
+    {
+      "start": 169,
+      "end": 170,
+      "href": "/bible-forest/dictionary/6412763a050c7b001378e944"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "오직 너희는 택하신 족속이요 <span style=\"color:crimson;\">¹</span>왕같은 제사장들이요 거룩한 나라요 그의 소유된 백성이니 이는 너희를 어두운데서 불러 내어 그의 기이한 <span style=\"color:crimson;\">²</span>빛에 들어가게 하신 자의 아름다운 덕을 선전하게 하려 하심이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f0"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f0",
+  "book": 60,
+  "chapter": 2,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>너희가 전에는 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "이 아니더니 이제는 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 백성이요 전에는 "
+    },
+    {
+      "txt": "긍휼",
+      "link": "62425d4b8f55f400142199d0"
+    },
+    {
+      "txt": "을 얻지 못하였더니 이제는 "
+    },
+    {
+      "txt": "긍휼",
+      "link": "62425d4b8f55f400142199d0"
+    },
+    {
+      "txt": "을 얻은 자니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 전에는 백성이 아니더니 이제는 하나님의 백성이요 전에는 긍휼을 얻지 못하였더니 이제는 긍휼을 얻은 자니라",
+  "link_pos": [
+    {
+      "start": 45,
+      "end": 46,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 58,
+      "end": 60,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 72,
+      "end": 73,
+      "href": "/bible-forest/dictionary/62425d4b8f55f400142199d0"
+    },
+    {
+      "start": 89,
+      "end": 90,
+      "href": "/bible-forest/dictionary/62425d4b8f55f400142199d0"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>너희가 전에는 백성이 아니더니 이제는 하나님의 백성이요 전에는 긍휼을 얻지 못하였더니 이제는 긍휼을 얻은 자니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f1"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f1",
+  "book": 60,
+  "chapter": 2,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하는 자들아 나그네와 행인 같은 너희를 권하노니 "
+    },
+    {
+      "txt": "영혼",
+      "link": "6186e368ab886400139a72b9"
+    },
+    {
+      "txt": "을 거스려 싸우는 육체의 "
+    },
+    {
+      "txt": "정욕",
+      "link": "645faa76ba956c0013dc13dd"
+    },
+    {
+      "txt": "을 제어하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사랑하는 자들아 나그네와 행인 같은 너희를 권하노니 영혼을 거스려 싸우는 육체의 정욕을 제어하라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 29,
+      "end": 30,
+      "href": "/bible-forest/dictionary/6186e368ab886400139a72b9"
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "href": "/bible-forest/dictionary/645faa76ba956c0013dc13dd"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사랑하는 자들아 나그네와 행인 같은 너희를 권하노니 영혼을 거스려 싸우는 육체의 정욕을 제어하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f2"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f2",
+  "book": 60,
+  "chapter": 2,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "너희가 "
+    },
+    {
+      "txt": "이방인",
+      "link": "640db9bb050c7b001378e87c"
+    },
+    {
+      "txt": " 중에서 행실을 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "하게 가져 너희를 악행한다고 "
+    },
+    {
+      "txt": "비방",
+      "link": "63dd1ccb155c55001474f584"
+    },
+    {
+      "txt": "하는 자들로 하여금 너희 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "한 일을 보고 권고하시는 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "께 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "을 돌리게 하려 함이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 이방인 중에서 행실을 선하게 가져 너희를 악행한다고 비방하는 자들로 하여금 너희 선한 일을 보고 권고하시는 날에 하나님께 영광을 돌리게 하려 함이라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 6,
+      "href": "/bible-forest/dictionary/640db9bb050c7b001378e87c"
+    },
+    {
+      "start": 16,
+      "end": 16,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/63dd1ccb155c55001474f584"
+    },
+    {
+      "start": 86,
+      "end": 86,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 101,
+      "end": 101,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 104,
+      "end": 106,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 109,
+      "end": 110,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 이방인 중에서 행실을 선하게 가져 너희를 악행한다고 비방하는 자들로 하여금 너희 <span style=\"color:crimson;\">¹</span>선한 일을 보고 권고하시는 날에 하나님께 영광을 돌리게 하려 함이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f3"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f3",
+  "book": 60,
+  "chapter": 2,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "인간에 세운 모든 "
+    },
+    {
+      "txt": "제도",
+      "link": "64625787ba956c0013dc13f9"
+    },
+    {
+      "txt": "를"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "를 위하여 순복하되 혹은 위에 있는 "
+    },
+    {
+      "txt": "왕",
+      "link": "60b9fd141376e50012a0da00"
+    },
+    {
+      "txt": "이나"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "인간에 세운 모든 제도를 주를 위하여 순복하되 혹은 위에 있는 왕이나",
+  "link_pos": [
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/64625787ba956c0013dc13f9"
+    },
+    {
+      "start": 14,
+      "end": 14,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 35,
+      "end": 35,
+      "href": "/bible-forest/dictionary/60b9fd141376e50012a0da00"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "인간에 세운 모든 제도를 주를 위하여 순복하되 혹은 위에 있는 왕이나",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f4"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f4",
+  "book": 60,
+  "chapter": 2,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "혹은 <span style=\"color:crimson;\">¹</span>악행하는 자를 징벌하고 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "행하는 자를 "
+    },
+    {
+      "txt": "포장",
+      "link": "64801373ba956c0013dc170e"
+    },
+    {
+      "txt": "하기 위하여 그의 보낸 "
+    },
+    {
+      "txt": "방백",
+      "link": "63a9956b6f82e7001484190e"
+    },
+    {
+      "txt": "에게 하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "혹은 악행하는 자를 징벌하고 선행하는 자를 포장하기 위하여 그의 보낸 방백에게 하라",
+  "link_pos": [
+    {
+      "start": 90,
+      "end": 90,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 98,
+      "end": 99,
+      "href": "/bible-forest/dictionary/64801373ba956c0013dc170e"
+    },
+    {
+      "start": 113,
+      "end": 114,
+      "href": "/bible-forest/dictionary/63a9956b6f82e7001484190e"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "혹은 <span style=\"color:crimson;\">¹</span>악행하는 자를 징벌하고 <span style=\"color:crimson;\">²</span>선행하는 자를 포장하기 위하여 그의 보낸 방백에게 하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f5"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f5",
+  "book": 60,
+  "chapter": 2,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "곧 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "행으로 어리석은 사람들의 무식한 말을 막으시는 것이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "곧 선행으로 어리석은 사람들의 무식한 말을 막으시는 것이라",
+  "link_pos": [
+    {
+      "start": 2,
+      "end": 2,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "곧 선행으로 어리석은 사람들의 무식한 말을 막으시는 것이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f6"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f6",
+  "book": 60,
+  "chapter": 2,
+  "verse": 16,
+  "content": [
+    {
+      "txt": "자유",
+      "link": "6455fcdaba956c0013dc134e"
+    },
+    {
+      "txt": "하나 그 "
+    },
+    {
+      "txt": "자유",
+      "link": "6455fcdaba956c0013dc134e"
+    },
+    {
+      "txt": "로 악을 가리우는데 쓰지 말고 오직 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "종",
+      "link": "62296a218f55f40014219934"
+    },
+    {
+      "txt": "과 같이 하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "자유하나 그 자유로 악을 가리우는데 쓰지 말고 오직 하나님의 종과 같이 하라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/6455fcdaba956c0013dc134e"
+    },
+    {
+      "start": 7,
+      "end": 8,
+      "href": "/bible-forest/dictionary/6455fcdaba956c0013dc134e"
+    },
+    {
+      "start": 30,
+      "end": 32,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 35,
+      "end": 35,
+      "href": "/bible-forest/dictionary/62296a218f55f40014219934"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "자유하나 그 자유로 악을 가리우는 데 쓰지 말고 오직 하나님의 종과 같이 하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f7"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f7",
+  "book": 60,
+  "chapter": 2,
+  "verse": 17,
+  "content": [
+    {
+      "txt": "뭇 사람을 공경하며 형제를 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하며 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "을 두려워하며 "
+    },
+    {
+      "txt": "왕",
+      "link": "60b9fd141376e50012a0da00"
+    },
+    {
+      "txt": "을 공경하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "뭇 사람을 공경하며 형제를 사랑하며 하나님을 두려워하며 왕을 공경하라",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 19,
+      "end": 21,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 30,
+      "end": 30,
+      "href": "/bible-forest/dictionary/60b9fd141376e50012a0da00"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "뭇사람을 공경하며 형제를 사랑하며 하나님을 두려워하며 왕을 공경하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f8"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f8",
+  "book": 60,
+  "chapter": 2,
+  "verse": 18,
+  "content": [
+    {
+      "txt": "사환",
+      "link": "6245d4788f55f400142199e1"
+    },
+    {
+      "txt": "들아 "
+    },
+    {
+      "txt": "범사",
+      "link": "63a84c0e6f82e700148418e7"
+    },
+    {
+      "txt": "에 두려워함으로 "
+    },
+    {
+      "txt": "주인",
+      "link": "64676ca8ba956c0013dc1468"
+    },
+    {
+      "txt": "들에게 순복하되 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "하고 "
+    },
+    {
+      "txt": "관용",
+      "link": "62b4965a8f55f40014219d0e"
+    },
+    {
+      "txt": "하는 자들에게만 아니라 또한 까다로운 자들에게도 그리하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사환들아 범사에 두려워함으로 주인들에게 순복하되 선하고 관용하는 자들에게만 아니라 또한 까다로운 자들에게도 그리하라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/6245d4788f55f400142199e1"
+    },
+    {
+      "start": 5,
+      "end": 6,
+      "href": "/bible-forest/dictionary/63a84c0e6f82e700148418e7"
+    },
+    {
+      "start": 16,
+      "end": 17,
+      "href": "/bible-forest/dictionary/64676ca8ba956c0013dc1468"
+    },
+    {
+      "start": 27,
+      "end": 27,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 31,
+      "end": 32,
+      "href": "/bible-forest/dictionary/62b4965a8f55f40014219d0e"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사환들아 범사에 두려워함으로 주인들에게 순복하되 선하고 관용하는 자들에게만 아니라 또한 까다로운 자들에게도 그리하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400f9"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400f9",
+  "book": 60,
+  "chapter": 2,
+  "verse": 19,
+  "content": [
+    {
+      "txt": "애매히 <span style=\"color:crimson;\">¹</span>고난을 받아도 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "을 생각함으로 "
+    },
+    {
+      "txt": "슬픔",
+      "link": "63c421f36f82e70014841be3"
+    },
+    {
+      "txt": "을 참으면 이는 <span style=\"color:Blue;\">ᵃ</span>아름다우나"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "애매히 고난을 받아도 하나님을 생각함으로 슬픔을 참으면 이는 아름다우나",
+  "link_pos": [
+    {
+      "start": 49,
+      "end": 51,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 60,
+      "end": 61,
+      "href": "/bible-forest/dictionary/63c421f36f82e70014841be3"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "애매히 <span style=\"color:crimson;\">¹</span>고난을 받아도 하나님을 생각함으로 슬픔을 참으면 이는 <span style=\"color:gray;\">¹</span>아름다우나",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400fa"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400fa",
+  "book": 60,
+  "chapter": 2,
+  "verse": 20,
+  "content": [
+    {
+      "txt": "죄",
+      "link": "60f6c6ee1ef2ea00133538a4"
+    },
+    {
+      "txt": "가 있어 매를 맞고 참으면 무슨 칭찬이 있으리요 오직 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "을 행함으로 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받고 참으면 이는 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " 앞에 아름다우니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "죄가 있어 매를 맞고 참으면 무슨 칭찬이 있으리요 오직 선을 행함으로 고난을 받고 참으면 이는 하나님 앞에 아름다우니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 0,
+      "href": "/bible-forest/dictionary/60f6c6ee1ef2ea00133538a4"
+    },
+    {
+      "start": 68,
+      "end": 68,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 76,
+      "end": 77,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 90,
+      "end": 92,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "죄가 있어 매를 맞고 참으면 무슨 칭찬이 있으리요 오직 <span style=\"color:crimson;\">¹</span>선을 행함으로 고난을 받고 참으면 이는 하나님 앞에 아름다우니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400fb"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400fb",
+  "book": 60,
+  "chapter": 2,
+  "verse": 21,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>이를 위하여 너희가 부르심을 입었으니 "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "도 너희를 위하여 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받으사 너희에게 본을 끼쳐 그 자취를 따라오게 하려 하셨느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이를 위하여 너희가 부르심을 입었으니 그리스도도 너희를 위하여 고난을 받으사 너희에게 본을 끼쳐 그 자취를 따라오게 하려 하셨느니라",
+  "link_pos": [
+    {
+      "start": 58,
+      "end": 61,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 72,
+      "end": 73,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>이를 위하여 너희가 부르심을 입었으니 그리스도도 너희를 위하여 고난을 받으사 너희에게 본을 끼쳐 그 자취를 따라 오게 하려 하셨느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400fc"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400fc",
+  "book": 60,
+  "chapter": 2,
+  "verse": 22,
+  "content": [
+    {
+      "txt": "저는 "
+    },
+    {
+      "txt": "죄",
+      "link": "60f6c6ee1ef2ea00133538a4"
+    },
+    {
+      "txt": "를 범치 아니하시고 <span style=\"color:crimson;\">¹</span>그 입에 궤사도 없으시며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "저는 죄를 범치 아니하시고 그 입에 궤사도 없으시며",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 3,
+      "href": "/bible-forest/dictionary/60f6c6ee1ef2ea00133538a4"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "저는 죄를 범치 아니하시고 <span style=\"color:crimson;\">¹</span>그 입에 궤사도 없으시며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400fd"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400fd",
+  "book": 60,
+  "chapter": 2,
+  "verse": 23,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "욕",
+      "link": "640da876050c7b001378e870"
+    },
+    {
+      "txt": "을 받으시되 대신 "
+    },
+    {
+      "txt": "욕",
+      "link": "640da876050c7b001378e870"
+    },
+    {
+      "txt": "하지 아니하시고 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받으시되 "
+    },
+    {
+      "txt": "위협",
+      "link": "63fa4af8155c55001474f971"
+    },
+    {
+      "txt": "하지 아니하시고 오직 "
+    },
+    {
+      "txt": "공의",
+      "link": "62bd62028f55f40014219de2"
+    },
+    {
+      "txt": "로 "
+    },
+    {
+      "txt": "심판",
+      "link": "60c0c0ac6cfae70012b03713"
+    },
+    {
+      "txt": "하시는 자에게 부탁하시며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "욕을 받으시되 대신 욕하지 아니하시고 고난을 받으시되 위협하지 아니하시고 오직 공의로 심판하시는 자에게 부탁하시며",
+  "link_pos": [
+    {
+      "start": 37,
+      "end": 37,
+      "href": "/bible-forest/dictionary/640da876050c7b001378e870"
+    },
+    {
+      "start": 48,
+      "end": 48,
+      "href": "/bible-forest/dictionary/640da876050c7b001378e870"
+    },
+    {
+      "start": 58,
+      "end": 59,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 67,
+      "end": 68,
+      "href": "/bible-forest/dictionary/63fa4af8155c55001474f971"
+    },
+    {
+      "start": 81,
+      "end": 82,
+      "href": "/bible-forest/dictionary/62bd62028f55f40014219de2"
+    },
+    {
+      "start": 85,
+      "end": 86,
+      "href": "/bible-forest/dictionary/60c0c0ac6cfae70012b03713"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>욕을 받으시되 대신 욕하지 아니하시고 고난을 받으시되 위협하지 아니하시고 오직 공의로 심판하시는 자에게 부탁하시며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400fe"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400fe",
+  "book": 60,
+  "chapter": 2,
+  "verse": 24,
+  "content": [
+    {
+      "txt": "친히 "
+    },
+    {
+      "txt": "나무",
+      "link": "60ba1d581376e50012a0da5e"
+    },
+    {
+      "txt": "에 달려 그 "
+    },
+    {
+      "txt": "몸",
+      "link": "63529aa76f82e70014841369"
+    },
+    {
+      "txt": "으로 우리 "
+    },
+    {
+      "txt": "죄",
+      "link": "60f6c6ee1ef2ea00133538a4"
+    },
+    {
+      "txt": "를 담당하셨으니 이는 우리로 <span style=\"color:crimson;\">¹</span>죄에 대하여 죽고 의에 대하여 살게 하려 하심이라 저가 "
+    },
+    {
+      "txt": "채찍",
+      "link": "646a3b93ba956c0013dc14c3"
+    },
+    {
+      "txt": "에 맞음으로 너희는 나음을 얻었나니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "친히 나무에 달려 그 몸으로 우리 죄를 담당하셨으니 이는 우리로 죄에 대하여 죽고 의에 대하여 살게 하려 하심이라 저가 채찍에 맞음으로 너희는 나음을 얻었나니",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/60ba1d581376e50012a0da5e"
+    },
+    {
+      "start": 12,
+      "end": 12,
+      "href": "/bible-forest/dictionary/63529aa76f82e70014841369"
+    },
+    {
+      "start": 19,
+      "end": 19,
+      "href": "/bible-forest/dictionary/60f6c6ee1ef2ea00133538a4"
+    },
+    {
+      "start": 104,
+      "end": 105,
+      "href": "/bible-forest/dictionary/646a3b93ba956c0013dc14c3"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "친히 나무에 달려 그 몸으로 우리 죄를 담당하셨으니 이는 우리로 <span style=\"color:crimson;\">¹</span>죄에 대하여 죽고 의에 대하여 살게 하려 하심이라 저가 채찍에 맞음으로 너희는 나음을 얻었나니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f400ff"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f400ff",
+  "book": 60,
+  "chapter": 2,
+  "verse": 25,
+  "content": [
+    {
+      "txt": "너희가 전에는 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "양",
+      "link": "60ba2ce91376e50012a0dab1"
+    },
+    {
+      "txt": "과 같이 길을 잃었더니 이제는 너희 "
+    },
+    {
+      "txt": "영혼",
+      "link": "6186e368ab886400139a72b9"
+    },
+    {
+      "txt": "의 목자와 "
+    },
+    {
+      "txt": "감독",
+      "link": "62bf0c9a8f55f40014219e32"
+    },
+    {
+      "txt": " 되신 이에게 돌아왔느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 전에는 양과 같이 길을 잃었더니 이제는 너희 영혼의 목자와 감독 되신 이에게 돌아왔느니라",
+  "link_pos": [
+    {
+      "start": 45,
+      "end": 45,
+      "href": "/bible-forest/dictionary/60ba2ce91376e50012a0dab1"
+    },
+    {
+      "start": 66,
+      "end": 67,
+      "href": "/bible-forest/dictionary/6186e368ab886400139a72b9"
+    },
+    {
+      "start": 74,
+      "end": 75,
+      "href": "/bible-forest/dictionary/62bf0c9a8f55f40014219e32"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 전에는 <span style=\"color:crimson;\">¹</span>양과 같이 길을 잃었더니 이제는 너희 영혼의 목자와 감독 되신 이에게 돌아왔느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40100"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40100",
+  "book": 60,
+  "chapter": 3,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "아내",
+      "link": "60bbaf581376e50012a0db62"
+    },
+    {
+      "txt": " 된 자들아 이와 같이 자기 <span style=\"color:crimson;\">¹</span>남편에게 순복하라 이는 혹 <span style=\"color:Blue;\">ᵃ</span>도를 "
+    },
+    {
+      "txt": "순종",
+      "link": "624424ad8f55f400142199d9"
+    },
+    {
+      "txt": "치 않는 자라도 말로 말미암지 않고 그 아내의 "
+    },
+    {
+      "txt": "행위",
+      "link": "648e52d08d26fb0013880192"
+    },
+    {
+      "txt": "로 말미암아 "
+    },
+    {
+      "txt": "구원",
+      "link": "618f9f7aab04fd00148cc58c"
+    },
+    {
+      "txt": "을 얻게 하려 함이니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "아내 된 자들아 이와 같이 자기 남편에게 순복하라 이는 혹 도를 순종치 않는 자라도 말로 말미암지 않고 그 아내의 행위로 말미암아 구원을 얻게 하려 함이니",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/60bbaf581376e50012a0db62"
+    },
+    {
+      "start": 144,
+      "end": 145,
+      "href": "/bible-forest/dictionary/624424ad8f55f400142199d9"
+    },
+    {
+      "start": 172,
+      "end": 173,
+      "href": "/bible-forest/dictionary/648e52d08d26fb0013880192"
+    },
+    {
+      "start": 181,
+      "end": 182,
+      "href": "/bible-forest/dictionary/618f9f7aab04fd00148cc58c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "아내 된 자들아 이와 같이 자기 <span style=\"color:crimson;\">¹</span>남편에게 순복하라 이는 혹 <span style=\"color:gray;\">¹</span><span style=\"color:crimson;\">²</span>도를 순종치 않는 자라도 말로 말미암지 않고 그 아내의 행위로 말미암아 구원을 얻게 하려 함이니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40101"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40101",
+  "book": 60,
+  "chapter": 3,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "너희의 두려워하며 "
+    },
+    {
+      "txt": "정결",
+      "link": "64720c27ba956c0013dc154c"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "행위",
+      "link": "648e52d08d26fb0013880192"
+    },
+    {
+      "txt": "를 봄이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희의 두려워하며 정결한 행위를 봄이라",
+  "link_pos": [
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/64720c27ba956c0013dc154c"
+    },
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/648e52d08d26fb0013880192"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희의 두려워하며 정결한 행위를 봄이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40102"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40102",
+  "book": 60,
+  "chapter": 3,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "너희 "
+    },
+    {
+      "txt": "단장",
+      "link": "632125266f82e700148410e3"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "머리",
+      "link": "60ba29471376e50012a0daa0"
+    },
+    {
+      "txt": "를 꾸미고 금을 차고 아름다운 "
+    },
+    {
+      "txt": "옷",
+      "link": "60bcc2161376e50012a0db81"
+    },
+    {
+      "txt": "을 입는 <span style=\"color:crimson;\">¹</span>외모로 하지 말고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 단장은 머리를 꾸미고 금을 차고 아름다운 옷을 입는 외모로 하지 말고",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/632125266f82e700148410e3"
+    },
+    {
+      "start": 7,
+      "end": 8,
+      "href": "/bible-forest/dictionary/60ba29471376e50012a0daa0"
+    },
+    {
+      "start": 26,
+      "end": 26,
+      "href": "/bible-forest/dictionary/60bcc2161376e50012a0db81"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 단장은 머리를 꾸미고 금을 차고 아름다운 옷을 입는 <span style=\"color:crimson;\">¹</span>외모로 하지 말고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40103"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40103",
+  "book": 60,
+  "chapter": 3,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "오직 <span style=\"color:crimson;\">¹</span>마음에 숨은 사람을 "
+    },
+    {
+      "txt": "온유",
+      "link": "624d60698f55f40014219a03"
+    },
+    {
+      "txt": "하고 안정한 "
+    },
+    {
+      "txt": "심령",
+      "link": "62387b558f55f40014219970"
+    },
+    {
+      "txt": "의 썩지 아니할 것으로 하라 이는 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " 앞에 값진 것이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "오직 마음에 숨은 사람을 온유하고 안정한 심령의 썩지 아니할 것으로 하라 이는 하나님 앞에 값진 것이니라",
+  "link_pos": [
+    {
+      "start": 51,
+      "end": 52,
+      "href": "/bible-forest/dictionary/624d60698f55f40014219a03"
+    },
+    {
+      "start": 60,
+      "end": 61,
+      "href": "/bible-forest/dictionary/62387b558f55f40014219970"
+    },
+    {
+      "start": 81,
+      "end": 83,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "오직 <span style=\"color:crimson;\">¹</span>마음에 숨은 사람을 온유하고 안정한 심령의 썩지 아니할 것으로 하라 이는 하나님 앞에 값진 것이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40104"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40104",
+  "book": 60,
+  "chapter": 3,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "전에 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "께 "
+    },
+    {
+      "txt": "소망",
+      "link": "623b36658f55f40014219990"
+    },
+    {
+      "txt": "을 두었던 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "부녀",
+      "link": "63b69bd26f82e70014841a19"
+    },
+    {
+      "txt": "들도 이와 같이 자기 "
+    },
+    {
+      "txt": "남편",
+      "link": "62f77bd055b278001668dd71"
+    },
+    {
+      "txt": "에게 순복함으로 자기를 "
+    },
+    {
+      "txt": "단장",
+      "link": "632125266f82e700148410e3"
+    },
+    {
+      "txt": "하였나니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "전에 하나님께 소망을 두었던 거룩한 부녀들도 이와 같이 자기 남편에게 순복함으로 자기를 단장하였나니",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 5,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 8,
+      "end": 9,
+      "href": "/bible-forest/dictionary/623b36658f55f40014219990"
+    },
+    {
+      "start": 16,
+      "end": 17,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    },
+    {
+      "start": 20,
+      "end": 21,
+      "href": "/bible-forest/dictionary/63b69bd26f82e70014841a19"
+    },
+    {
+      "start": 34,
+      "end": 35,
+      "href": "/bible-forest/dictionary/62f77bd055b278001668dd71"
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "href": "/bible-forest/dictionary/632125266f82e700148410e3"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "전에 하나님께 소망을 두었던 거룩한 부녀들도 이와 같이 자기 남편에게 순복함으로 자기를 단장하였나니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40105"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40105",
+  "book": 60,
+  "chapter": 3,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "사라",
+      "link": "60c4b4456cfae70012b0373e"
+    },
+    {
+      "txt": "가 "
+    },
+    {
+      "txt": "아브라함",
+      "link": "60ba2d391376e50012a0dab4"
+    },
+    {
+      "txt": "을 주라 칭하여 "
+    },
+    {
+      "txt": "복종",
+      "link": "63b6c04d6f82e70014841a2d"
+    },
+    {
+      "txt": "한 것 같이 너희가 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "을 행하고 아무 두려운 일에도 놀라지 아니함으로 그의 딸이 되었느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사라가 아브라함을 주라 칭하여 복종한 것 같이 너희가 선을 행하고 아무 두려운 일에도 놀라지 아니함으로 그의 딸이 되었느니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/60c4b4456cfae70012b0373e"
+    },
+    {
+      "start": 4,
+      "end": 7,
+      "href": "/bible-forest/dictionary/60ba2d391376e50012a0dab4"
+    },
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/63b6c04d6f82e70014841a2d"
+    },
+    {
+      "start": 30,
+      "end": 30,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사라가 아브라함을 주라 칭하여 복종한 것 같이 너희가 선을 행하고 아무 두려운 일에도 놀라지 아니함으로 그의 딸이 되었느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40106"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40106",
+  "book": 60,
+  "chapter": 3,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>남편된 자들아 이와 같이 <span style=\"color:Blue;\">ᵇ</span>지식을 따라 너희 "
+    },
+    {
+      "txt": "아내",
+      "link": "60bbaf581376e50012a0db62"
+    },
+    {
+      "txt": "와 "
+    },
+    {
+      "txt": "동거하고",
+      "link": "63218f666f82e700148410e8"
+    },
+    {
+      "txt": " 저는 더 "
+    },
+    {
+      "txt": "연약",
+      "link": "640d690e050c7b001378e85f"
+    },
+    {
+      "txt": "한 <span style=\"color:crimson;\">²</span>그릇이요 또 "
+    },
+    {
+      "txt": "생명",
+      "link": "60bed2721376e50012a0dbd1"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "유업",
+      "link": "6200dcad21976e001389d9ad"
+    },
+    {
+      "txt": "으로 함께 받을 자로 알아 귀히 여기라 이는 너희 "
+    },
+    {
+      "txt": "기도",
+      "link": "618a8678c5894b001b8c5c1d"
+    },
+    {
+      "txt": "가 막히지 아니하게 하려 함이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "남편된 자들아 이와 같이 지식을 따라 너희 아내와 동거하고 저는 더 연약한 그릇이요 또 생명의 은혜를 유업으로 함께 받을 자로 알아 귀히 여기라 이는 너희 기도가 막히지 아니하게 하려 함이라",
+  "link_pos": [
+    {
+      "start": 95,
+      "end": 96,
+      "href": "/bible-forest/dictionary/60bbaf581376e50012a0db62"
+    },
+    {
+      "start": 99,
+      "end": 102,
+      "href": "/bible-forest/dictionary/63218f666f82e700148410e8"
+    },
+    {
+      "start": 109,
+      "end": 110,
+      "href": "/bible-forest/dictionary/640d690e050c7b001378e85f"
+    },
+    {
+      "start": 157,
+      "end": 158,
+      "href": "/bible-forest/dictionary/60bed2721376e50012a0dbd1"
+    },
+    {
+      "start": 161,
+      "end": 162,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    },
+    {
+      "start": 165,
+      "end": 166,
+      "href": "/bible-forest/dictionary/6200dcad21976e001389d9ad"
+    },
+    {
+      "start": 195,
+      "end": 196,
+      "href": "/bible-forest/dictionary/618a8678c5894b001b8c5c1d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>남편된 자들아 이와 같이 <span style=\"color:gray;\">²</span>지식을 따라 너희 아내와 동거하고 저는 더 연약한 <span style=\"color:crimson;\">²</span>그릇이요 또 생명의 은혜를 유업으로 함께 받을 자로 알아 귀히 여기라 이는 너희 기도가 막히지 아니하게 하려 함이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40107"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40107",
+  "book": 60,
+  "chapter": 3,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "마지막으로 말하노니 너희가 다 <span style=\"color:crimson;\">¹</span>마음을 같이 하여 "
+    },
+    {
+      "txt": "체휼",
+      "link": "6493ee848d26fb00138801f3"
+    },
+    {
+      "txt": "하며 <span style=\"color:crimson;\">²</span>형제를 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하며 <span style=\"color:crimson;\">³</span>불쌍히 여기며 <span style=\"color:crimson;\">⁴</span>겸손하며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "마지막으로 말하노니 너희가 다 마음을 같이 하여 체휼하며 형제를 사랑하며 불쌍히 여기며 겸손하며",
+  "link_pos": [
+    {
+      "start": 64,
+      "end": 65,
+      "href": "/bible-forest/dictionary/6493ee848d26fb00138801f3"
+    },
+    {
+      "start": 110,
+      "end": 111,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "마지막으로 말하노니 너희가 다 <span style=\"color:crimson;\">¹</span>마음을 같이 하여 체휼하며 <span style=\"color:crimson;\">²</span>형제를 사랑하며 <span style=\"color:crimson;\">³</span>불쌍히 여기며 <span style=\"color:crimson;\">⁴</span>겸손하며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40108"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40108",
+  "book": 60,
+  "chapter": 3,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>악을 악으로, "
+    },
+    {
+      "txt": "욕",
+      "link": "640da876050c7b001378e870"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "욕",
+      "link": "640da876050c7b001378e870"
+    },
+    {
+      "txt": "으로 갚지 말고 도리어 "
+    },
+    {
+      "txt": "복",
+      "link": "60bc526a1376e50012a0db6a"
+    },
+    {
+      "txt": "을 빌라 이를 위하여 너희가 부르심을 입었으니 이는 "
+    },
+    {
+      "txt": "복",
+      "link": "60bc526a1376e50012a0db6a"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "유업",
+      "link": "6200dcad21976e001389d9ad"
+    },
+    {
+      "txt": "으로 받게 하려 하심이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "악을 악으로, 욕을 욕으로 갚지 말고 도리어 복을 빌라 이를 위하여 너희가 부르심을 입었으니 이는 복을 유업으로 받게 하려 하심이라",
+  "link_pos": [
+    {
+      "start": 45,
+      "end": 45,
+      "href": "/bible-forest/dictionary/640da876050c7b001378e870"
+    },
+    {
+      "start": 48,
+      "end": 48,
+      "href": "/bible-forest/dictionary/640da876050c7b001378e870"
+    },
+    {
+      "start": 62,
+      "end": 62,
+      "href": "/bible-forest/dictionary/60bc526a1376e50012a0db6a"
+    },
+    {
+      "start": 92,
+      "end": 92,
+      "href": "/bible-forest/dictionary/60bc526a1376e50012a0db6a"
+    },
+    {
+      "start": 95,
+      "end": 96,
+      "href": "/bible-forest/dictionary/6200dcad21976e001389d9ad"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>악을 악으로, 욕을 욕으로 갚지 말고 도리어 복을 빌라 이를 위하여 너희가 부르심을 입었으니 이는 복을 유업으로 받게 하려 하심이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40109"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40109",
+  "book": 60,
+  "chapter": 3,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "그러므로 "
+    },
+    {
+      "txt": "생명",
+      "link": "60bed2721376e50012a0dbd1"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하고 좋은 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": " 보기를 원하는 자는 혀를 금하여 악한 말을 그치며 그 "
+    },
+    {
+      "txt": "입술",
+      "link": "640cb612050c7b001378e834"
+    },
+    {
+      "txt": "로 "
+    },
+    {
+      "txt": "궤휼",
+      "link": "62ad34468f55f40014219cb6"
+    },
+    {
+      "txt": "을 말하지 말고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 생명을 사랑하고 좋은 날 보기를 원하는 자는 혀를 금하여 악한 말을 그치며 그 입술로 궤휼을 말하지 말고",
+  "link_pos": [
+    {
+      "start": 5,
+      "end": 6,
+      "href": "/bible-forest/dictionary/60bed2721376e50012a0dbd1"
+    },
+    {
+      "start": 9,
+      "end": 10,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 17,
+      "end": 17,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 49,
+      "end": 50,
+      "href": "/bible-forest/dictionary/640cb612050c7b001378e834"
+    },
+    {
+      "start": 53,
+      "end": 54,
+      "href": "/bible-forest/dictionary/62ad34468f55f40014219cb6"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 생명을 사랑하고 좋은 날 보기를 원하는 자는 혀를 금하여 악한 말을 그치며 그 입술로 궤휼을 말하지 말고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4010a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4010a",
+  "book": 60,
+  "chapter": 3,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "악에서 떠나 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "을 행하고 "
+    },
+    {
+      "txt": "화평",
+      "link": "621cd9b38f55f400142198f8"
+    },
+    {
+      "txt": "을 구하여 이를 좇으라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "악에서 떠나 선을 행하고 화평을 구하여 이를 좇으라",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 7,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/621cd9b38f55f400142198f8"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "악에서 떠나 선을 행하고 화평을 구하여 이를 좇으라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4010b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4010b",
+  "book": 60,
+  "chapter": 3,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "눈",
+      "link": "6303655bf7b0360013928f6b"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "의인",
+      "link": "623c02998f55f40014219993"
+    },
+    {
+      "txt": "을 향하시고 그의 귀는 저의 간구에 기울이시되"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "낯",
+      "link": "630bdb63f7b0360013928faa"
+    },
+    {
+      "txt": "은 악행하는 자들을 향하시느니라 하였느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "주의 눈은 의인을 향하시고 그의 귀는 저의 간구에 기울이시되 주의 낯은 악행하는 자들을 향하시느니라 하였느니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 0,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 3,
+      "end": 3,
+      "href": "/bible-forest/dictionary/6303655bf7b0360013928f6b"
+    },
+    {
+      "start": 6,
+      "end": 7,
+      "href": "/bible-forest/dictionary/623c02998f55f40014219993"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 37,
+      "end": 37,
+      "href": "/bible-forest/dictionary/630bdb63f7b0360013928faa"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "주의 눈은 의인을 향하시고 그의 귀는 저의 간구에 기울이시되 주의 낯은 악행하는 자들을 향하시느니라 하였느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4010c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4010c",
+  "book": 60,
+  "chapter": 3,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "또 너희가 열심으로 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "을 행하면 누가 너희를 "
+    },
+    {
+      "txt": "해",
+      "link": "644e62bcba956c0013dc1320"
+    },
+    {
+      "txt": "하리요"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "또 너희가 열심으로 선을 행하면 누가 너희를 해하리요",
+  "link_pos": [
+    {
+      "start": 11,
+      "end": 11,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 25,
+      "end": 25,
+      "href": "/bible-forest/dictionary/644e62bcba956c0013dc1320"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "또 너희가 열심으로 선을 행하면 누가 너희를 해하리요",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4010d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4010d",
+  "book": 60,
+  "chapter": 3,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "그러나 <span style=\"color:crimson;\">¹</span>의를 위하여 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받으면 "
+    },
+    {
+      "txt": "복",
+      "link": "60bc526a1376e50012a0db6a"
+    },
+    {
+      "txt": " 있는 자니 저희의 두려워함을 <span style=\"color:crimson;\">²</span>두려워 말며 소동치 말고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러나 의를 위하여 고난을 받으면 복 있는 자니 저희의 두려워함을 두려워 말며 소동치 말고",
+  "link_pos": [
+    {
+      "start": 48,
+      "end": 49,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 56,
+      "end": 56,
+      "href": "/bible-forest/dictionary/60bc526a1376e50012a0db6a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러나 <span style=\"color:crimson;\">¹</span>의를 위하여 고난을 받으면 복 있는 자니 저희의 두려워함을 <span style=\"color:crimson;\">²</span>두려워 말며 소동치 말고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4010e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4010e",
+  "book": 60,
+  "chapter": 3,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "너희 마음에 "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "를"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "로 삼아 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "하게 하고 너희 속에 있는 "
+    },
+    {
+      "txt": "소망",
+      "link": "623b36658f55f40014219990"
+    },
+    {
+      "txt": "에 관한 이유를 묻는 자에게는 대답할 것을 항상 예비하되 온유와 두려움으로 하고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 마음에 그리스도를 주로 삼아 거룩하게 하고 너희 속에 있는 소망에 관한 이유를 묻는 자에게는 대답할 것을 항상 예비하되 온유와 두려움으로 하고",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 10,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 13,
+      "end": 13,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    },
+    {
+      "start": 36,
+      "end": 37,
+      "href": "/bible-forest/dictionary/623b36658f55f40014219990"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 마음에 그리스도를 주로 삼아 거룩하게 하고 너희 속에 있는 소망에 관한 이유를 묻는 자에게는 대답할 것을 항상 예비하되 온유와 두려움으로 하고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4010f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4010f",
+  "book": 60,
+  "chapter": 3,
+  "verse": 16,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "양심",
+      "link": "640c9aa7050c7b001378e824"
+    },
+    {
+      "txt": "을 가지라 이는 "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": " 안에 있는 너희의 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "행을 "
+    },
+    {
+      "txt": "욕",
+      "link": "640da876050c7b001378e870"
+    },
+    {
+      "txt": "하는 자들로 그 "
+    },
+    {
+      "txt": "비방",
+      "link": "63dd1ccb155c55001474f584"
+    },
+    {
+      "txt": "하는 일에 "
+    },
+    {
+      "txt": "부끄러움",
+      "link": "63b59cbd6f82e70014841a0e"
+    },
+    {
+      "txt": "을 당하게 하려 함이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "선한 양심을 가지라 이는 그리스도 안에 있는 너희의 선행을 욕하는 자들로 그 비방하는 일에 부끄러움을 당하게 하려 함이라",
+  "link_pos": [
+    {
+      "start": 37,
+      "end": 37,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 40,
+      "end": 41,
+      "href": "/bible-forest/dictionary/640c9aa7050c7b001378e824"
+    },
+    {
+      "start": 51,
+      "end": 54,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 103,
+      "end": 103,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 107,
+      "end": 107,
+      "href": "/bible-forest/dictionary/640da876050c7b001378e870"
+    },
+    {
+      "start": 117,
+      "end": 118,
+      "href": "/bible-forest/dictionary/63dd1ccb155c55001474f584"
+    },
+    {
+      "start": 125,
+      "end": 128,
+      "href": "/bible-forest/dictionary/63b59cbd6f82e70014841a0e"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>선한 양심을 가지라 이는 그리스도 안에 있는 너희의 <span style=\"color:crimson;\">²</span>선행을 욕하는 자들로 그 비방하는 일에 부끄러움을 당하게 하려 함이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40110"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40110",
+  "book": 60,
+  "chapter": 3,
+  "verse": 17,
+  "content": [
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "을 행함으로 <span style=\"color:crimson;\">¹</span>고난 받는 것이 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 뜻일진대 악을 행함으로 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": " 받는 것보다 나으니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "선을 행함으로 고난 받는 것이 하나님의 뜻일진대 악을 행함으로 고난 받는 것보다 나으니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 0,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 54,
+      "end": 56,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 72,
+      "end": 73,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "선을 행함으로 <span style=\"color:crimson;\">¹</span>고난 받는 것이 하나님의 뜻일찐대 악을 행함으로 고난 받는 것보다 나으니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40111"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40111",
+  "book": 60,
+  "chapter": 3,
+  "verse": 18,
+  "content": [
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "께서도 한 번 <span style=\"color:crimson;\">¹</span>죄를 위하여 <span style=\"color:Blue;\">ᶜ</span>죽으사 "
+    },
+    {
+      "txt": "의인",
+      "link": "623c02998f55f40014219993"
+    },
+    {
+      "txt": "으로서 "
+    },
+    {
+      "txt": "불의",
+      "link": "63a704336f82e7001484186f"
+    },
+    {
+      "txt": "한 자를 대신하셨으니 이는 우리를 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " 앞으로 인도하려 하심이라 <span style=\"color:crimson;\">²</span>육체로는 죽임을 당하시고 "
+    },
+    {
+      "txt": "영",
+      "link": "60e53759d73fa40012bc3bcc"
+    },
+    {
+      "txt": "으로는 살리심을 받으셨으니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그리스도께서도 한 번 죄를 위하여 죽으사 의인으로서 불의한 자를 대신하셨으니 이는 우리를 하나님 앞으로 인도하려 하심이라 육체로는 죽임을 당하시고 영으로는 살리심을 받으셨으니",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 3,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 94,
+      "end": 95,
+      "href": "/bible-forest/dictionary/623c02998f55f40014219993"
+    },
+    {
+      "start": 100,
+      "end": 101,
+      "href": "/bible-forest/dictionary/63a704336f82e7001484186f"
+    },
+    {
+      "start": 121,
+      "end": 123,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 190,
+      "end": 190,
+      "href": "/bible-forest/dictionary/60e53759d73fa40012bc3bcc"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그리스도께서도 한 번 <span style=\"color:crimson;\">¹</span>죄를 위하여 <span style=\"color:gray;\">³</span>죽으사 의인으로서 불의한 자를 대신하셨으니 이는 우리를 하나님 앞으로 인도하려 하심이라 <span style=\"color:crimson;\">²</span>육체로는 죽임을 당하시고 영으로는 살리심을 받으셨으니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40112"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40112",
+  "book": 60,
+  "chapter": 3,
+  "verse": 19,
+  "content": [
+    {
+      "txt": "저가 또한 "
+    },
+    {
+      "txt": "영",
+      "link": "60e53759d73fa40012bc3bcc"
+    },
+    {
+      "txt": "으로 <span style=\"color:crimson;\">¹</span>옥에 있는 "
+    },
+    {
+      "txt": "영",
+      "link": "60e53759d73fa40012bc3bcc"
+    },
+    {
+      "txt": "들에게 전파하시니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "저가 또한 영으로 옥에 있는 영들에게 전파하시니라",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 6,
+      "href": "/bible-forest/dictionary/60e53759d73fa40012bc3bcc"
+    },
+    {
+      "start": 53,
+      "end": 53,
+      "href": "/bible-forest/dictionary/60e53759d73fa40012bc3bcc"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "저가 또한 영으로 <span style=\"color:crimson;\">¹</span>옥에 있는 영들에게 전파하시니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40113"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40113",
+  "book": 60,
+  "chapter": 3,
+  "verse": 20,
+  "content": [
+    {
+      "txt": "그들은 전에 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "노아",
+      "link": "612cec84e8113c001ae0b50e"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "방주",
+      "link": "62345bc08f55f40014219956"
+    },
+    {
+      "txt": " 예비할 동안 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "이 오래 참고 기다리실 때에 "
+    },
+    {
+      "txt": "순종",
+      "link": "624424ad8f55f400142199d9"
+    },
+    {
+      "txt": "치 아니하던 자들이라 "
+    },
+    {
+      "txt": "방주",
+      "link": "62345bc08f55f40014219956"
+    },
+    {
+      "txt": "에서 "
+    },
+    {
+      "txt": "물",
+      "link": "60d3692f6cfae70012b03785"
+    },
+    {
+      "txt": "로 말미암아 "
+    },
+    {
+      "txt": "구원",
+      "link": "618f9f7aab04fd00148cc58c"
+    },
+    {
+      "txt": "을 얻은 자가 몇 명뿐이니 겨우 <span style=\"color:crimson;\">²</span>여덟 명이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그들은 전에 노아의 날 방주 예비할 동안 하나님이 오래 참고 기다리실 때에 순종치 아니하던 자들이라 방주에서 물로 말미암아 구원을 얻은 자가 몇 명뿐이니 겨우 여덟 명이라",
+  "link_pos": [
+    {
+      "start": 44,
+      "end": 45,
+      "href": "/bible-forest/dictionary/612cec84e8113c001ae0b50e"
+    },
+    {
+      "start": 48,
+      "end": 48,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 50,
+      "end": 51,
+      "href": "/bible-forest/dictionary/62345bc08f55f40014219956"
+    },
+    {
+      "start": 60,
+      "end": 62,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 79,
+      "end": 80,
+      "href": "/bible-forest/dictionary/624424ad8f55f400142199d9"
+    },
+    {
+      "start": 93,
+      "end": 94,
+      "href": "/bible-forest/dictionary/62345bc08f55f40014219956"
+    },
+    {
+      "start": 98,
+      "end": 98,
+      "href": "/bible-forest/dictionary/60d3692f6cfae70012b03785"
+    },
+    {
+      "start": 106,
+      "end": 107,
+      "href": "/bible-forest/dictionary/618f9f7aab04fd00148cc58c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그들은 전에 <span style=\"color:crimson;\">¹</span>노아의 날 방주 예비할 동안 하나님이 오래 참고 기다리실 때에 순종치 아니하던 자들이라 방주에서 물로 말미암아 구원을 얻은 자가 몇 명뿐이니 겨우 <span style=\"color:crimson;\">²</span>여덟 명이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40114"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40114",
+  "book": 60,
+  "chapter": 3,
+  "verse": 21,
+  "content": [
+    {
+      "txt": "물",
+      "link": "60d3692f6cfae70012b03785"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "부활",
+      "link": "60bb30671376e50012a0db35"
+    },
+    {
+      "txt": "하심으로 말미암아 이제 너희를 "
+    },
+    {
+      "txt": "구원",
+      "link": "618f9f7aab04fd00148cc58c"
+    },
+    {
+      "txt": "하는 <span style=\"color:Blue;\">ᵈ</span>표니 곧 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "세례",
+      "link": "61475c795f803400131d4a40"
+    },
+    {
+      "txt": "라 육체의 더러운 것을 제하여 버림이 아니요 오직 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "양심",
+      "link": "640c9aa7050c7b001378e824"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "을 향하여 찾아가는 것이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "물은 예수 그리스도의 부활하심으로 말미암아 이제 너희를 구원하는 표니 곧 세례라 육체의 더러운 것을 제하여 버림이 아니요 오직 선한 양심이 하나님을 향하여 찾아가는 것이라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 0,
+      "href": "/bible-forest/dictionary/60d3692f6cfae70012b03785"
+    },
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 6,
+      "end": 9,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 12,
+      "end": 13,
+      "href": "/bible-forest/dictionary/60bb30671376e50012a0db35"
+    },
+    {
+      "start": 31,
+      "end": 32,
+      "href": "/bible-forest/dictionary/618f9f7aab04fd00148cc58c"
+    },
+    {
+      "start": 75,
+      "end": 76,
+      "href": "/bible-forest/dictionary/61475c795f803400131d4a40"
+    },
+    {
+      "start": 105,
+      "end": 105,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 108,
+      "end": 109,
+      "href": "/bible-forest/dictionary/640c9aa7050c7b001378e824"
+    },
+    {
+      "start": 112,
+      "end": 114,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "물은 예수 그리스도의 부활하심으로 말미암아 이제 너희를 구원하는 <span style=\"color:gray;\">⁴</span>표니 곧 세례라 육체의 더러운 것을 제하여 버림이 아니요 오직 선한 양심이 하나님을 향하여 찾아가는 것이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40115"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40115",
+  "book": 60,
+  "chapter": 3,
+  "verse": 22,
+  "content": [
+    {
+      "txt": "저는 "
+    },
+    {
+      "txt": "하늘",
+      "link": "60c5f93a6cfae70012b03757"
+    },
+    {
+      "txt": "에 오르사 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " 우편에 계시니 "
+    },
+    {
+      "txt": "천사",
+      "link": "60fce1af1ef2ea00133538c2"
+    },
+    {
+      "txt": "들과 "
+    },
+    {
+      "txt": "권세",
+      "link": "62adee028f55f40014219cd3"
+    },
+    {
+      "txt": "들과 "
+    },
+    {
+      "txt": "능력",
+      "link": "63011193f7b0360013928f55"
+    },
+    {
+      "txt": "들이 저에게 순복하느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "저는 하늘에 오르사 하나님 우편에 계시니 천사들과 권세들과 능력들이 저에게 순복하느니라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/60c5f93a6cfae70012b03757"
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 23,
+      "end": 24,
+      "href": "/bible-forest/dictionary/60fce1af1ef2ea00133538c2"
+    },
+    {
+      "start": 28,
+      "end": 29,
+      "href": "/bible-forest/dictionary/62adee028f55f40014219cd3"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/63011193f7b0360013928f55"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "저는 하늘에 오르사 하나님 우편에 계시니 천사들과 권세들과 능력들이 저에게 순복하느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40116"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40116",
+  "book": 60,
+  "chapter": 4,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "께서 이미 육체에 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받으셨으니 너희도 같은 마음으로 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "갑옷",
+      "link": "6187db65ab886400139a72dd"
+    },
+    {
+      "txt": "을 삼으라 이는 육체의 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받은 자가 "
+    },
+    {
+      "txt": "죄",
+      "link": "60f6c6ee1ef2ea00133538a4"
+    },
+    {
+      "txt": "를 그쳤음이니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그리스도께서 이미 육체에 고난을 받으셨으니 너희도 같은 마음으로 갑옷을 삼으라 이는 육체의 고난을 받은 자가 죄를 그쳤음이니",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 3,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 73,
+      "end": 74,
+      "href": "/bible-forest/dictionary/6187db65ab886400139a72dd"
+    },
+    {
+      "start": 88,
+      "end": 89,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 98,
+      "end": 98,
+      "href": "/bible-forest/dictionary/60f6c6ee1ef2ea00133538a4"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그리스도께서 이미 육체에 고난을 받으셨으니 너희도 같은 마음으로 <span style=\"color:crimson;\">¹</span>갑옷을 삼으라 이는 육체의 고난을 받은 자가 죄를 그쳤음이니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40117"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40117",
+  "book": 60,
+  "chapter": 4,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "그 후로는 다시 사람의 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "정욕",
+      "link": "645faa76ba956c0013dc13dd"
+    },
+    {
+      "txt": "을 좇지 않고 오직 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 뜻을 좇아 육체의 남은 때를 살게 하려 함이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그 후로는 다시 사람의 정욕을 좇지 않고 오직 하나님의 뜻을 좇아 육체의 남은 때를 살게 하려 함이라",
+  "link_pos": [
+    {
+      "start": 50,
+      "end": 51,
+      "href": "/bible-forest/dictionary/645faa76ba956c0013dc13dd"
+    },
+    {
+      "start": 63,
+      "end": 65,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그 후로는 다시 사람의 <span style=\"color:crimson;\">¹</span>정욕을 좇지 않고 오직 하나님의 뜻을 좇아 육체의 남은 때를 살게 하려 함이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40118"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40118",
+  "book": 60,
+  "chapter": 4,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "너희가 "
+    },
+    {
+      "txt": "음란",
+      "link": "61f546f721976e001389d9a1"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "정욕",
+      "link": "645faa76ba956c0013dc13dd"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "술",
+      "link": "63c804526f82e70014841c8c"
+    },
+    {
+      "txt": "취함과 "
+    },
+    {
+      "txt": "방탕",
+      "link": "639ef2b86f82e70014841740"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "연락",
+      "link": "640095b9cc90a400169b1f74"
+    },
+    {
+      "txt": "과 무법한 "
+    },
+    {
+      "txt": "우상 숭배",
+      "link": "618a8fe0c5894b001b8c5c23"
+    },
+    {
+      "txt": "를 하여 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "이방",
+      "link": "61b2f8a93b8fc5001467ade2"
+    },
+    {
+      "txt": "인의 뜻을 좇아 행한 것이 지나간 때가 족하도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 음란과 정욕과 술취함과 방탕과 연락과 무법한 우상 숭배를 하여 이방인의 뜻을 좇아 행한 것이 지나간 때가 족하도다",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 5,
+      "href": "/bible-forest/dictionary/61f546f721976e001389d9a1"
+    },
+    {
+      "start": 8,
+      "end": 9,
+      "href": "/bible-forest/dictionary/645faa76ba956c0013dc13dd"
+    },
+    {
+      "start": 12,
+      "end": 12,
+      "href": "/bible-forest/dictionary/63c804526f82e70014841c8c"
+    },
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/639ef2b86f82e70014841740"
+    },
+    {
+      "start": 21,
+      "end": 22,
+      "href": "/bible-forest/dictionary/640095b9cc90a400169b1f74"
+    },
+    {
+      "start": 29,
+      "end": 33,
+      "href": "/bible-forest/dictionary/618a8fe0c5894b001b8c5c23"
+    },
+    {
+      "start": 76,
+      "end": 77,
+      "href": "/bible-forest/dictionary/61b2f8a93b8fc5001467ade2"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 음란과 정욕과 술취함과 방탕과 연락과 무법한 우상 숭배를 하여 <span style=\"color:crimson;\">¹</span>이방인의 뜻을 좇아 행한 것이 지나간 때가 족하도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40119"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40119",
+  "book": 60,
+  "chapter": 4,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "이러므로 너희가 저희와 함께 그런 극한 방탕에 달음질하지 아니하는 것을 저희가 이상히 여겨 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "비방",
+      "link": "63dd1ccb155c55001474f584"
+    },
+    {
+      "txt": "하나"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이러므로 너희가 저희와 함께 그런 극한 방탕에 달음질하지 아니하는 것을 저희가 이상히 여겨 비방하나",
+  "link_pos": [
+    {
+      "start": 88,
+      "end": 89,
+      "href": "/bible-forest/dictionary/63dd1ccb155c55001474f584"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이러므로 너희가 저희와 함께 그런 극한 방탕에 달음질하지 아니하는 것을 저희가 이상히 여겨 <span style=\"color:crimson;\">¹</span>비방하나",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4011a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4011a",
+  "book": 60,
+  "chapter": 4,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "저희가 <span style=\"color:crimson;\">¹</span>산 자와 죽은 자 "
+    },
+    {
+      "txt": "심판",
+      "link": "60c0c0ac6cfae70012b03713"
+    },
+    {
+      "txt": "하기를 예비하신 자에게 직고하리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "저희가 산 자와 죽은 자 심판하기를 예비하신 자에게 직고하리라",
+  "link_pos": [
+    {
+      "start": 51,
+      "end": 52,
+      "href": "/bible-forest/dictionary/60c0c0ac6cfae70012b03713"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "저희가 <span style=\"color:crimson;\">¹</span>산 자와 죽은 자 심판하기를 예비하신 자에게 직고하리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4011b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4011b",
+  "book": 60,
+  "chapter": 4,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "이를 위하여 죽은 자들에게도 "
+    },
+    {
+      "txt": "복음",
+      "link": "6188cb0cab886400139a7301"
+    },
+    {
+      "txt": "이 전파되었으니 이는 육체로는 사람처럼 "
+    },
+    {
+      "txt": "심판",
+      "link": "60c0c0ac6cfae70012b03713"
+    },
+    {
+      "txt": "을 받으나 "
+    },
+    {
+      "txt": "영",
+      "link": "60e53759d73fa40012bc3bcc"
+    },
+    {
+      "txt": "으로는 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "처럼 살게 하려 함이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이를 위하여 죽은 자들에게도 복음이 전파되었으니 이는 육체로는 사람처럼 심판을 받으나 영으로는 하나님처럼 살게 하려 함이니라",
+  "link_pos": [
+    {
+      "start": 16,
+      "end": 17,
+      "href": "/bible-forest/dictionary/6188cb0cab886400139a7301"
+    },
+    {
+      "start": 40,
+      "end": 41,
+      "href": "/bible-forest/dictionary/60c0c0ac6cfae70012b03713"
+    },
+    {
+      "start": 48,
+      "end": 48,
+      "href": "/bible-forest/dictionary/60e53759d73fa40012bc3bcc"
+    },
+    {
+      "start": 53,
+      "end": 55,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이를 위하여 죽은 자들에게도 복음이 전파되었으니 이는 육체로는 사람처럼 심판을 받으나 영으로는 하나님처럼 살게 하려 함이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4011c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4011c",
+  "book": 60,
+  "chapter": 4,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "만물",
+      "link": "6236c6fd8f55f40014219965"
+    },
+    {
+      "txt": "의 마지막이 가까웠으니 그러므로 너희는 "
+    },
+    {
+      "txt": "정신",
+      "link": "645fa9e9ba956c0013dc13dc"
+    },
+    {
+      "txt": "을 차리고 <span style=\"color:crimson;\">¹</span>근신하여 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "기도",
+      "link": "618a8678c5894b001b8c5c1d"
+    },
+    {
+      "txt": "하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만물의 마지막이 가까웠으니 그러므로 너희는 정신을 차리고 근신하여 기도하라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/6236c6fd8f55f40014219965"
+    },
+    {
+      "start": 24,
+      "end": 25,
+      "href": "/bible-forest/dictionary/645fa9e9ba956c0013dc13dc"
+    },
+    {
+      "start": 111,
+      "end": 112,
+      "href": "/bible-forest/dictionary/618a8678c5894b001b8c5c1d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만물의 마지막이 가까웠으니 그러므로 너희는 정신을 차리고 <span style=\"color:crimson;\">¹</span>근신하여 <span style=\"color:crimson;\">²</span>기도하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4011d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4011d",
+  "book": 60,
+  "chapter": 4,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "무엇보다도 열심으로 서로 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "할지니 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "은 <span style=\"color:crimson;\">¹</span>허다한 "
+    },
+    {
+      "txt": "죄",
+      "link": "60f6c6ee1ef2ea00133538a4"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "덮",
+      "link": "632b10b86f82e700148411cf"
+    },
+    {
+      "txt": "느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "무엇보다도 열심으로 서로 사랑할지니 사랑은 허다한 죄를 덮느니라",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 20,
+      "end": 21,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 65,
+      "end": 65,
+      "href": "/bible-forest/dictionary/60f6c6ee1ef2ea00133538a4"
+    },
+    {
+      "start": 68,
+      "end": 68,
+      "href": "/bible-forest/dictionary/632b10b86f82e700148411cf"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "무엇보다도 열심으로 서로 사랑할지니 사랑은 <span style=\"color:crimson;\">¹</span>허다한 죄를 덮느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4011e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4011e",
+  "book": 60,
+  "chapter": 4,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "서로 대접하기를 "
+    },
+    {
+      "txt": "원망",
+      "link": "640e86cb050c7b001378e8b5"
+    },
+    {
+      "txt": " 없이 하고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "서로 대접하기를 원망 없이 하고",
+  "link_pos": [
+    {
+      "start": 9,
+      "end": 10,
+      "href": "/bible-forest/dictionary/640e86cb050c7b001378e8b5"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "서로 대접하기를 원망 없이 하고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4011f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4011f",
+  "book": 60,
+  "chapter": 4,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "각각 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "은사",
+      "link": "623eedb88f55f400142199b8"
+    },
+    {
+      "txt": "를 받은 대로 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 각양 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "를 맡은 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "청지기",
+      "link": "647a121bba956c0013dc1685"
+    },
+    {
+      "txt": " 같이 서로 "
+    },
+    {
+      "txt": "봉사",
+      "link": "63b77b596f82e70014841a35"
+    },
+    {
+      "txt": "하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "각각 은사를 받은 대로 하나님의 각양 은혜를 맡은 선한 청지기 같이 서로 봉사하라",
+  "link_pos": [
+    {
+      "start": 40,
+      "end": 41,
+      "href": "/bible-forest/dictionary/623eedb88f55f400142199b8"
+    },
+    {
+      "start": 50,
+      "end": 52,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 58,
+      "end": 59,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    },
+    {
+      "start": 65,
+      "end": 65,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 68,
+      "end": 70,
+      "href": "/bible-forest/dictionary/647a121bba956c0013dc1685"
+    },
+    {
+      "start": 78,
+      "end": 79,
+      "href": "/bible-forest/dictionary/63b77b596f82e70014841a35"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "각각 <span style=\"color:crimson;\">¹</span>은사를 받은 대로 하나님의 각양 은혜를 맡은 선한 청지기 같이 서로 봉사하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40120"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40120",
+  "book": 60,
+  "chapter": 4,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "만일 누가 말하려면 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "을 하는 것 같이 하고 누가 "
+    },
+    {
+      "txt": "봉사",
+      "link": "63b77b596f82e70014841a35"
+    },
+    {
+      "txt": "하려면 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 공급하시는 힘으로 하는 것 같이 하라 이는 "
+    },
+    {
+      "txt": "범사",
+      "link": "63a84c0e6f82e700148418e7"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "예수",
+      "link": "60f3efbd1ef2ea001335389b"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "로 말미암아 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "을 받으시게 하려 함이니 그에게 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "과 "
+    },
+    {
+      "txt": "권능",
+      "link": "62ad1eb18f55f40014219cb3"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "세세",
+      "link": "63cb7b986f82e70014841ce5"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "무궁",
+      "link": "63785d846f82e700148415a3"
+    },
+    {
+      "txt": "토록 있느니라 "
+    },
+    {
+      "txt": "아멘",
+      "link": "623ea91f8f55f400142199b5"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만일 누가 말하려면 하나님의 말씀을 하는 것 같이 하고 누가 봉사하려면 하나님의 공급하시는 힘으로 하는 것 같이 하라 이는 범사에 예수 그리스도로 말미암아 하나님이 영광을 받으시게 하려 함이니 그에게 영광과 권능이 세세에 무궁토록 있느니라 아멘",
+  "link_pos": [
+    {
+      "start": 11,
+      "end": 13,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 16,
+      "end": 17,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    },
+    {
+      "start": 34,
+      "end": 35,
+      "href": "/bible-forest/dictionary/63b77b596f82e70014841a35"
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 69,
+      "end": 70,
+      "href": "/bible-forest/dictionary/63a84c0e6f82e700148418e7"
+    },
+    {
+      "start": 73,
+      "end": 74,
+      "href": "/bible-forest/dictionary/60f3efbd1ef2ea001335389b"
+    },
+    {
+      "start": 76,
+      "end": 79,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 87,
+      "end": 89,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 92,
+      "end": 93,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 112,
+      "end": 113,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 116,
+      "end": 117,
+      "href": "/bible-forest/dictionary/62ad1eb18f55f40014219cb3"
+    },
+    {
+      "start": 120,
+      "end": 121,
+      "href": "/bible-forest/dictionary/63cb7b986f82e70014841ce5"
+    },
+    {
+      "start": 124,
+      "end": 125,
+      "href": "/bible-forest/dictionary/63785d846f82e700148415a3"
+    },
+    {
+      "start": 134,
+      "end": 135,
+      "href": "/bible-forest/dictionary/623ea91f8f55f400142199b5"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만일 누가 말하려면 하나님의 말씀을 하는 것 같이 하고 누가 봉사하려면 하나님의 공급하시는 힘으로 하는 것 같이 하라 이는 범사에 예수 그리스도로 말미암아 하나님이 영광을 받으시게 하려 함이니 그에게 영광과 권능이 세세에 무궁토록 있느니라 아멘",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40121"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40121",
+  "book": 60,
+  "chapter": 4,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하는 자들아 너희를 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "시련",
+      "link": "61882268ab886400139a72fa"
+    },
+    {
+      "txt": "하려고 오는 "
+    },
+    {
+      "txt": "불시험",
+      "link": "63a809516f82e700148418d0"
+    },
+    {
+      "txt": "을 이상한 일 당하는 것 같이 이상히 여기지 말고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사랑하는 자들아 너희를 시련하려고 오는 불시험을 이상한 일 당하는 것 같이 이상히 여기지 말고",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 50,
+      "end": 51,
+      "href": "/bible-forest/dictionary/61882268ab886400139a72fa"
+    },
+    {
+      "start": 59,
+      "end": 61,
+      "href": "/bible-forest/dictionary/63a809516f82e700148418d0"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사랑하는 자들아 너희를 <span style=\"color:crimson;\">¹</span>시련하려고 오는 불시험을 이상한 일 당하는 것 같이 이상히 여기지 말고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40122"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40122",
+  "book": 60,
+  "chapter": 4,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "오직 너희가 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "참예",
+      "link": "64734fb7ba956c0013dc1574"
+    },
+    {
+      "txt": "하는 것으로 즐거워하라 이는 그의 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "을 나타내실 때에 너희로 즐거워하고 기뻐하게 하려 함이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "오직 너희가 그리스도의 고난에 참예하는 것으로 즐거워하라 이는 그의 영광을 나타내실 때에 너희로 즐거워하고 기뻐하게 하려 함이라",
+  "link_pos": [
+    {
+      "start": 44,
+      "end": 47,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 50,
+      "end": 51,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 54,
+      "end": 55,
+      "href": "/bible-forest/dictionary/64734fb7ba956c0013dc1574"
+    },
+    {
+      "start": 75,
+      "end": 76,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "오직 너희가 <span style=\"color:crimson;\">¹</span>그리스도의 고난에 참예하는 것으로 즐거워하라 이는 그의 영광을 나타내실 때에 너희로 즐거워하고 기뻐하게 하려 함이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40123"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40123",
+  "book": 60,
+  "chapter": 4,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "너희가 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "으로 "
+    },
+    {
+      "txt": "욕",
+      "link": "640da876050c7b001378e870"
+    },
+    {
+      "txt": "을 받으면 "
+    },
+    {
+      "txt": "복",
+      "link": "60bc526a1376e50012a0db6a"
+    },
+    {
+      "txt": " 있는 자로다 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "영",
+      "link": "60e53759d73fa40012bc3bcc"
+    },
+    {
+      "txt": " 곧 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "영",
+      "link": "60e53759d73fa40012bc3bcc"
+    },
+    {
+      "txt": "이 너희 위에 계심이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 그리스도의 이름으로 욕을 받으면 복 있는 자로다 영광의 영 곧 하나님의 영이 너희 위에 계심이라",
+  "link_pos": [
+    {
+      "start": 41,
+      "end": 44,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 47,
+      "end": 48,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 52,
+      "end": 52,
+      "href": "/bible-forest/dictionary/640da876050c7b001378e870"
+    },
+    {
+      "start": 59,
+      "end": 59,
+      "href": "/bible-forest/dictionary/60bc526a1376e50012a0db6a"
+    },
+    {
+      "start": 68,
+      "end": 69,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 72,
+      "end": 72,
+      "href": "/bible-forest/dictionary/60e53759d73fa40012bc3bcc"
+    },
+    {
+      "start": 76,
+      "end": 78,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 81,
+      "end": 81,
+      "href": "/bible-forest/dictionary/60e53759d73fa40012bc3bcc"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 <span style=\"color:crimson;\">¹</span>그리스도의 이름으로 욕을 받으면 복 있는 자로다 영광의 영 곧 하나님의 영이 너희 위에 계심이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40124"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40124",
+  "book": 60,
+  "chapter": 4,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "너희 중에 누구든지 "
+    },
+    {
+      "txt": "살인",
+      "link": "60bcb8891376e50012a0db7b"
+    },
+    {
+      "txt": "이나 "
+    },
+    {
+      "txt": "도적질",
+      "link": "60c72c316cfae70012b03765"
+    },
+    {
+      "txt": "이나 악행이나 "
+    },
+    {
+      "txt": "남",
+      "link": "6306042ef7b0360013928f7a"
+    },
+    {
+      "txt": "의 일을 간섭하는 자로 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받지 말려니와"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 중에 누구든지 살인이나 도적질이나 악행이나 남의 일을 간섭하는 자로 고난을 받지 말려니와",
+  "link_pos": [
+    {
+      "start": 11,
+      "end": 12,
+      "href": "/bible-forest/dictionary/60bcb8891376e50012a0db7b"
+    },
+    {
+      "start": 16,
+      "end": 18,
+      "href": "/bible-forest/dictionary/60c72c316cfae70012b03765"
+    },
+    {
+      "start": 27,
+      "end": 27,
+      "href": "/bible-forest/dictionary/6306042ef7b0360013928f7a"
+    },
+    {
+      "start": 41,
+      "end": 42,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 중에 누구든지 살인이나 도적질이나 악행이나 남의 일을 간섭하는 자로 고난을 받지 말려니와",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40125"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40125",
+  "book": 60,
+  "chapter": 4,
+  "verse": 16,
+  "content": [
+    {
+      "txt": "만일 "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "인으로 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받은즉 부끄러워 말고 도리어 그 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "으로 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "께 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "을 돌리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "만일 그리스도인으로 고난을 받은즉 부끄러워 말고 도리어 그 이름으로 하나님께 영광을 돌리라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 6,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 11,
+      "end": 12,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 38,
+      "end": 40,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "만일 그리스도인으로 고난을 받은즉 부끄러워 말고 도리어 그 이름으로 하나님께 영광을 돌리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40126"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40126",
+  "book": 60,
+  "chapter": 4,
+  "verse": 17,
+  "content": [
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " 집에서 "
+    },
+    {
+      "txt": "심판",
+      "link": "60c0c0ac6cfae70012b03713"
+    },
+    {
+      "txt": "을 시작할 때가 되었나니 만일 우리에게 먼저 하면 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "복음",
+      "link": "6188cb0cab886400139a7301"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "순종",
+      "link": "624424ad8f55f400142199d9"
+    },
+    {
+      "txt": "치 아니하는 자들의 그 마지막이 어떠하며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "하나님 집에서 심판을 시작할 때가 되었나니 만일 우리에게 먼저 하면 하나님의 복음을 순종치 아니하는 자들의 그 마지막이 어떠하며",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 8,
+      "end": 9,
+      "href": "/bible-forest/dictionary/60c0c0ac6cfae70012b03713"
+    },
+    {
+      "start": 38,
+      "end": 40,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "href": "/bible-forest/dictionary/6188cb0cab886400139a7301"
+    },
+    {
+      "start": 47,
+      "end": 48,
+      "href": "/bible-forest/dictionary/624424ad8f55f400142199d9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "하나님 집에서 심판을 시작할 때가 되었나니 만일 우리에게 먼저 하면 하나님의 복음을 순종치 아니하는 자들의 그 마지막이 어떠하며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40127"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40127",
+  "book": 60,
+  "chapter": 4,
+  "verse": 18,
+  "content": [
+    {
+      "txt": "또 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "의인",
+      "link": "623c02998f55f40014219993"
+    },
+    {
+      "txt": "이 겨우 "
+    },
+    {
+      "txt": "구원",
+      "link": "618f9f7aab04fd00148cc58c"
+    },
+    {
+      "txt": "을 얻으면 "
+    },
+    {
+      "txt": "경건",
+      "link": "62a543788f55f40014219c28"
+    },
+    {
+      "txt": "치 아니한 자와 "
+    },
+    {
+      "txt": "죄인",
+      "link": "64530aa9ba956c0013dc1330"
+    },
+    {
+      "txt": "이 어디 <span style=\"color:Blue;\">ᵃ</span>서리요"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "또 의인이 겨우 구원을 얻으면 경건치 아니한 자와 죄인이 어디 서리요",
+  "link_pos": [
+    {
+      "start": 39,
+      "end": 40,
+      "href": "/bible-forest/dictionary/623c02998f55f40014219993"
+    },
+    {
+      "start": 46,
+      "end": 47,
+      "href": "/bible-forest/dictionary/618f9f7aab04fd00148cc58c"
+    },
+    {
+      "start": 54,
+      "end": 55,
+      "href": "/bible-forest/dictionary/62a543788f55f40014219c28"
+    },
+    {
+      "start": 65,
+      "end": 66,
+      "href": "/bible-forest/dictionary/64530aa9ba956c0013dc1330"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "또 <span style=\"color:crimson;\">¹</span>의인이 겨우 구원을 얻으면 경건치 아니한 자와 죄인이 어디 <span style=\"color:gray;\">¹</span>서리요",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40128"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40128",
+  "book": 60,
+  "chapter": 4,
+  "verse": 19,
+  "content": [
+    {
+      "txt": "그러므로 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 뜻대로 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받는 자들은 또한 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "을 행하는 가운데 그 "
+    },
+    {
+      "txt": "영혼",
+      "link": "6186e368ab886400139a72b9"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "미쁘",
+      "link": "63492ca06f82e700148412c4"
+    },
+    {
+      "txt": "신 "
+    },
+    {
+      "txt": "조물주",
+      "link": "6466fa96ba956c0013dc1448"
+    },
+    {
+      "txt": "께 부탁할지어다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 하나님의 뜻대로 고난을 받는 자들은 또한 선을 행하는 가운데 그 영혼을 미쁘신 조물주께 부탁할지어다",
+  "link_pos": [
+    {
+      "start": 5,
+      "end": 7,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 28,
+      "end": 28,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 41,
+      "end": 42,
+      "href": "/bible-forest/dictionary/6186e368ab886400139a72b9"
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "href": "/bible-forest/dictionary/63492ca06f82e700148412c4"
+    },
+    {
+      "start": 49,
+      "end": 51,
+      "href": "/bible-forest/dictionary/6466fa96ba956c0013dc1448"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 하나님의 뜻대로 고난을 받는 자들은 또한 선을 행하는 가운데 그 영혼을 미쁘신 조물주께 부탁할찌어다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40129"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40129",
+  "book": 60,
+  "chapter": 5,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "너희 중 "
+    },
+    {
+      "txt": "장로",
+      "link": "645ec579ba956c0013dc138d"
+    },
+    {
+      "txt": "들에게 권하노니 나는 함께 "
+    },
+    {
+      "txt": "장로"
+    },
+    {
+      "txt": " 된 자요 "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "의 <span style=\"color:crimson;\">¹</span>증인이요 나타날 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "참예",
+      "link": "64734fb7ba956c0013dc1574"
+    },
+    {
+      "txt": "할 자로라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 중 장로들에게 권하노니 나는 함께 장로 된 자요 그리스도의 고난의 증인이요 나타날 영광에 참예할 자로라",
+  "link_pos": [
+    {
+      "start": 5,
+      "end": 6,
+      "href": "/bible-forest/dictionary/645ec579ba956c0013dc138d"
+    },
+    {
+      "start": 30,
+      "end": 33,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 36,
+      "end": 37,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 86,
+      "end": 87,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 90,
+      "end": 91,
+      "href": "/bible-forest/dictionary/64734fb7ba956c0013dc1574"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 중 장로들에게 권하노니 나는 함께 장로 된 자요 그리스도의 고난의 <span style=\"color:crimson;\">¹</span>증인이요 나타날 영광에 참예할 자로라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4012a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4012a",
+  "book": 60,
+  "chapter": 5,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "너희 중에 있는 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "양",
+      "link": "60ba2ce91376e50012a0dab1"
+    },
+    {
+      "txt": " 무리를 치되 <span style=\"color:crimson;\">²</span>부득이함으로 하지 말고 오직 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 뜻을 좇아 "
+    },
+    {
+      "txt": "자원",
+      "link": "6455f850ba956c0013dc134d"
+    },
+    {
+      "txt": "함으로 하며 <span style=\"color:crimson;\">³</span>더러운 이를 위하여 하지 말고 오직 즐거운 뜻으로 하며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 중에 있는 하나님의 양 무리를 치되 부득이함으로 하지 말고 오직 하나님의 뜻을 좇아 자원함으로 하며 더러운 이를 위하여 하지 말고 오직 즐거운 뜻으로 하며",
+  "link_pos": [
+    {
+      "start": 9,
+      "end": 11,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 51,
+      "end": 51,
+      "href": "/bible-forest/dictionary/60ba2ce91376e50012a0dab1"
+    },
+    {
+      "start": 113,
+      "end": 115,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 124,
+      "end": 125,
+      "href": "/bible-forest/dictionary/6455f850ba956c0013dc134d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 중에 있는 하나님의 <span style=\"color:crimson;\">¹</span>양 무리를 치되 <span style=\"color:crimson;\">²</span>부득이함으로 하지 말고 오직 하나님의 뜻을 좇아 자원함으로 하며 <span style=\"color:crimson;\">³</span>더러운 이를 위하여 하지 말고 오직 즐거운 뜻으로 하며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4012b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4012b",
+  "book": 60,
+  "chapter": 5,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "맡기운 자들에게 주장하는 자세를 하지 말고 오직 "
+    },
+    {
+      "txt": "양",
+      "link": "60ba2ce91376e50012a0dab1"
+    },
+    {
+      "txt": " 무리의 <span style=\"color:crimson;\">¹</span>본이 되라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "맡기운 자들에게 주장하는 자세를 하지 말고 오직 양 무리의 <span style=\"color:crimson;\">¹</span>본이 되라",
+  "link_pos": [
+    {
+      "start": 27,
+      "end": 27,
+      "href": "/bible-forest/dictionary/60ba2ce91376e50012a0dab1"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "맡기운 자들에게 주장하는 자세를 하지 말고 오직 양 무리의 <span style=\"color:crimson;\">¹</span>본이 되라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4012c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4012c",
+  "book": 60,
+  "chapter": 5,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "그리하면 <span style=\"color:crimson;\">¹</span>목자장이 나타나실 때에 시들지 아니하는 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "의 <span style=\"color:crimson;\">²</span>면류관을 얻으리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그리하면 목자장이 나타나실 때에 시들지 아니하는 영광의 면류관을 얻으리라",
+  "link_pos": [
+    {
+      "start": 64,
+      "end": 65,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그리하면 <span style=\"color:crimson;\">¹</span>목자장이 나타나실 때에 시들지 아니하는 영광의 <span style=\"color:crimson;\">²</span>면류관을 얻으리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4012d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4012d",
+  "book": 60,
+  "chapter": 5,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "젊은 자들아 이와 같이 "
+    },
+    {
+      "txt": "장로",
+      "link": "645ec579ba956c0013dc138d"
+    },
+    {
+      "txt": "들에게 순복하고 다 서로 겸손으로 "
+    },
+    {
+      "txt": "허리",
+      "link": "648f17e98d26fb00138801bb"
+    },
+    {
+      "txt": "를 동이라 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "이 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "교만",
+      "link": "61882281ab886400139a72fc"
+    },
+    {
+      "txt": "한 자를 "
+    },
+    {
+      "txt": "대적",
+      "link": "6237d8a38f55f4001421996c"
+    },
+    {
+      "txt": "하시되 겸손한 자들에게는 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "를 주시느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "젊은 자들아 이와 같이 장로들에게 순복하고 다 서로 겸손으로 허리를 동이라 하나님이 교만한 자를 대적하시되 겸손한 자들에게는 은혜를 주시느니라",
+  "link_pos": [
+    {
+      "start": 13,
+      "end": 14,
+      "href": "/bible-forest/dictionary/645ec579ba956c0013dc138d"
+    },
+    {
+      "start": 34,
+      "end": 35,
+      "href": "/bible-forest/dictionary/648f17e98d26fb00138801bb"
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 84,
+      "end": 85,
+      "href": "/bible-forest/dictionary/61882281ab886400139a72fc"
+    },
+    {
+      "start": 91,
+      "end": 92,
+      "href": "/bible-forest/dictionary/6237d8a38f55f4001421996c"
+    },
+    {
+      "start": 107,
+      "end": 108,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "젊은 자들아 이와 같이 장로들에게 순복하고 다 서로 겸손으로 허리를 동이라 하나님이 <span style=\"color:crimson;\">¹</span>교만한 자를 대적하시되 겸손한 자들에게는 은혜를 주시느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4012e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4012e",
+  "book": 60,
+  "chapter": 5,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "그러므로 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 능하신 손 아래서 겸손하라 때가 되면 너희를 높이시리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "그러므로 하나님의 능하신 손 아래서 겸손하라 때가 되면 너희를 높이시리라",
+  "link_pos": [
+    {
+      "start": 5,
+      "end": 7,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "그러므로 하나님의 능하신 손 아래서 겸손하라 때가 되면 너희를 높이시리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f4012f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f4012f",
+  "book": 60,
+  "chapter": 5,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "너희 "
+    },
+    {
+      "txt": "염려",
+      "link": "63fc2709155c55001474f9c1"
+    },
+    {
+      "txt": "를 다 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "께 맡겨 버리라 이는 저가 너희를 권고하심이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희 염려를 다 주께 맡겨 버리라 이는 저가 너희를 권고하심이니라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/63fc2709155c55001474f9c1"
+    },
+    {
+      "start": 46,
+      "end": 46,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희 염려를 다 <span style=\"color:crimson;\">¹</span>주께 맡겨 버리라 이는 저가 너희를 권고하심이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40130"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40130",
+  "book": 60,
+  "chapter": 5,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "근신하라 <span style=\"color:crimson;\">¹</span>깨어라 <span style=\"color:crimson;\">²</span>너희 "
+    },
+    {
+      "txt": "대적",
+      "link": "6237d8a38f55f4001421996c"
+    },
+    {
+      "txt": " <span style=\"color:Blue;\">ᵃ</span>"
+    },
+    {
+      "txt": "마귀",
+      "link": "61881dd3ab886400139a72f2"
+    },
+    {
+      "txt": "가 우는 "
+    },
+    {
+      "txt": "사자",
+      "link": "63de74c5155c55001474f5bd"
+    },
+    {
+      "txt": " 같이 두루 다니며 삼킬 자를 찾나니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "근신하라 깨어라 너희 대적 마귀가 우는 사자 같이 두루 다니며 삼킬 자를 찾나니",
+  "link_pos": [
+    {
+      "start": 86,
+      "end": 87,
+      "href": "/bible-forest/dictionary/6237d8a38f55f4001421996c"
+    },
+    {
+      "start": 123,
+      "end": 124,
+      "href": "/bible-forest/dictionary/61881dd3ab886400139a72f2"
+    },
+    {
+      "start": 130,
+      "end": 131,
+      "href": "/bible-forest/dictionary/63de74c5155c55001474f5bd"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "근신하라 <span style=\"color:crimson;\">¹</span>깨어라 <span style=\"color:crimson;\">²</span>너희 대적 <span style=\"color:gray;\">¹</span>마귀가 우는 사자 같이 두루 다니며 삼킬 자를 찾나니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40131"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40131",
+  "book": 60,
+  "chapter": 5,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "너희는 "
+    },
+    {
+      "txt": "믿음",
+      "link": "638785616f82e7001484161a"
+    },
+    {
+      "txt": "을 굳게 하여 저를 "
+    },
+    {
+      "txt": "대적",
+      "link": "6237d8a38f55f4001421996c"
+    },
+    {
+      "txt": "하라 이는 "
+    },
+    {
+      "txt": "세상",
+      "link": "63c00d856f82e70014841b4f"
+    },
+    {
+      "txt": "에 있는 너희 형제들도 동일한 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 당하는 줄을 앎이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희는 믿음을 굳게 하여 저를 대적하라 이는 세상에 있는 너희 형제들도 동일한 고난을 당하는 줄을 앎이니라",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 5,
+      "href": "/bible-forest/dictionary/638785616f82e7001484161a"
+    },
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/6237d8a38f55f4001421996c"
+    },
+    {
+      "start": 25,
+      "end": 26,
+      "href": "/bible-forest/dictionary/63c00d856f82e70014841b4f"
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희는 믿음을 굳게 하여 저를 대적하라 이는 세상에 있는 너희 형제들도 동일한 고난을 당하는 줄을 앎이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40132"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40132",
+  "book": 60,
+  "chapter": 5,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "모든 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": " 곧 "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": " 안에서 너희를 부르사 자기의 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "영원",
+      "link": "63f0b425155c55001474f77f"
+    },
+    {
+      "txt": "한 "
+    },
+    {
+      "txt": "영광",
+      "link": "641bd454050c7b0013796385"
+    },
+    {
+      "txt": "에 들어가게 하신 이가 잠간 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 받은 너희를 친히 <span style=\"color:crimson;\">²</span>"
+    },
+    {
+      "txt": "온전",
+      "link": "64438370e73ff90013f38a27"
+    },
+    {
+      "txt": "케 하시며 굳게 하시며 강하게 하시며 <span style=\"color:Blue;\">ᵇ</span>"
+    },
+    {
+      "txt": "터",
+      "link": "646cc607ba956c0013dc14fe"
+    },
+    {
+      "txt": "를 견고케 하시리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "모든 은혜의 하나님 곧 그리스도 안에서 너희를 부르사 자기의 영원한 영광에 들어가게 하신 이가 잠간 고난을 받은 너희를 친히 온전케 하시며 굳게 하시며 강하게 하시며 터를 견고케 하시리라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    },
+    {
+      "start": 7,
+      "end": 9,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 13,
+      "end": 16,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 71,
+      "end": 72,
+      "href": "/bible-forest/dictionary/63f0b425155c55001474f77f"
+    },
+    {
+      "start": 75,
+      "end": 76,
+      "href": "/bible-forest/dictionary/641bd454050c7b0013796385"
+    },
+    {
+      "start": 93,
+      "end": 94,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 144,
+      "end": 145,
+      "href": "/bible-forest/dictionary/64438370e73ff90013f38a27"
+    },
+    {
+      "start": 201,
+      "end": 201,
+      "href": "/bible-forest/dictionary/646cc607ba956c0013dc14fe"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "모든 은혜의 하나님 곧 그리스도 안에서 너희를 부르사 자기의 <span style=\"color:crimson;\">¹</span>영원한 영광에 들어가게 하신 이가 잠간 고난을 받은 너희를 친히 <span style=\"color:crimson;\">²</span>온전케 하시며 굳게 하시며 강하게 하시며 <span style=\"color:gray;\">²</span>터를 견고케 하시리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40133"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40133",
+  "book": 60,
+  "chapter": 5,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "권력이 "
+    },
+    {
+      "txt": "세세",
+      "link": "63cb7b986f82e70014841ce5"
+    },
+    {
+      "txt": "무궁",
+      "link": "63785d846f82e700148415a3"
+    },
+    {
+      "txt": "토록 그에게 있을지어다 "
+    },
+    {
+      "txt": "아멘",
+      "link": "623ea91f8f55f400142199b5"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "권력이 세세무궁토록 그에게 있을지어다 아멘",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 5,
+      "href": "/bible-forest/dictionary/63cb7b986f82e70014841ce5"
+    },
+    {
+      "start": 6,
+      "end": 7,
+      "href": "/bible-forest/dictionary/63785d846f82e700148415a3"
+    },
+    {
+      "start": 21,
+      "end": 22,
+      "href": "/bible-forest/dictionary/623ea91f8f55f400142199b5"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "권력이 세세무궁토록 그에게 있을찌어다 아멘",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40134"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221747,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40134",
+  "book": 60,
+  "chapter": 5,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "내가 "
+    },
+    {
+      "txt": "신실",
+      "link": "624a8f7e8f55f40014219a01"
+    },
+    {
+      "txt": "한 형제로 아는 "
+    },
+    {
+      "txt": "실루아노",
+      "link": "63db6804155c55001474f54d"
+    },
+    {
+      "txt": "로 말미암아 너희에게 간단히 써서 권하고 이것이 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "의 참된 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "임을 "
+    },
+    {
+      "txt": "증거",
+      "link": "60bce1091376e50012a0db89"
+    },
+    {
+      "txt": "하노니 너희는 이 "
+    },
+    {
+      "txt": "은혜",
+      "link": "63ef8677155c55001474f73c"
+    },
+    {
+      "txt": "에 굳게 서라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "내가 신실한 형제로 아는 실루아노로 말미암아 너희에게 간단히 써서 권하고 이것이 하나님의 참된 은혜임을 증거하노니 너희는 이 은혜에 굳게 서라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/624a8f7e8f55f40014219a01"
+    },
+    {
+      "start": 14,
+      "end": 17,
+      "href": "/bible-forest/dictionary/63db6804155c55001474f54d"
+    },
+    {
+      "start": 82,
+      "end": 84,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 90,
+      "end": 91,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    },
+    {
+      "start": 95,
+      "end": 96,
+      "href": "/bible-forest/dictionary/60bce1091376e50012a0db89"
+    },
+    {
+      "start": 107,
+      "end": 108,
+      "href": "/bible-forest/dictionary/63ef8677155c55001474f73c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "내가 신실한 형제로 아는 실루아노로 말미암아 너희에게 간단히 써서 권하고 이것이 <span style=\"color:crimson;\">¹</span>하나님의 참된 은혜임을 증거하노니 너희는 이 은혜에 굳게 서라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40135"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221748,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40135",
+  "book": 60,
+  "chapter": 5,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "함께 "
+    },
+    {
+      "txt": "택",
+      "link": "646ccea9ba956c0013dc14ff"
+    },
+    {
+      "txt": "하심을 받은 "
+    },
+    {
+      "txt": "바벨론",
+      "link": "60ba13bc1376e50012a0da32"
+    },
+    {
+      "txt": "에 있는 <span style=\"color:Blue;\">ᶜ</span>교회가 너희에게 문안하고 내 "
+    },
+    {
+      "txt": "아들",
+      "link": "643e24b2e73ff90013f2970d"
+    },
+    {
+      "txt": " 마가도 그리하느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "함께 택하심을 받은 바벨론에 있는 교회가 너희에게 문안하고 내 아들 마가도 그리하느니라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 3,
+      "href": "/bible-forest/dictionary/646ccea9ba956c0013dc14ff"
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "href": "/bible-forest/dictionary/60ba13bc1376e50012a0da32"
+    },
+    {
+      "start": 69,
+      "end": 70,
+      "href": "/bible-forest/dictionary/643e24b2e73ff90013f2970d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "함께 택하심을 받은 바벨론에 있는 <span style=\"color:gray;\">³</span>교회가 너희에게 문안하고 내 아들 마가도 그리하느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f40136"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221748,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f40136",
+  "book": 60,
+  "chapter": 5,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "너희는 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "의 입맞춤으로 <span style=\"color:crimson;\">¹</span>피차 문안하라 "
+    },
+    {
+      "txt": "그리스도",
+      "link": "6143526d5f803400131d49da"
+    },
+    {
+      "txt": " 안에 있는 너희 모든 이에게 "
+    },
+    {
+      "txt": "평강",
+      "link": "648853c9ba956c0013dc1797"
+    },
+    {
+      "txt": "이 있을지어다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희는 사랑의 입맞춤으로 피차 문안하라 그리스도 안에 있는 너희 모든 이에게 평강이 있을지어다",
+  "link_pos": [
+    {
+      "start": 4,
+      "end": 5,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 59,
+      "end": 62,
+      "href": "/bible-forest/dictionary/6143526d5f803400131d49da"
+    },
+    {
+      "start": 80,
+      "end": 81,
+      "href": "/bible-forest/dictionary/648853c9ba956c0013dc1797"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희는 사랑의 입맞춤으로 <span style=\"color:crimson;\">¹</span>피차 문안하라 그리스도 안에 있는 너희 모든 이에게 평강이 있을찌어다",
+  "edit_deploy": "on",
+  "chapter_title": null
+}]
