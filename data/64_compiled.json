@@ -1,0 +1,828 @@
+[{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401ea"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401ea",
+  "book": 64,
+  "chapter": 1,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "<span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "장로",
+      "link": "645ec579ba956c0013dc138d"
+    },
+    {
+      "txt": "는 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하는 가이오 곧 나의 참으로 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하는 자에게 "
+    },
+    {
+      "txt": "편지",
+      "link": "6488541aba956c0013dc1798"
+    },
+    {
+      "txt": "하노라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "장로는 사랑하는 가이오 곧 나의 참으로 사랑하는 자에게 편지하노라",
+  "link_pos": [
+    {
+      "start": 37,
+      "end": 38,
+      "href": "/bible-forest/dictionary/645ec579ba956c0013dc138d"
+    },
+    {
+      "start": 41,
+      "end": 42,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 59,
+      "end": 60,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 68,
+      "end": 69,
+      "href": "/bible-forest/dictionary/6488541aba956c0013dc1798"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>장로는 사랑하는 가이오 곧 나의 참으로 사랑하는 자에게 편지하노라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401eb"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401eb",
+  "book": 64,
+  "chapter": 1,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하는 자여 네 "
+    },
+    {
+      "txt": "영혼",
+      "link": "6186e368ab886400139a72b9"
+    },
+    {
+      "txt": "이 잘됨 같이 네가 "
+    },
+    {
+      "txt": "범사",
+      "link": "63a84c0e6f82e700148418e7"
+    },
+    {
+      "txt": "에 잘되고 강건하기를 내가 간구하노라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사랑하는 자여 네 영혼이 잘됨 같이 네가 범사에 잘되고 강건하기를 내가 간구하노라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/6186e368ab886400139a72b9"
+    },
+    {
+      "start": 23,
+      "end": 24,
+      "href": "/bible-forest/dictionary/63a84c0e6f82e700148418e7"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사랑하는 자여 네 영혼이 잘 됨같이 네가 범사에 잘 되고 강건하기를 내가 간구하노라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401ec"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401ec",
+  "book": 64,
+  "chapter": 1,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "형제들이 와서 네게 있는 "
+    },
+    {
+      "txt": "진리",
+      "link": "623b38358f55f40014219991"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "증거",
+      "link": "60bce1091376e50012a0db89"
+    },
+    {
+      "txt": "하되 네가 "
+    },
+    {
+      "txt": "진리",
+      "link": "623b38358f55f40014219991"
+    },
+    {
+      "txt": " 안에서 행한다 하니 내가 심히 기뻐하노라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "형제들이 와서 네게 있는 진리를 증거하되 네가 진리 안에서 행한다 하니 내가 심히 기뻐하노라",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/623b38358f55f40014219991"
+    },
+    {
+      "start": 18,
+      "end": 19,
+      "href": "/bible-forest/dictionary/60bce1091376e50012a0db89"
+    },
+    {
+      "start": 26,
+      "end": 27,
+      "href": "/bible-forest/dictionary/623b38358f55f40014219991"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "형제들이 와서 네게 있는 진리를 증거하되 네가 진리 안에서 행한다 하니 내가 심히 기뻐하노라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401ed"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401ed",
+  "book": 64,
+  "chapter": 1,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "내가 <span style=\"color:crimson;\">¹</span>내 "
+    },
+    {
+      "txt": "자녀",
+      "link": "647220f9ba956c0013dc155c"
+    },
+    {
+      "txt": "들이 "
+    },
+    {
+      "txt": "진리",
+      "link": "623b38358f55f40014219991"
+    },
+    {
+      "txt": " 안에서 행한다 함을 듣는 것보다 더 "
+    },
+    {
+      "txt": "즐거움",
+      "link": "64916f048d26fb00138801da"
+    },
+    {
+      "txt": "이 없도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "내가 내 자녀들이 진리 안에서 행한다 함을 듣는 것보다 더 즐거움이 없도다",
+  "link_pos": [
+    {
+      "start": 42,
+      "end": 43,
+      "href": "/bible-forest/dictionary/647220f9ba956c0013dc155c"
+    },
+    {
+      "start": 47,
+      "end": 48,
+      "href": "/bible-forest/dictionary/623b38358f55f40014219991"
+    },
+    {
+      "start": 70,
+      "end": 72,
+      "href": "/bible-forest/dictionary/64916f048d26fb00138801da"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "내가 <span style=\"color:crimson;\">¹</span>내 자녀들이 진리 안에서 행한다 함을 듣는 것보다 더 즐거움이 없도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401ee"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401ee",
+  "book": 64,
+  "chapter": 1,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하는 자여 네가 무엇이든지 형제 곧 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "나그네",
+      "link": "62f500c355b278001668dd3c"
+    },
+    {
+      "txt": " 된 자들에게 행하는 것이 "
+    },
+    {
+      "txt": "신실",
+      "link": "624a8f7e8f55f40014219a01"
+    },
+    {
+      "txt": "한 일이니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사랑하는 자여 네가 무엇이든지 형제 곧 나그네 된 자들에게 행하는 것이 신실한 일이니",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 59,
+      "end": 61,
+      "href": "/bible-forest/dictionary/62f500c355b278001668dd3c"
+    },
+    {
+      "start": 77,
+      "end": 78,
+      "href": "/bible-forest/dictionary/624a8f7e8f55f40014219a01"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사랑하는 자여 네가 무엇이든지 형제 곧 <span style=\"color:crimson;\">¹</span>나그네 된 자들에게 행하는 것이 신실한 일이니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401ef"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401ef",
+  "book": 64,
+  "chapter": 1,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "저희가 교회 앞에서 너의 "
+    },
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "증거",
+      "link": "60bce1091376e50012a0db89"
+    },
+    {
+      "txt": "하였느니라 네가 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "께 합당하게 저희를 전송하면 가하리로다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "저희가 교회 앞에서 너의 사랑을 증거하였느니라 네가 하나님께 합당하게 저희를 전송하면 가하리로다",
+  "link_pos": [
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 18,
+      "end": 19,
+      "href": "/bible-forest/dictionary/60bce1091376e50012a0db89"
+    },
+    {
+      "start": 29,
+      "end": 31,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "저희가 교회 앞에서 너의 사랑을 증거하였느니라 네가 하나님께 합당하게 저희를 전송하면 가하리로다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401f0"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401f0",
+  "book": 64,
+  "chapter": 1,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "이는 저희가"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "이름",
+      "link": "61793e06e3f64e001584f4b1"
+    },
+    {
+      "txt": "을 위하여 나가서 "
+    },
+    {
+      "txt": "이방인",
+      "link": "640db9bb050c7b001378e87c"
+    },
+    {
+      "txt": "에게 아무 것도 받지 아니함이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이는 저희가 주의 이름을 위하여 나가서 이방인에게 아무 것도 받지 아니함이라",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 7,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/61793e06e3f64e001584f4b1"
+    },
+    {
+      "start": 22,
+      "end": 24,
+      "href": "/bible-forest/dictionary/640db9bb050c7b001378e87c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이는 저희가 주의 이름을 위하여 나가서 이방인에게 아무것도 받지 아니함이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401f1"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401f1",
+  "book": 64,
+  "chapter": 1,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "이러므로 우리가 이같은 자들을 "
+    },
+    {
+      "txt": "영접",
+      "link": "623beb3a8f55f40014219992"
+    },
+    {
+      "txt": "하는 것이 마땅하니 이는 우리로 "
+    },
+    {
+      "txt": "진리",
+      "link": "623b38358f55f40014219991"
+    },
+    {
+      "txt": "를 위하여 함께 수고하는 자가 되게 하려 함이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이러므로 우리가 이같은 자들을 영접하는 것이 마땅하니 이는 우리로 진리를 위하여 함께 수고하는 자가 되게 하려 함이니라",
+  "link_pos": [
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/623beb3a8f55f40014219992"
+    },
+    {
+      "start": 37,
+      "end": 38,
+      "href": "/bible-forest/dictionary/623b38358f55f40014219991"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이러므로 우리가 이같은 자들을 영접하는 것이 마땅하니 이는 우리로 진리를 위하여 함께 수고하는 자가 되게 하려 함이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401f2"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401f2",
+  "book": 64,
+  "chapter": 1,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "내가 두어 자를 교회에게 썼으나 저희 중에 "
+    },
+    {
+      "txt": "으뜸",
+      "link": "63ef7f7e155c55001474f739"
+    },
+    {
+      "txt": "되기를 좋아하는 디오드레베가 우리를 접대하지 아니하니"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "내가 두어 자를 교회에게 썼으나 저희 중에 으뜸되기를 좋아하는 디오드레베가 우리를 접대하지 아니하니",
+  "link_pos": [
+    {
+      "start": 24,
+      "end": 25,
+      "href": "/bible-forest/dictionary/63ef7f7e155c55001474f739"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "내가 두어 자를 교회에게 썼으나 저희 중에 으뜸되기를 좋아하는 디오드레베가 우리를 접대하지 아니하니",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401f3"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401f3",
+  "book": 64,
+  "chapter": 1,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "이러므로 내가 가면 그 행한 일을 잊지 아니하리라 저가 악한 말로 우리를 망령되이 "
+    },
+    {
+      "txt": "폄론",
+      "link": "647df9eeba956c0013dc16ef"
+    },
+    {
+      "txt": "하고도 "
+    },
+    {
+      "txt": "유위부족",
+      "link": "63f817c5155c55001474f8ab"
+    },
+    {
+      "txt": "하여 형제들을 접대치도 아니하고 접대하고자 하는 자를 금하여 교회에서 내어 쫓는도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "이러므로 내가 가면 그 행한 일을 잊지 아니하리라 저가 악한 말로 우리를 망령되이 폄론하고도 유위부족하여 형제들을 접대치도 아니하고 접대하고자 하는 자를 금하여 교회에서 내어 쫓는도다",
+  "link_pos": [
+    {
+      "start": 46,
+      "end": 47,
+      "href": "/bible-forest/dictionary/647df9eeba956c0013dc16ef"
+    },
+    {
+      "start": 52,
+      "end": 55,
+      "href": "/bible-forest/dictionary/63f817c5155c55001474f8ab"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "이러므로 내가 가면 그 행한 일을 잊지 아니하리라 저가 악한 말로 우리를 망령되이 폄론하고도 유위부족하여 형제들을 접대치도 아니하고 접대하고자 하는 자를 금하여 교회에서 내어 쫓는도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401f4"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401f4",
+  "book": 64,
+  "chapter": 1,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "사랑",
+      "link": "623965718f55f40014219978"
+    },
+    {
+      "txt": "하는 자여 <span style=\"color:crimson;\">¹</span>악한 것을 본받지 말고 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "한 것을 본받으라 "
+    },
+    {
+      "txt": "선",
+      "link": "63c43fc06f82e70014841be8"
+    },
+    {
+      "txt": "을 행하는 자는 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "께 속하고 악을 행하는 자는 "
+    },
+    {
+      "txt": "하나님",
+      "link": "60ba24261376e50012a0da8a"
+    },
+    {
+      "txt": "을 뵈옵지 못하였느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사랑하는 자여 악한 것을 본받지 말고 선한 것을 본받으라 선을 행하는 자는 하나님께 속하고 악을 행하는 자는 하나님을 뵈옵지 못하였느니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/623965718f55f40014219978"
+    },
+    {
+      "start": 58,
+      "end": 58,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 69,
+      "end": 69,
+      "href": "/bible-forest/dictionary/63c43fc06f82e70014841be8"
+    },
+    {
+      "start": 79,
+      "end": 81,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    },
+    {
+      "start": 98,
+      "end": 100,
+      "href": "/bible-forest/dictionary/60ba24261376e50012a0da8a"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사랑하는 자여 <span style=\"color:crimson;\">¹</span>악한 것을 본받지 말고 선한 것을 본받으라 선을 행하는 자는 하나님께 속하고 악을 행하는 자는 하나님을 뵈옵지 못하였느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401f5"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401f5",
+  "book": 64,
+  "chapter": 1,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "데메드리오",
+      "link": "633eb06c6f82e7001484127e"
+    },
+    {
+      "txt": "는 뭇사람에게도, "
+    },
+    {
+      "txt": "진리",
+      "link": "623b38358f55f40014219991"
+    },
+    {
+      "txt": "에게도 "
+    },
+    {
+      "txt": "증거",
+      "link": "60bce1091376e50012a0db89"
+    },
+    {
+      "txt": "를 받았으매 우리도 "
+    },
+    {
+      "txt": "증거",
+      "link": "60bce1091376e50012a0db89"
+    },
+    {
+      "txt": "하노니 너는 우리의 "
+    },
+    {
+      "txt": "증거",
+      "link": "60bce1091376e50012a0db89"
+    },
+    {
+      "txt": "가 참된 줄을 아느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "데메드리오는 뭇사람에게도, 진리에게도 증거를 받았으매 우리도 증거하노니 너는 우리의 증거가 참된 줄을 아느니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 4,
+      "href": "/bible-forest/dictionary/633eb06c6f82e7001484127e"
+    },
+    {
+      "start": 15,
+      "end": 16,
+      "href": "/bible-forest/dictionary/623b38358f55f40014219991"
+    },
+    {
+      "start": 21,
+      "end": 22,
+      "href": "/bible-forest/dictionary/60bce1091376e50012a0db89"
+    },
+    {
+      "start": 34,
+      "end": 35,
+      "href": "/bible-forest/dictionary/60bce1091376e50012a0db89"
+    },
+    {
+      "start": 47,
+      "end": 48,
+      "href": "/bible-forest/dictionary/60bce1091376e50012a0db89"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "데메드리오는 뭇사람에게도, 진리에게도 증거를 받았으매 우리도 증거하노니 너는 우리의 증거가 참된 줄을 아느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401f6"
+  },
+  "book": 64,
+  "chapter": 1,
+  "verse": 13,
+  "script": "내가 네게 쓸 것이 많으나 먹과 붓으로 쓰기를 원치 아니하고",
+  "id": {
+    "$oid": "613880551e823e1c7e7e052a"
+  }
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401f7"
+  },
+  "book": 64,
+  "chapter": 1,
+  "verse": 14,
+  "script": "속히 보기를 바라노니 또한 우리가 면대하여 말하리라",
+  "id": {
+    "$oid": "613880551e823e1c7e7e052b"
+  }
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f401f8"
+  },
+  "createdTs": null,
+  "updatedTs": 1782221984,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f401f8",
+  "book": 64,
+  "chapter": 1,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "평강",
+      "link": "648853c9ba956c0013dc1797"
+    },
+    {
+      "txt": "이 네게 있을지어다 여러 "
+    },
+    {
+      "txt": "친구",
+      "link": "6474c978ba956c0013dc15b8"
+    },
+    {
+      "txt": "가 네게 문안하느니라 너는 각 친구 명하에 문안하라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "평강이 네게 있을지어다 여러 친구가 네게 문안하느니라 너는 각 친구 명하에 문안하라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/648853c9ba956c0013dc1797"
+    },
+    {
+      "start": 16,
+      "end": 17,
+      "href": "/bible-forest/dictionary/6474c978ba956c0013dc15b8"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "평강이 네게 있을지어다 여러 친구가 네게 문안하느니라 너는 각 친구 명하에 문안하라",
+  "edit_deploy": "on",
+  "chapter_title": null
+}]
