@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>최종본(_updated) 확인</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/diff@5.1.0/dist/diff.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+        body { font-family: 'Pretendard', sans-serif; }
+        .bookbtn { padding: 6px 10px; border: 1px solid #cbd5e1; border-radius: 8px; background: #fff; font-size: 13px; font-weight: 600; color: #334155; transition: all .15s; }
+        .bookbtn:hover:not(:disabled) { background: #eff6ff; border-color: #60a5fa; }
+        .bookbtn.on { background: #2563eb; border-color: #2563eb; color: #fff; }
+        .bookbtn:disabled { background: #f1f5f9; color: #cbd5e1; border-style: dashed; cursor: not-allowed; }
+        .chbtn { min-width: 38px; padding: 4px 8px; border: 1px solid #e2e8f0; border-radius: 6px; background: #fff; font-size: 13px; }
+        .chbtn:hover { background: #eff6ff; }
+        .chbtn.on { background: #1e293b; color: #fff; border-color: #1e293b; }
+        .chbtn.has { border-color: #f59e0b; box-shadow: inset 0 -3px 0 #f59e0b; }
+        .verse { display: flex; gap: 14px; padding: 10px 14px; border-left: 4px solid transparent; border-bottom: 1px solid #f1f5f9; }
+        .verse.changed { border-left-color: #f59e0b; background: #fffbeb; }
+        .vnum { flex: 0 0 34px; text-align: right; color: #94a3b8; font-weight: 700; font-size: 14px; padding-top: 5px; }
+        .vtext { font-size: var(--fs, 21px); line-height: 2; word-break: keep-all; white-space: pre-wrap; }
+        a.lk { color: #1d4ed8; background: #dbeafe; border-radius: 4px; padding: 1px 3px; text-decoration: none; }
+        a.lk:hover { background: #bfdbfe; }
+        .nolink a.lk { color: inherit; background: transparent; }
+        .del { background: #fecaca; color: #991b1b; text-decoration: line-through; border-radius: 3px; }
+        .add { background: #bbf7d0; color: #166534; font-weight: 700; border-radius: 3px; }
+        sup.fn { color: #dc2626; font-size: .65em; }
+        .reqs { margin-top: 4px; display: flex; flex-direction: column; gap: 3px; }
+        .req { font-size: 13px; line-height: 1.6; padding: 3px 8px; border-radius: 6px; border: 1px solid #e2e8f0; background: #f8fafc; display: flex; flex-wrap: wrap; gap: 4px 8px; align-items: center; }
+        .req .rn { color: #94a3b8; font-size: 11px; }
+        .req .rc { color: #64748b; font-size: 11px; }
+        .req .rb { font-weight: 800; font-size: 11px; border-radius: 9999px; padding: 0 8px; }
+        .req.st-ok  .rb { background: #d1fae5; color: #047857; }
+        .req.st-pre .rb { background: #e2e8f0; color: #475569; }
+        .req.st-bad { background: #fef2f2; border-color: #fecaca; }
+        .req.st-bad .rb { background: #fee2e2; color: #b91c1c; }
+        .req.st-hold { background: #fffbeb; border-color: #fde68a; }
+        .req.st-hold .rb { background: #fef3c7; color: #b45309; }
+        mark.fx { background: #fde68a; color: inherit; border-radius: 3px; padding: 0 1px; box-shadow: 0 0 0 1px #f59e0b; }
+        .cmp { font-size: 16px; line-height: 1.9; white-space: pre-wrap; background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 8px 12px; margin-top: 6px; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+
+<header class="bg-white border-b border-slate-200 sticky top-0 z-20 shadow-sm">
+    <div class="max-w-[1200px] mx-auto px-4 py-3">
+        <div class="flex items-center justify-between gap-4 flex-wrap">
+            <div class="flex items-center gap-3">
+                <i class="fa-solid fa-book-bible text-blue-600 text-xl"></i>
+                <div>
+                    <h1 class="text-lg font-bold">최종본(_updated.json) 확인</h1>
+                    <p class="text-xs text-slate-500">책 버튼을 누르면 그 책의 <b>*_updated.json</b>을 읽어 화면으로 보여줍니다. <b>bible_errors.json</b>의 요청(어디를 어떻게 고치라고 했는지)을 구절마다 붙여 보여주고, 기존(compiled_bible)과 달라진 구절은 주황색으로 표시합니다.</p>
+                </div>
+            </div>
+            <div id="status" class="text-sm font-semibold text-slate-500"></div>
+        </div>
+
+        <div class="mt-3 text-[11px] font-bold text-slate-400 tracking-wider">구약 39권</div>
+        <div id="otBtns" class="mt-1 flex flex-wrap gap-1.5"></div>
+        <div class="mt-2 text-[11px] font-bold text-slate-400 tracking-wider">신약 27권</div>
+        <div id="ntBtns" class="mt-1 flex flex-wrap gap-1.5"></div>
+    </div>
+</header>
+
+<main class="max-w-[1200px] mx-auto px-4 py-5 flex flex-col gap-4">
+
+    <div id="bar" class="hidden bg-white border border-slate-200 rounded-xl px-4 py-3 flex flex-col gap-3">
+        <div class="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm">
+            <b id="bookTitle" class="text-base"></b>
+            <span id="bookInfo" class="text-slate-500 text-xs"></span>
+            <select id="reqFilter" class="border rounded px-2 py-1 text-sm bg-white">
+                <option value="">구절: 전체</option>
+                <option value="chg">수정된 구절만</option>
+                <option value="req">요청이 있는 구절만</option>
+                <option value="bad">요청했는데 안 바뀐 구절만</option>
+            </select>
+            <label class="flex items-center gap-1 cursor-pointer"><input type="checkbox" id="reqOn" checked> 요청 내역 표시</label>
+            <label class="flex items-center gap-1 cursor-pointer"><input type="checkbox" id="hiOn" checked> 수정 위치 강조</label>
+            <label class="flex items-center gap-1 cursor-pointer"><input type="checkbox" id="cmpOpen"> 기존과 비교 펼치기</label>
+            <label class="flex items-center gap-1 cursor-pointer"><input type="checkbox" id="linkOn" checked> 링크 표시</label>
+            <label class="flex items-center gap-1 cursor-pointer"><input type="checkbox" id="fnOn" checked> 각주 표시</label>
+            <label class="flex items-center gap-1">글자 <input type="range" id="fs" min="15" max="34" value="21" class="w-28"></label>
+            <input id="q" type="text" placeholder="이 책에서 검색" class="border rounded px-2 py-1 w-48 text-sm">
+            <button id="reloadBtn" class="px-3 py-1 bg-slate-700 text-white rounded text-xs hover:bg-slate-800">다시 불러오기</button>
+        </div>
+        <div id="chBtns" class="flex flex-wrap gap-1.5"></div>
+    </div>
+
+    <div id="nav" class="hidden flex items-center justify-between">
+        <button id="prevBtn" class="px-3 py-1.5 bg-white border rounded text-sm hover:bg-slate-50">← 이전 장</button>
+        <div id="chTitle" class="font-bold"></div>
+        <button id="nextBtn" class="px-3 py-1.5 bg-white border rounded text-sm hover:bg-slate-50">다음 장 →</button>
+    </div>
+
+    <div id="verses" class="bg-white border border-slate-200 rounded-xl overflow-hidden"></div>
+    <div id="empty" class="py-16 text-center text-slate-400 text-sm">위에서 책을 선택하세요.</div>
+</main>
+
+<script>
+// ======================= 설정 =======================
+// 이 html 은 updated_viewer 폴더에 있고, 데이터 파일들은 바로 위 폴더(온라인성경)에 있다.
+const DATA_DIR = 'data/';
+
+// [책번호, 책 이름, 최종본 파일, 기존 파일]  (파일이 없는 책은 null → 버튼이 비활성)
+const BOOKS = [
+ [1,'창세기','01_updated.json','01_compiled.json'],[2,'출애굽기','02_updated.json','02_compiled.json'],
+ [3,'레위기','03_updated.json','03_compiled.json'],[4,'민수기','04_updated.json','04_compiled.json'],
+ [5,'신명기','05_updated.json','05_compiled.json'],[6,'여호수아','06_updated.json','06_compiled.json'],
+ [7,'사사기','07_updated.json','07_compiled.json'],[8,'룻기',null,null],
+ [9,'사무엘상','09_updated.json','09_compiled.json'],[10,'사무엘하','10_updated.json','10_compiled.json'],
+ [11,'열왕기상','11_updated.json','11_compiled.json'],[12,'열왕기하','12_updated.json','12_compiled.json'],
+ [13,'역대상','13_updated.json','13_compiled.json'],[14,'역대하','14_updated.json','14_compiled.json'],
+ [15,'에스라',null,null],[16,'느헤미야','16_updated.json','16_compiled.json'],[17,'에스더',null,null],[18,'욥기',null,null],
+ [19,'시편','19_updated.json','19_compiled.json'],[20,'잠언','20_updated.json','20_compiled.json'],
+ [21,'전도서','21_updated.json','21_compiled.json'],[22,'아가',null,null],
+ [23,'이사야','23_updated.json','23_compiled.json'],[24,'예레미야','24_updated.json','24_compiled.json'],
+ [25,'예레미야애가',null,null],[26,'에스겔','26_updated.json','26_compiled.json'],[27,'다니엘','27_updated.json','27_compiled.json'],
+ [28,'호세아','28_updated.json','28_compiled.json'],[29,'요엘','29_updated.json','29_compiled.json'],
+ [30,'아모스','30_updated.json','30_compiled.json'],[31,'오바댜','31_updated.json','31_compiled.json'],
+ [32,'요나','32_updated.json','32_compiled.json'],[33,'미가','33_updated.json','33_compiled.json'],
+ [34,'나훔','34_updated.json','34_compiled.json'],[35,'하박국','35_updated.json','35_compiled.json'],
+ [36,'스바냐','36_updated.json','36_compiled.json'],[37,'학개','37_updated.json','37_compiled.json'],
+ [38,'스가랴','38_updated.json','38_compiled.json'],[39,'말라기','39_updated.json','39_compiled.json'],
+ [40,'마태복음','40_updated.json','40_compiled.json'],[41,'마가복음','41_updated.json','41_compiled.json'],
+ [42,'누가복음','42_updated.json','42_compiled.json'],[43,'요한복음','43_updated.json','43_compiled.json'],
+ [44,'사도행전','44_updated.json','44_compiled.json'],[45,'로마서','45_updated.json','45_compiled.json'],
+ [46,'고린도전서','46_updated.json','46_compiled.json'],[47,'고린도후서','47_updated.json','47_compiled.json'],
+ [48,'갈라디아서','48_updated.json','48_compiled.json'],[49,'에베소서','49_updated.json','49_compiled.json'],
+ [50,'빌립보서','50_updated.json','50_compiled.json'],[51,'골로새서','51_updated.json','51_compiled.json'],
+ [52,'데살로니가전서','52_updated.json','52_compiled.json'],[53,'데살로니가후서',null,null],[54,'디모데전서',null,null],
+ [55,'디모데후서','55_updated.json','55_compiled.json'],[56,'디도서','56_updated.json','56_compiled.json'],
+ [57,'빌레몬서',null,null],[58,'히브리서','58_updated.json','58_compiled.json'],[59,'야고보서','59_updated.json','59_compiled.json'],
+ [60,'베드로전서','60_updated.json','60_compiled.json'],[61,'베드로후서','61_updated.json','61_compiled.json'],
+ [62,'요한일서','62_updated.json','62_compiled.json'],[63,'요한이서',null,null],
+ [64,'요한삼서','64_updated.json','64_compiled.json'],[65,'유다서','65_updated.json','65_compiled.json'],
+ [66,'요한계시록','66_updated.json','66_compiled.json'],
+];
+
+// ======================= 유틸 =======================
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const nbsp = s => (s || '').replace(/ /g, ' ');
+const FN = /<span[^>]*>(.*?)<\/span>/g;
+const stripFn = s => nbsp(s).replace(FN, '');
+const markFn = s => nbsp(s).replace(FN, (m, g) => '' + g + '');
+
+function setStatus(msg, kind) {
+    const c = { ok: 'text-emerald-600', err: 'text-red-600', info: 'text-slate-500' }[kind || 'info'];
+    $('status').className = 'text-sm font-semibold ' + c;
+    $('status').textContent = msg;
+}
+
+// link_pos 의 start/end(end 포함)는 edit_script 문자열 그대로(각주 태그 글자까지 포함)의 위치 기준이다.
+function applyLinks(text, links) {
+    if (!links || !links.length) return text;
+    const sm = new Map(), em = new Map();
+    links.forEach(l => { sm.set(l.start, l.href.startsWith('http') ? l.href : 'https://wordsquare.org' + l.href); em.set(l.end, true); });
+    const tags = []; const re = /<span[^>]*>.*?<\/span>/g; let m;
+    while ((m = re.exec(text)) !== null) tags.push([m.index, m.index + m[0].length]);
+    let out = '';
+    for (let i = 0; i < text.length; i++) {
+        const inTag = tags.some(r => i >= r[0] && i < r[1]);
+        if (!inTag && sm.has(i)) out += `<a class="lk" href="${sm.get(i)}" target="_blank">`;
+        out += text[i];
+        if (!inTag && em.has(i)) out += '</a>';
+    }
+    return out;
+}
+
+// ======================= 요청(bible_errors.json) =======================
+// 아직 결정/반영이 안 된 '보류' 요청 번호 (보류_항목.md · 보류항목 step1~3 기준)
+const HOLD = new Set([138,40,103,104,105,485,549,168,178,180,181,564,583,595,722,244,911,267,851,852,3366,
+  204,205,582,1051,1138,1522,1557,1573,1669,1793,2680,2514,53,4,93]);
+const CATK = { notation: '표기법', spacing: '띄어쓰기', punctuation: '문장부호' };
+let errorsByBook = null;
+function countOcc(s, t) { if (!t) return 0; let c = 0, i = 0; while ((i = s.indexOf(t, i)) !== -1) { c++; i += t.length; } return c; }
+function parseVerses(v) {
+    const m = String(v).match(/^(\d+)(?:-(\d+))?$/); if (!m) return [];
+    const a = +m[1], b = m[2] ? +m[2] : a, r = []; for (let i = a; i <= b; i++) r.push(i); return r;
+}
+function judge(d, dupIdx, oC, uC) {                       // 요청 1건이 최종본에 반영됐는지
+    const eO = countOcc(oC, d.error), eU = countOcc(uC, d.error), fO = countOcc(oC, d.fix), fU = countOcc(uC, d.fix);
+    if (Math.max(fU - fO, eO - eU) >= dupIdx + 1) return '반영됨';
+    if (eO === 0 && fO > 0) return '이미 반영';
+    return HOLD.has(d.num) ? '보류' : '미반영';
+}
+async function ensureErrors() {
+    if (errorsByBook) return;
+    errorsByBook = new Map();
+    try {
+        const E = await getJson('bible_errors.json', false);
+        E.forEach(x => { if (!errorsByBook.has(x.book)) errorsByBook.set(x.book, []); errorsByBook.get(x.book).push(x); });
+    } catch (e) { /* 요청 파일이 없어도 최종본은 볼 수 있다 */ }
+}
+
+// ======================= 상태 =======================
+const cache = {};               // 책 이름 -> {U, O, chapters, changedCh}
+let cur = null;                 // 지금 보는 책
+let curChapter = 1;
+
+async function getJson(path, bust) {
+    const res = await fetch(DATA_DIR + path + (bust ? '?t=' + Date.now() : ''), bust ? { cache: 'no-store' } : {});
+    if (!res.ok) throw new Error(path + ' (' + res.status + ')');
+    return JSON.parse((await res.text()).replace(/^﻿/, ''));
+}
+
+function textOf(v) { return v ? (v.edit_script ?? v.script ?? '') : ''; }
+
+async function loadBook(b, bust) {
+    const [num, name, uf, cf] = b;
+    if (!bust && cache[name]) return cache[name];
+    const U = await getJson(uf, bust);
+    let O = [];
+    try { O = await getJson(cf, bust); } catch (e) { /* 기존 파일이 없어도 최종본은 볼 수 있다 */ }
+    // 같은 장·절 번호가 두 번 나오는 경우(레위기 22:5 등)는 나온 순서대로 짝을 맞춘다
+    const om = new Map();
+    O.forEach(x => { const k = x.chapter + ':' + x.verse; if (!om.has(k)) om.set(k, []); om.get(k).push(x); });
+    const used = new Map();
+    const chapters = new Map(); const changedCh = new Set();
+    let changedCount = 0;
+    const first = new Map();   // 'ch:verse' -> 첫 번째로 나온 구절 항목 (요청을 붙일 대상)
+    U.forEach(v => {
+        const k = v.chapter + ':' + v.verse; const i = used.get(k) || 0; used.set(k, i + 1);
+        const o = (om.get(k) || [])[i];
+        const changed = !!o && (textOf(o) !== textOf(v) || JSON.stringify(o.link_pos || []) !== JSON.stringify(v.link_pos || []));
+        if (changed) { changedCh.add(v.chapter); changedCount++; }
+        if (!chapters.has(v.chapter)) chapters.set(v.chapter, []);
+        const item = { v, o, changed, reqs: [] };
+        chapters.get(v.chapter).push(item);
+        if (!first.has(k)) first.set(k, item);
+    });
+    // bible_errors.json 의 요청을 구절에 붙이고, 반영 여부를 판단한다
+    await ensureErrors();
+    const stats = { 요청: 0, 반영됨: 0, '이미 반영': 0, 미반영: 0, 보류: 0, 구절없음: 0 };
+    const badCh = new Set(); const seen = new Map();
+    (errorsByBook.get(name) || []).forEach(r => {
+        const items = parseVerses(r.verse).map(n => first.get(r.chapter + ':' + n)).filter(Boolean);
+        const oC = items.map(i => i.o ? stripFn(textOf(i.o)) : '').join('\n'), uC = items.map(i => stripFn(textOf(i.v))).join('\n');
+        r.details.forEach(d => {
+            stats.요청++;
+            if (!items.length) { stats.구절없음++; return; }
+            const key = r.chapter + ':' + r.verse + '|' + d.error + '|' + d.fix;
+            const di = seen.get(key) || 0; seen.set(key, di + 1);
+            const status = O.length ? judge(d, di, oC, uC) : '확인불가';
+            if (stats[status] !== undefined) stats[status]++;
+            items[0].reqs.push({ ...d, status, range: String(r.verse).includes('-') ? r.verse : '' });
+            if (status === '미반영') badCh.add(r.chapter);
+        });
+    });
+    return (cache[name] = { b, U, O, chapters, changedCh, changedCount, badCh, stats, hasOrig: O.length > 0 });
+}
+
+// ======================= 화면 =======================
+// 반영된 요청의 fix 문구가 본문에 나오는 자리를 노랗게 강조한다 (태그 안쪽은 건드리지 않는다)
+function highlightFixes(html, fixes) {
+    const fx = [...new Set(fixes.filter(f => f && f.length >= 2))].sort((a, b) => b.length - a.length);
+    if (!fx.length) return html;
+    const rx = new RegExp(fx.map(f => f.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/ /g, '[ \u00a0]')).join('|'), 'g');
+    return html.split(/(<[^>]+>)/).map(seg => seg.startsWith('<') ? seg : seg.replace(rx, m => `<mark class="fx">${m}</mark>`)).join('');
+}
+
+function verseHtml(item) {
+    const { v, o, changed } = item;
+    const linkOn = $('linkOn').checked, fnOn = $('fnOn').checked;
+    let h = applyLinks(textOf(v), linkOn ? (v.link_pos || []) : []);
+    if ($('hiOn').checked) h = highlightFixes(h, (item.reqs || []).filter(r => r.status === '반영됨').map(r => r.fix));
+    if (!fnOn) h = h.replace(FN, '');
+    let cmp = '';
+    if (changed) {
+        const parts = Diff.diffChars(markFn(textOf(o)), markFn(textOf(v)));
+        let d = '';
+        parts.forEach(p => { const t = esc(p.value); d += p.added ? `<span class="add">${t}</span>` : p.removed ? `<span class="del">${t}</span>` : t; });
+        d = d.replace(//g, '<sup class="fn">').replace(//g, '</sup>');
+        cmp = `<details class="mt-1" ${$('cmpOpen').checked ? 'open' : ''}><summary class="text-xs text-amber-700 cursor-pointer font-semibold">기존과 비교</summary><div class="cmp">${d}</div></details>`;
+    }
+    let reqHtml = '';
+    if ($('reqOn').checked && item.reqs && item.reqs.length) {
+        const cls = { '반영됨': 'st-ok', '이미 반영': 'st-pre', '미반영': 'st-bad', '보류': 'st-hold', '확인불가': 'st-pre' };
+        reqHtml = '<div class="reqs">' + item.reqs.map(r => `<div class="req ${cls[r.status] || ''}">
+            <span class="rn">#${r.num}</span><span class="rc">${CATK[r.category_key] || esc(r.category)}${r.range ? ' · ' + esc(r.range) + '절 요청' : ''}</span>
+            <span><span class="del" style="text-decoration:none">${esc(r.error)}</span> → <span class="add">${esc(r.fix)}</span></span>
+            <span class="rb">${r.status}</span></div>`).join('') + '</div>';
+    }
+    return `<div class="verse ${changed ? 'changed' : ''}">
+        <div class="vnum">${esc(v.verse)}</div>
+        <div class="flex-1 ${linkOn ? '' : 'nolink'}"><div class="vtext">${h}</div>${reqHtml}${cmp}</div>
+        ${changed ? '<span class="text-[10px] font-bold text-amber-700 bg-amber-100 rounded-full px-2 py-0.5 h-fit mt-2 whitespace-nowrap">수정됨</span>' : ''}
+    </div>`;
+}
+
+function renderChapterButtons() {
+    $('chBtns').innerHTML = [...cur.chapters.keys()].map(c =>
+        `<button class="chbtn ${c === curChapter ? 'on' : ''} ${cur.changedCh.has(c) ? 'has' : ''}" ${cur.badCh.has(c) ? 'style="border-color:#dc2626;color:#dc2626"' : ''} data-c="${c}">${c}</button>`).join('');
+    $('chBtns').querySelectorAll('button').forEach(btn => btn.addEventListener('click', () => { $('q').value = ''; curChapter = +btn.dataset.c; render(); window.scrollTo(0, 0); }));
+}
+
+function render() {
+    if (!cur) return;
+    $('empty').classList.add('hidden');
+    document.documentElement.style.setProperty('--fs', $('fs').value + 'px');
+    const q = $('q').value.trim(), rf = $('reqFilter').value;
+    const keep = it => !rf || (rf === 'chg' && it.changed) || (rf === 'req' && it.reqs.length) || (rf === 'bad' && it.reqs.some(r => r.status === '미반영'));
+    const name = cur.b[1];
+    renderChapterButtons();
+    if (q) {                                                     // 책 전체 검색
+        const hits = [];
+        cur.chapters.forEach((arr, c) => arr.forEach(it => { if (keep(it) && stripFn(textOf(it.v)).includes(q)) hits.push([c, it]); }));
+        $('nav').classList.add('hidden');
+        $('verses').innerHTML = hits.slice(0, 300).map(([c, it]) =>
+            `<div class="px-4 pt-2 text-xs font-bold text-blue-600">${esc(name)} ${c}장 ${esc(it.v.verse)}절</div>` + verseHtml(it)).join('') ||
+            '<div class="p-8 text-center text-slate-400 text-sm">검색 결과가 없습니다.</div>';
+        setStatus(`검색 결과 ${hits.length}개` + (hits.length > 300 ? ' (앞 300개만 표시)' : ''), 'info');
+        return;
+    }
+    const chs = [...cur.chapters.keys()];
+    const arr = (cur.chapters.get(curChapter) || []).filter(keep);
+    $('nav').classList.remove('hidden');
+    $('chTitle').textContent = `${name} ${curChapter}장` + (cur.changedCh.has(curChapter) ? '  (수정된 구절 있음)' : '');
+    $('prevBtn').disabled = chs.indexOf(curChapter) <= 0;
+    $('nextBtn').disabled = chs.indexOf(curChapter) >= chs.length - 1;
+    $('verses').innerHTML = arr.length ? arr.map(verseHtml).join('') : '<div class="p-8 text-center text-slate-400 text-sm">이 조건에 맞는 구절이 이 장에는 없습니다.</div>';
+}
+
+async function openBook(b, bust) {
+    setStatus(b[1] + ' 불러오는 중...', 'info');
+    document.querySelectorAll('.bookbtn').forEach(x => x.classList.toggle('on', x.dataset.n === String(b[0])));
+    try { cur = await loadBook(b, bust); }
+    catch (e) { setStatus('읽지 못했습니다: ' + e.message, 'err'); $('empty').classList.remove('hidden'); $('empty').textContent = '파일을 읽지 못했습니다: ' + e.message; return; }
+    $('bar').classList.remove('hidden');
+    $('bookTitle').textContent = `${b[0]}. ${b[1]}`;
+    const s = cur.stats;
+    $('bookInfo').textContent = `${b[2]} · 구절 ${cur.U.length}개 · 수정된 구절 ${cur.changedCount}개 · 요청 ${s.요청}건 (반영 ${s.반영됨 + s['이미 반영']} / 미반영 ${s.미반영} / 보류 ${s.보류}${s.구절없음 ? ' / 구절 없음 ' + s.구절없음 : ''})` + (cur.hasOrig ? '' : ' · (기존 파일 없음: 비교 불가)');
+    const chs = [...cur.chapters.keys()];
+    if (window.__lastBook !== b[1] || !chs.includes(curChapter)) curChapter = chs[0];   // 새 책이면 1장부터, 다시 불러오기면 보던 장 유지
+    window.__lastBook = b[1];
+    $('q').value = '';
+    render();
+    setStatus(`${b[1]} 로드 완료 ` + new Date().toLocaleTimeString(), 'ok');
+}
+
+function init() {
+    const mk = (list, el) => { el.innerHTML = list.map(b =>
+        `<button class="bookbtn" data-n="${b[0]}" ${b[2] ? '' : 'disabled title="파일이 없습니다"'}>${b[1]}</button>`).join('');
+        el.querySelectorAll('button').forEach(btn => btn.addEventListener('click', () => openBook(BOOKS.find(x => String(x[0]) === btn.dataset.n), false))); };
+    mk(BOOKS.slice(0, 39), $('otBtns')); mk(BOOKS.slice(39), $('ntBtns'));
+    if (location.protocol === 'file:') {
+        $('empty').innerHTML = '브라우저는 더블클릭으로 연 페이지(file://)에서 다른 파일을 읽지 못합니다.<br>웹 주소(https://...)로 여세요. 내 컴퓨터에서는 이 폴더의 <b>local_실행.bat</b>을 실행하면 됩니다.';
+        setStatus('서버로 열어야 합니다', 'err');
+    }
+}
+['reqFilter', 'linkOn', 'fnOn', 'reqOn', 'hiOn', 'cmpOpen'].forEach(id => $(id).addEventListener('input', render));
+$('fs').addEventListener('input', render);
+$('q').addEventListener('input', () => { clearTimeout(window.__t); window.__t = setTimeout(render, 250); });
+$('prevBtn').addEventListener('click', () => { const c = [...cur.chapters.keys()]; curChapter = c[c.indexOf(curChapter) - 1]; render(); window.scrollTo(0, 0); });
+$('nextBtn').addEventListener('click', () => { const c = [...cur.chapters.keys()]; curChapter = c[c.indexOf(curChapter) + 1]; render(); window.scrollTo(0, 0); });
+$('reloadBtn').addEventListener('click', () => { if (cur) openBook(cur.b, true); });
+window.addEventListener('DOMContentLoaded', init);
+</script>
+</body>
+</html>
