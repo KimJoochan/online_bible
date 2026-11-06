@@ -1,0 +1,1935 @@
+[{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e217"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e217",
+  "book": 31,
+  "chapter": 1,
+  "verse": 1,
+  "content": [
+    {
+      "txt": "오바댜",
+      "link": "60ba25881376e50012a0da90"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "묵시",
+      "link": "6146ff5f5f803400131d4a32"
+    },
+    {
+      "txt": "라"
+    },
+    {
+      "txt": " 주",
+      "link": "623b10058f55f4001421998c"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 "
+    },
+    {
+      "txt": "에돔",
+      "link": "613f12f7e8113c001ae0b55b"
+    },
+    {
+      "txt": "에 대하여 이같이 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "하시니라 우리가 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께로 말미암아 소식을 들었나니 곧 "
+    },
+    {
+      "txt": "사자",
+      "link": "63b43c246f82e700148419f9"
+    },
+    {
+      "txt": "가 "
+    },
+    {
+      "txt": "열국",
+      "link": "6239f5468f55f40014219982"
+    },
+    {
+      "txt": " 중에 보내심을 받고 이르기를 너희는 일어날지어다 우리가 일어나서 그로 더불어 싸우자 하는 것이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "오바댜의 묵시라 주 여호와께서 에돔에 대하여 이같이 말씀하시니라 우리가 여호와께로 말미암아 소식을 들었나니 곧 사자가 열국 중에 보내심을 받고 이르기를 너희는 일어날지어다 우리가 일어나서 그로 더불어 싸우자 하는 것이니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/60ba25881376e50012a0da90"
+    },
+    {
+      "start": 42,
+      "end": 43,
+      "href": "/bible-forest/dictionary/6146ff5f5f803400131d4a32"
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "href": "/bible-forest/dictionary/623b10058f55f4001421998c"
+    },
+    {
+      "start": 48,
+      "end": 50,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 54,
+      "end": 55,
+      "href": "/bible-forest/dictionary/613f12f7e8113c001ae0b55b"
+    },
+    {
+      "start": 66,
+      "end": 67,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    },
+    {
+      "start": 77,
+      "end": 79,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 99,
+      "end": 100,
+      "href": "/bible-forest/dictionary/63b43c246f82e700148419f9"
+    },
+    {
+      "start": 103,
+      "end": 104,
+      "href": "/bible-forest/dictionary/6239f5468f55f40014219982"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "오바댜의 <span style=\"color:crimson;\">¹</span>묵시라 주 여호와께서 에돔에 대하여 이같이 말씀하시니라 우리가 여호와께로 말미암아 소식을 들었나니 곧 사자가 열국 중에 보내심을 받고 이르기를 너희는 일어날찌어다 우리가 일어나서 그로 더불어 싸우자 하는 것이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e218"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e218",
+  "book": 31,
+  "chapter": 1,
+  "verse": 2,
+  "content": [
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 "
+    },
+    {
+      "txt": "가라사대",
+      "link": "62b7209c8f55f40014219d70"
+    },
+    {
+      "txt": " 내가 너를 "
+    },
+    {
+      "txt": "열국",
+      "link": "6239f5468f55f40014219982"
+    },
+    {
+      "txt": " 중에 미약하게 하였으므로 네가 크게 멸시를 받느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "여호와께서 가라사대 내가 너를 열국 중에 미약하게 하였으므로 네가 크게 멸시를 받느니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 6,
+      "end": 9,
+      "href": "/bible-forest/dictionary/62b7209c8f55f40014219d70"
+    },
+    {
+      "start": 17,
+      "end": 18,
+      "href": "/bible-forest/dictionary/6239f5468f55f40014219982"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "여호와께서 가라사대 내가 너를 열국 중에 미약하게 하였으므로 네가 크게 멸시를 받느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e219"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e219",
+  "book": 31,
+  "chapter": 1,
+  "verse": 3,
+  "content": [
+    {
+      "txt": "바위",
+      "link": "63a64e436f82e7001484182f"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "틈",
+      "link": "647adf5fba956c0013dc1696"
+    },
+    {
+      "txt": "에 거하며 높은 곳에 사는 자여 네가 중심에 이르기를 누가 능히 나를 땅에 끌어내리겠느냐 하니 너의 중심의 "
+    },
+    {
+      "txt": "교만",
+      "link": "61882281ab886400139a72fc"
+    },
+    {
+      "txt": "이 너를 속였도다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "바위 틈에 거하며 높은 곳에 사는 자여 네가 중심에 이르기를 누가 능히 나를 땅에 끌어내리겠느냐 하니 너의 중심의 교만이 너를 속였도다",
+  "link_pos": [
+    {
+      "start": 37,
+      "end": 38,
+      "href": "/bible-forest/dictionary/63a64e436f82e7001484182f"
+    },
+    {
+      "start": 40,
+      "end": 40,
+      "href": "/bible-forest/dictionary/647adf5fba956c0013dc1696"
+    },
+    {
+      "start": 101,
+      "end": 102,
+      "href": "/bible-forest/dictionary/61882281ab886400139a72fc"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>바위 틈에 거하며 높은 곳에 사는 자여 네가 중심에 이르기를 누가 능히 나를 땅에 끌어내리겠느냐 하니 너의 중심의 교만이 너를 속였도다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e21a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e21a",
+  "book": 31,
+  "chapter": 1,
+  "verse": 4,
+  "content": [
+    {
+      "txt": "네가 "
+    },
+    {
+      "txt": "독수리",
+      "link": "6191be043b8fc5001467ad2c"
+    },
+    {
+      "txt": "처럼 높이 오르며 "
+    },
+    {
+      "txt": "별",
+      "link": "618a9a4fc5894b001b8c5c2c"
+    },
+    {
+      "txt": " 사이에 깃들일지라도 내가 거기서 너를 끌어내리리라 나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하였느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "네가 독수리처럼 높이 오르며 별 사이에 깃들일지라도 내가 거기서 너를 끌어내리리라 나 여호와가 말하였느니라",
+  "link_pos": [
+    {
+      "start": 3,
+      "end": 5,
+      "href": "/bible-forest/dictionary/6191be043b8fc5001467ad2c"
+    },
+    {
+      "start": 16,
+      "end": 16,
+      "href": "/bible-forest/dictionary/618a9a4fc5894b001b8c5c2c"
+    },
+    {
+      "start": 48,
+      "end": 50,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "네가 독수리처럼 높이 오르며 별 사이에 깃들일찌라도 내가 거기서 너를 끌어내리리라 나 여호와가 말하였느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e21b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e21b",
+  "book": 31,
+  "chapter": 1,
+  "verse": 5,
+  "content": [
+    {
+      "txt": "혹시 "
+    },
+    {
+      "txt": "도적",
+      "link": "6325b8266f82e7001484115c"
+    },
+    {
+      "txt": "이 네게 이르렀으며 강도가 "
+    },
+    {
+      "txt": "밤",
+      "link": "639ddb9b6f82e7001484172b"
+    },
+    {
+      "txt": "중에 네게 이르렀을지라도 그 마음에 만족하게 취하면 그치지 아니하였겠느냐 혹시 포도를 따는 자가 네게 이르렀을지라도 그것을 얼마쯤 남기지 아니하였겠느냐 네가 어찌 그리 망하였는고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "혹시 도적이 네게 이르렀으며 강도가 밤중에 네게 이르렀을지라도 그 마음에 만족하게 취하면 그치지 아니하였겠느냐 혹시 포도를 따는 자가 네게 이르렀을지라도 그것을 얼마쯤 남기지 아니하였겠느냐 네가 어찌 그리 망하였는고",
+  "link_pos": [
+    {
+      "start": 40,
+      "end": 41,
+      "href": "/bible-forest/dictionary/6325b8266f82e7001484115c"
+    },
+    {
+      "start": 57,
+      "end": 57,
+      "href": "/bible-forest/dictionary/639ddb9b6f82e7001484172b"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>혹시 도적이 네게 이르렀으며 강도가 밤중에 네게 이르렀을찌라도 그 마음에 만족하게 취하면 그치지 아니하였겠느냐 혹시 포도를 따는 자가 네게 이르렀을찌라도 그것을 얼마쯤 남기지 아니하였겠느냐 네가 어찌 그리 망하였는고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e21c"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e21c",
+  "book": 31,
+  "chapter": 1,
+  "verse": 6,
+  "content": [
+    {
+      "txt": "에서",
+      "link": "60bad1f01376e50012a0daff"
+    },
+    {
+      "txt": "가 어찌 그리 수탐되었으며 그 감춘 "
+    },
+    {
+      "txt": "보물",
+      "link": "60d336c56cfae70012b03784"
+    },
+    {
+      "txt": "이 어찌 그리 수탐되었는고"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "에서가 어찌 그리 수탐되었으며 그 감춘 보물이 어찌 그리 수탐되었는고",
+  "link_pos": [
+    {
+      "start": 37,
+      "end": 38,
+      "href": "/bible-forest/dictionary/60bad1f01376e50012a0daff"
+    },
+    {
+      "start": 59,
+      "end": 60,
+      "href": "/bible-forest/dictionary/60d336c56cfae70012b03784"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "<span style=\"color:crimson;\">¹</span>에서가 어찌 그리 수탐되었으며 그 감춘 보물이 어찌 그리 수탐되었는고",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e21d"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e21d",
+  "book": 31,
+  "chapter": 1,
+  "verse": 7,
+  "content": [
+    {
+      "txt": "너와 약조한 자들이 다 너를 쫓아 "
+    },
+    {
+      "txt": "변경",
+      "link": "639c40856f82e7001484170d"
+    },
+    {
+      "txt": "에 이르게 하며 너와 "
+    },
+    {
+      "txt": "화목",
+      "link": "6473304fba956c0013dc156d"
+    },
+    {
+      "txt": "하던 자들이 너를 속이고 이기며 네 "
+    },
+    {
+      "txt": "식물",
+      "link": "63d799ca71ef9d001487b57e"
+    },
+    {
+      "txt": "을 먹는 자들이 네 아래 함정을 베푸니 네 마음에 지각이 없음이로다"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너와 약조한 자들이 다 너를 쫓아 변경에 이르게 하며 너와 화목하던 자들이 너를 속이고 이기며 네 식물을 먹는 자들이 네 아래 함정을 베푸니 네 마음에 지각이 없음이로다",
+  "link_pos": [
+    {
+      "start": 19,
+      "end": 20,
+      "href": "/bible-forest/dictionary/639c40856f82e7001484170d"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/6473304fba956c0013dc156d"
+    },
+    {
+      "start": 55,
+      "end": 56,
+      "href": "/bible-forest/dictionary/63d799ca71ef9d001487b57e"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너와 약조한 자들이 다 너를 쫓아 변경에 이르게 하며 너와 화목하던 자들이 너를 속이고 이기며 네 식물을 네 아래 함정을 베푸니 네 마음에 지각이 없음이로다",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e21e"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e21e",
+  "book": 31,
+  "chapter": 1,
+  "verse": 8,
+  "content": [
+    {
+      "txt": "나 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "가 말하노라 그 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 내가 "
+    },
+    {
+      "txt": "에돔",
+      "link": "613f12f7e8113c001ae0b55b"
+    },
+    {
+      "txt": "에서"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "지혜",
+      "link": "647c42c3ba956c0013dc16b9"
+    },
+    {
+      "txt": " 있는 자를 멸하며 "
+    },
+    {
+      "txt": "에서",
+      "link": "60bad1f01376e50012a0daff"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "산",
+      "link": "60ba1bb11376e50012a0da53"
+    },
+    {
+      "txt": "에서"
+    },
+    {
+      "txt": " 지각 있는 자를 멸하지 아니하겠느냐"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "나 여호와가 말하노라 그 날에 내가 에돔에서 지혜 있는 자를 멸하며 에서의 산에서 지각 있는 자를 멸하지 아니하겠느냐",
+  "link_pos": [
+    {
+      "start": 2,
+      "end": 4,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 14,
+      "end": 14,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 20,
+      "end": 21,
+      "href": "/bible-forest/dictionary/613f12f7e8113c001ae0b55b"
+    },
+    {
+      "start": 25,
+      "end": 26,
+      "href": "/bible-forest/dictionary/647c42c3ba956c0013dc16b9"
+    },
+    {
+      "start": 75,
+      "end": 76,
+      "href": "/bible-forest/dictionary/60bad1f01376e50012a0daff"
+    },
+    {
+      "start": 79,
+      "end": 79,
+      "href": "/bible-forest/dictionary/60ba1bb11376e50012a0da53"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "나 여호와가 말하노라 그 날에 내가 에돔에서 지혜 있는 자를 멸하며 <span style=\"color:crimson;\">¹</span>에서의 산에서 지각 있는 자를 멸하지 아니하겠느냐",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e21f"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e21f",
+  "book": 31,
+  "chapter": 1,
+  "verse": 9,
+  "content": [
+    {
+      "txt": "드만아 네 "
+    },
+    {
+      "txt": "용사",
+      "link": "63fa3604155c55001474f964"
+    },
+    {
+      "txt": "들이 놀랄 것이라 이로 인하여 "
+    },
+    {
+      "txt": "에서",
+      "link": "60bad1f01376e50012a0daff"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "산",
+      "link": "60ba1bb11376e50012a0da53"
+    },
+    {
+      "txt": "의 거민이 "
+    },
+    {
+      "txt": "살륙",
+      "link": "63b8db936f82e70014841a64"
+    },
+    {
+      "txt": "을 당하여 다 멸절되리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "드만아 네 용사들이 놀랄 것이라 이로 인하여 에서의 산의 거민이 살륙을 당하여 다 멸절되리라",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 7,
+      "href": "/bible-forest/dictionary/63fa3604155c55001474f964"
+    },
+    {
+      "start": 62,
+      "end": 63,
+      "href": "/bible-forest/dictionary/60bad1f01376e50012a0daff"
+    },
+    {
+      "start": 66,
+      "end": 66,
+      "href": "/bible-forest/dictionary/60ba1bb11376e50012a0da53"
+    },
+    {
+      "start": 73,
+      "end": 74,
+      "href": "/bible-forest/dictionary/63b8db936f82e70014841a64"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "드만아 네 용사들이 놀랄 것이라 이로 인하여 <span style=\"color:crimson;\">¹</span>에서의 산의 거민이 살륙을 당하여 다 멸절되리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e220"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e220",
+  "book": 31,
+  "chapter": 1,
+  "verse": 10,
+  "content": [
+    {
+      "txt": "네가 네 형제 "
+    },
+    {
+      "txt": "야곱",
+      "link": "60ba06111376e50012a0da1d"
+    },
+    {
+      "txt": "에게 행한 "
+    },
+    {
+      "txt": "포학",
+      "link": "64a198588240bb001263dc19"
+    },
+    {
+      "txt": "을 인하여 수욕을 입고 "
+    },
+    {
+      "txt": "영원",
+      "link": "63f0b425155c55001474f77f"
+    },
+    {
+      "txt": "히 멸절되리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "네가 네 형제 야곱에게 행한 포학을 인하여 수욕을 입고 영원히 멸절되리라",
+  "link_pos": [
+    {
+      "start": 8,
+      "end": 9,
+      "href": "/bible-forest/dictionary/60ba06111376e50012a0da1d"
+    },
+    {
+      "start": 16,
+      "end": 17,
+      "href": "/bible-forest/dictionary/64a198588240bb001263dc19"
+    },
+    {
+      "start": 31,
+      "end": 32,
+      "href": "/bible-forest/dictionary/63f0b425155c55001474f77f"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "네가 네 형제 야곱에게 행한 포학을 인하여 수욕을 입고 영원히 멸절되리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e221"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e221",
+  "book": 31,
+  "chapter": 1,
+  "verse": 11,
+  "content": [
+    {
+      "txt": "네가 멀리 섰던 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": " 곧 "
+    },
+    {
+      "txt": "이방인",
+      "link": "640db9bb050c7b001378e87c"
+    },
+    {
+      "txt": "이 그의 "
+    },
+    {
+      "txt": "재물",
+      "link": "645732cbba956c0013dc1357"
+    },
+    {
+      "txt": "을 늑탈하며 "
+    },
+    {
+      "txt": "외국인",
+      "link": "63f23326155c55001474f7f5"
+    },
+    {
+      "txt": "이 그의 "
+    },
+    {
+      "txt": "성문",
+      "link": "63dcbc3c155c55001474f56b"
+    },
+    {
+      "txt": "에 들어가서 "
+    },
+    {
+      "txt": "예루살렘",
+      "link": "60e5376bd73fa40012bc3bcd"
+    },
+    {
+      "txt": "을 얻기 위하여 "
+    },
+    {
+      "txt": "제비",
+      "link": "64625e13ba956c0013dc13fc"
+    },
+    {
+      "txt": "뽑던 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 너도 그들 중 한 사람 같았었느니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "네가 멀리 섰던 날 곧 이방인이 그의 재물을 늑탈하며 외국인이 그의 성문에 들어가서 예루살렘을 얻기 위하여 제비뽑던 날에 너도 그들 중 한 사람 같았었느니라",
+  "link_pos": [
+    {
+      "start": 9,
+      "end": 9,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 13,
+      "end": 15,
+      "href": "/bible-forest/dictionary/640db9bb050c7b001378e87c"
+    },
+    {
+      "start": 21,
+      "end": 22,
+      "href": "/bible-forest/dictionary/645732cbba956c0013dc1357"
+    },
+    {
+      "start": 30,
+      "end": 32,
+      "href": "/bible-forest/dictionary/63f23326155c55001474f7f5"
+    },
+    {
+      "start": 38,
+      "end": 39,
+      "href": "/bible-forest/dictionary/63dcbc3c155c55001474f56b"
+    },
+    {
+      "start": 47,
+      "end": 50,
+      "href": "/bible-forest/dictionary/60e5376bd73fa40012bc3bcd"
+    },
+    {
+      "start": 60,
+      "end": 61,
+      "href": "/bible-forest/dictionary/64625e13ba956c0013dc13fc"
+    },
+    {
+      "start": 66,
+      "end": 66,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "네가 멀리 섰던 날 곧 이방인이 그의 재물을 늑탈하며 외국인이 그의 성문에 들어가서 예루살렘을 얻기 위하여 제비 뽑던 날에 너도 그들 중 한 사람 같았었느니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e222"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e222",
+  "book": 31,
+  "chapter": 1,
+  "verse": 12,
+  "content": [
+    {
+      "txt": "네가 형제의 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": " 곧 그 "
+    },
+    {
+      "txt": "재앙",
+      "link": "61acbbc63b8fc5001467adab"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 방관할 것이 아니며 "
+    },
+    {
+      "txt": "유다",
+      "link": "618772baab886400139a72d3"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "자손",
+      "link": "6460f5eaba956c0013dc13e5"
+    },
+    {
+      "txt": "의 패망하는 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 기뻐할 것이 아니며 그 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 네가 입을 크게 벌릴 것이 아니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "네가 형제의 날 곧 그 재앙의 날에 방관할 것이 아니며 유다 자손의 패망하는 날에 기뻐할 것이 아니며 그 고난의 날에 네가 입을 크게 벌릴 것이 아니라",
+  "link_pos": [
+    {
+      "start": 7,
+      "end": 7,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 13,
+      "end": 14,
+      "href": "/bible-forest/dictionary/61acbbc63b8fc5001467adab"
+    },
+    {
+      "start": 17,
+      "end": 17,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 31,
+      "end": 32,
+      "href": "/bible-forest/dictionary/618772baab886400139a72d3"
+    },
+    {
+      "start": 34,
+      "end": 35,
+      "href": "/bible-forest/dictionary/6460f5eaba956c0013dc13e5"
+    },
+    {
+      "start": 43,
+      "end": 43,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 59,
+      "end": 60,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 63,
+      "end": 63,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "네가 형제의 날 곧 그 재앙의 날에 방관할 것이 아니며 유다 자손의 패망하는 날에 기뻐할 것이 아니며 그 고난의 날에 네가 입을 크게 벌릴 것이 아니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e223"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e223",
+  "book": 31,
+  "chapter": 1,
+  "verse": 13,
+  "content": [
+    {
+      "txt": "내 "
+    },
+    {
+      "txt": "백성",
+      "link": "60e19c269ca3f400122354c2"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "환난",
+      "link": "60bcd2c11376e50012a0db86"
+    },
+    {
+      "txt": "을 당하는 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 네가 그 "
+    },
+    {
+      "txt": "성문",
+      "link": "63dcbc3c155c55001474f56b"
+    },
+    {
+      "txt": "에 들어가지 않을 것이며 "
+    },
+    {
+      "txt": "환난",
+      "link": "60bcd2c11376e50012a0db86"
+    },
+    {
+      "txt": "을 당하는 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 네가 그 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "을 방관하지 않을 것이며 "
+    },
+    {
+      "txt": "환난",
+      "link": "60bcd2c11376e50012a0db86"
+    },
+    {
+      "txt": "을 당하는 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 네가 그 "
+    },
+    {
+      "txt": "재물",
+      "link": "645732cbba956c0013dc1357"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "손",
+      "link": "63c817386f82e70014841c9d"
+    },
+    {
+      "txt": "을 대지 않을 것이며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "내 백성이 환난을 당하는 날에 네가 그 성문에 들어가지 않을 것이며 환난을 당하는 날에 네가 그 고난을 방관하지 않을 것이며 환난을 당하는 날에 네가 그 재물에 손을 대지 않을 것이며",
+  "link_pos": [
+    {
+      "start": 2,
+      "end": 3,
+      "href": "/bible-forest/dictionary/60e19c269ca3f400122354c2"
+    },
+    {
+      "start": 6,
+      "end": 7,
+      "href": "/bible-forest/dictionary/60bcd2c11376e50012a0db86"
+    },
+    {
+      "start": 14,
+      "end": 14,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 22,
+      "end": 23,
+      "href": "/bible-forest/dictionary/63dcbc3c155c55001474f56b"
+    },
+    {
+      "start": 38,
+      "end": 39,
+      "href": "/bible-forest/dictionary/60bcd2c11376e50012a0db86"
+    },
+    {
+      "start": 46,
+      "end": 46,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 54,
+      "end": 55,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 70,
+      "end": 71,
+      "href": "/bible-forest/dictionary/60bcd2c11376e50012a0db86"
+    },
+    {
+      "start": 78,
+      "end": 78,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 86,
+      "end": 87,
+      "href": "/bible-forest/dictionary/645732cbba956c0013dc1357"
+    },
+    {
+      "start": 90,
+      "end": 90,
+      "href": "/bible-forest/dictionary/63c817386f82e70014841c9d"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "내 백성이 환난을 당하는 날에 네가 그 성문에 들어가지 않을 것이며 환난을 당하는 날에 네가 그 고난을 방관하지 않을 것이며 환난을 당하는 날에 네가 그 재물에 손을 대지 않을 것이며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e224"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e224",
+  "book": 31,
+  "chapter": 1,
+  "verse": 14,
+  "content": [
+    {
+      "txt": "사거리에 서서 그 "
+    },
+    {
+      "txt": "도망",
+      "link": "6324456b6f82e70014841119"
+    },
+    {
+      "txt": "하는 자를 막지 않을 것이며 "
+    },
+    {
+      "txt": "고난",
+      "link": "61882260ab886400139a72f9"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "에 그 "
+    },
+    {
+      "txt": "남은 자",
+      "link": "62f7767655b278001668dd70"
+    },
+    {
+      "txt": "를 "
+    },
+    {
+      "txt": "대적",
+      "link": "6237d8a38f55f4001421996c"
+    },
+    {
+      "txt": "에게 붙이지 않을 것이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사거리에 서서 그 도망하는 자를 막지 않을 것이며 고난의 날에 그 남은 자를 대적에게 붙이지 않을 것이니라",
+  "link_pos": [
+    {
+      "start": 10,
+      "end": 11,
+      "href": "/bible-forest/dictionary/6324456b6f82e70014841119"
+    },
+    {
+      "start": 28,
+      "end": 29,
+      "href": "/bible-forest/dictionary/61882260ab886400139a72f9"
+    },
+    {
+      "start": 32,
+      "end": 32,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 37,
+      "end": 40,
+      "href": "/bible-forest/dictionary/62f7767655b278001668dd70"
+    },
+    {
+      "start": 43,
+      "end": 44,
+      "href": "/bible-forest/dictionary/6237d8a38f55f4001421996c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사거리에 서서 그 도망하는 자를 막지 않을 것이며 고난의 날에 그 남은 자를 대적에게 붙이지 않을 것이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e225"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e225",
+  "book": 31,
+  "chapter": 1,
+  "verse": 15,
+  "content": [
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "만국",
+      "link": "60bb1fb41376e50012a0db28"
+    },
+    {
+      "txt": "을 벌할 "
+    },
+    {
+      "txt": "날",
+      "link": "62f752c855b278001668dd67"
+    },
+    {
+      "txt": "이 가까웠나니 너의 행한 대로 너도 받을 것인즉 너의 행한 것이 네 "
+    },
+    {
+      "txt": "머리",
+      "link": "60ba29471376e50012a0daa0"
+    },
+    {
+      "txt": "로 돌아갈 것이라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "여호와의 만국을 벌할 날이 가까웠나니 너의 행한 대로 너도 받을 것인즉 너의 행한 것이 네 머리로 돌아갈 것이라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 5,
+      "end": 6,
+      "href": "/bible-forest/dictionary/60bb1fb41376e50012a0db28"
+    },
+    {
+      "start": 12,
+      "end": 12,
+      "href": "/bible-forest/dictionary/62f752c855b278001668dd67"
+    },
+    {
+      "start": 87,
+      "end": 88,
+      "href": "/bible-forest/dictionary/60ba29471376e50012a0daa0"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "여호와의 만국을 벌할 날이 가까왔나니 <span style=\"color:crimson;\">¹</span>너의 행한대로 너도 받을 것인즉 너의 행한 것이 네 머리로 돌아갈 것이라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e226"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e226",
+  "book": 31,
+  "chapter": 1,
+  "verse": 16,
+  "content": [
+    {
+      "txt": "너희가 내 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "성산",
+      "link": "63d7d49f71ef9d001487b58e"
+    },
+    {
+      "txt": "에서 마신 것 같이 만국인이 항상 마시리니 곧 마시고 삼켜서 본래 없던 것 같이 되리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "너희가 내 성산에서 마신 것 같이 만국인이 항상 마시리니 곧 마시고 삼켜서 본래 없던 것 같이 되리라",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 7,
+      "href": "/bible-forest/dictionary/63d7d49f71ef9d001487b58e"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "너희가 내 성산에서 마신 것 같이 만국인이 항상 마시리니 곧 마시고 삼켜서 본래 없던 것 같이 되리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e227"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e227",
+  "book": 31,
+  "chapter": 1,
+  "verse": 17,
+  "content": [
+    {
+      "txt": "오직 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "시온 산",
+      "link": "63b936716f82e70014841a77"
+    },
+    {
+      "txt": "에서 피할 자가 있으리니 그 "
+    },
+    {
+      "txt": "산",
+      "link": "60ba1bb11376e50012a0da53"
+    },
+    {
+      "txt": "이 "
+    },
+    {
+      "txt": "거룩",
+      "link": "6240d6518f55f400142199c9"
+    },
+    {
+      "txt": "할 것이요 "
+    },
+    {
+      "txt": "야곱",
+      "link": "60ba06111376e50012a0da1d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "족속",
+      "link": "6472109dba956c0013dc1550"
+    },
+    {
+      "txt": "은 자기 기업을 누릴 것이며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "오직 시온 산에서 피할 자가 있으리니 그 산이 거룩할 것이요 야곱 족속은 자기 기업을 누릴 것이며",
+  "link_pos": [
+    {
+      "start": 40,
+      "end": 42,
+      "href": "/bible-forest/dictionary/63b936716f82e70014841a77"
+    },
+    {
+      "start": 59,
+      "end": 59,
+      "href": "/bible-forest/dictionary/60ba1bb11376e50012a0da53"
+    },
+    {
+      "start": 62,
+      "end": 63,
+      "href": "/bible-forest/dictionary/6240d6518f55f400142199c9"
+    },
+    {
+      "start": 70,
+      "end": 71,
+      "href": "/bible-forest/dictionary/60ba06111376e50012a0da1d"
+    },
+    {
+      "start": 73,
+      "end": 74,
+      "href": "/bible-forest/dictionary/6472109dba956c0013dc1550"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "오직 <span style=\"color:crimson;\">¹</span>시온산에서 피할 자가 있으리니 그 산이 거룩할 것이요 야곱 족속은 자기 기업을 누릴 것이며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e228"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e228",
+  "book": 31,
+  "chapter": 1,
+  "verse": 18,
+  "content": [
+    {
+      "txt": "야곱",
+      "link": "60ba06111376e50012a0da1d"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "족속",
+      "link": "6472109dba956c0013dc1550"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "불",
+      "link": "633d78296f82e7001484127a"
+    },
+    {
+      "txt": "이 될 것이요 "
+    },
+    {
+      "txt": "요셉",
+      "link": "60f2d1b341614600128feea8"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "족속",
+      "link": "6472109dba956c0013dc1550"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "불"
+    },
+    {
+      "txt": "꽃이 될 것이며 "
+    },
+    {
+      "txt": "에서",
+      "link": "60bad1f01376e50012a0daff"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "족속",
+      "link": "6472109dba956c0013dc1550"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "초개",
+      "link": "6493f35f8d26fb00138801f5"
+    },
+    {
+      "txt": "가 될 것이라 그들이 그의 위에 붙어서 그를 사를 것인즉 "
+    },
+    {
+      "txt": "에서",
+      "link": "60bad1f01376e50012a0daff"
+    },
+    {
+      "txt": " "
+    },
+    {
+      "txt": "족속",
+      "link": "6472109dba956c0013dc1550"
+    },
+    {
+      "txt": "에 "
+    },
+    {
+      "txt": "남은 자",
+      "link": "62f7767655b278001668dd70"
+    },
+    {
+      "txt": "가 없으리니 이는 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께서 "
+    },
+    {
+      "txt": "말씀",
+      "link": "62356e018f55f4001421995c"
+    },
+    {
+      "txt": "하셨음이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "야곱 족속은 불이 될 것이요 요셉 족속은 불꽃이 될 것이며 에서 족속은 초개가 될 것이라 그들이 그의 위에 붙어서 그를 사를 것인즉 에서 족속에 남은 자가 없으리니 이는 여호와께서 말씀하셨음이니라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/60ba06111376e50012a0da1d"
+    },
+    {
+      "start": 3,
+      "end": 4,
+      "href": "/bible-forest/dictionary/6472109dba956c0013dc1550"
+    },
+    {
+      "start": 7,
+      "end": 7,
+      "href": "/bible-forest/dictionary/633d78296f82e7001484127a"
+    },
+    {
+      "start": 16,
+      "end": 17,
+      "href": "/bible-forest/dictionary/60f2d1b341614600128feea8"
+    },
+    {
+      "start": 19,
+      "end": 20,
+      "href": "/bible-forest/dictionary/6472109dba956c0013dc1550"
+    },
+    {
+      "start": 33,
+      "end": 34,
+      "href": "/bible-forest/dictionary/60bad1f01376e50012a0daff"
+    },
+    {
+      "start": 36,
+      "end": 37,
+      "href": "/bible-forest/dictionary/6472109dba956c0013dc1550"
+    },
+    {
+      "start": 40,
+      "end": 41,
+      "href": "/bible-forest/dictionary/6493f35f8d26fb00138801f5"
+    },
+    {
+      "start": 74,
+      "end": 75,
+      "href": "/bible-forest/dictionary/60bad1f01376e50012a0daff"
+    },
+    {
+      "start": 77,
+      "end": 78,
+      "href": "/bible-forest/dictionary/6472109dba956c0013dc1550"
+    },
+    {
+      "start": 81,
+      "end": 84,
+      "href": "/bible-forest/dictionary/62f7767655b278001668dd70"
+    },
+    {
+      "start": 95,
+      "end": 97,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    },
+    {
+      "start": 101,
+      "end": 102,
+      "href": "/bible-forest/dictionary/62356e018f55f4001421995c"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "야곱 족속은 불이 될 것이요 요셉 족속은 불꽃이 될 것이며 에서 족속은 초개가 될 것이라 그들이 그의 위에 붙어서 그를 사를 것인즉 에서 족속에 남은 자가 없으리니 이는 여호와께서 말씀하셨음이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e229"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e229",
+  "book": 31,
+  "chapter": 1,
+  "verse": 19,
+  "content": [
+    {
+      "txt": "남방",
+      "link": "62f7320a55b278001668dd63"
+    },
+    {
+      "txt": " 사람은 "
+    },
+    {
+      "txt": "에서",
+      "link": "60bad1f01376e50012a0daff"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "산",
+      "link": "60ba1bb11376e50012a0da53"
+    },
+    {
+      "txt": "을 얻을 것이며 "
+    },
+    {
+      "txt": "평지",
+      "link": "647df43aba956c0013dc16ec"
+    },
+    {
+      "txt": " 사람은 블레셋을 얻을 것이요 또 그들이 "
+    },
+    {
+      "txt": "에브라임",
+      "link": "6453c04dba956c0013dc133f"
+    },
+    {
+      "txt": "의 들과 "
+    },
+    {
+      "txt": "사마리아",
+      "link": "615aff17fca7a4001a586e24"
+    },
+    {
+      "txt": "의 들을 얻을 것이며 "
+    },
+    {
+      "txt": "베냐민",
+      "link": "63a955536f82e70014841906"
+    },
+    {
+      "txt": "은 길르앗을 얻을 것이며"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "남방 사람은 에서의 산을 얻을 것이며 평지 사람은 블레셋을 얻을 것이요 또 그들이 에브라임의 들과 사마리아의 들을 얻을 것이며 베냐민은 길르앗을 얻을 것이며",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 1,
+      "href": "/bible-forest/dictionary/62f7320a55b278001668dd63"
+    },
+    {
+      "start": 7,
+      "end": 8,
+      "href": "/bible-forest/dictionary/60bad1f01376e50012a0daff"
+    },
+    {
+      "start": 11,
+      "end": 11,
+      "href": "/bible-forest/dictionary/60ba1bb11376e50012a0da53"
+    },
+    {
+      "start": 21,
+      "end": 22,
+      "href": "/bible-forest/dictionary/647df43aba956c0013dc16ec"
+    },
+    {
+      "start": 46,
+      "end": 49,
+      "href": "/bible-forest/dictionary/6453c04dba956c0013dc133f"
+    },
+    {
+      "start": 55,
+      "end": 58,
+      "href": "/bible-forest/dictionary/615aff17fca7a4001a586e24"
+    },
+    {
+      "start": 71,
+      "end": 73,
+      "href": "/bible-forest/dictionary/63a955536f82e70014841906"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "남방 사람은 에서의 산을 얻을 것이며 평지 사람은 블레셋을 얻을 것이요 또 그들이 에브라임의 들과 사마리아의 들을 얻을 것이며 베냐민은 길르앗을 얻을 것이며",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e22a"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e22a",
+  "book": 31,
+  "chapter": 1,
+  "verse": 20,
+  "content": [
+    {
+      "txt": "사로잡혔던 "
+    },
+    {
+      "txt": "이스라엘",
+      "link": "60c71f046cfae70012b03764"
+    },
+    {
+      "txt": "의 뭇 "
+    },
+    {
+      "txt": "자손",
+      "link": "6460f5eaba956c0013dc13e5"
+    },
+    {
+      "txt": "은 "
+    },
+    {
+      "txt": "가나안",
+      "link": "61851a87ab886400139a72ae"
+    },
+    {
+      "txt": " 사람에게 속한 땅을 "
+    },
+    {
+      "txt": "사르밧",
+      "link": "648ac55eba956c0013dc17cc"
+    },
+    {
+      "txt": "까지 얻을 것이며 "
+    },
+    {
+      "txt": "예루살렘",
+      "link": "60e5376bd73fa40012bc3bcd"
+    },
+    {
+      "txt": "의 사로잡혔던 자 곧 "
+    },
+    {
+      "txt": "스바랏",
+      "link": "63d0e4156f82e70014841d1c"
+    },
+    {
+      "txt": "에 있는 자는 "
+    },
+    {
+      "txt": "남방",
+      "link": "62f7320a55b278001668dd63"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "성읍",
+      "link": "626eacac8f55f40014219ab2"
+    },
+    {
+      "txt": "들을 얻을 것이니라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "사로잡혔던 이스라엘의 뭇 자손은 가나안 사람에게 속한 땅을 사르밧까지 얻을 것이며 예루살렘의 사로잡혔던 자 곧 스바랏에 있는 자는 남방의 성읍들을 얻을 것이니라",
+  "link_pos": [
+    {
+      "start": 6,
+      "end": 9,
+      "href": "/bible-forest/dictionary/60c71f046cfae70012b03764"
+    },
+    {
+      "start": 14,
+      "end": 15,
+      "href": "/bible-forest/dictionary/6460f5eaba956c0013dc13e5"
+    },
+    {
+      "start": 18,
+      "end": 20,
+      "href": "/bible-forest/dictionary/61851a87ab886400139a72ae"
+    },
+    {
+      "start": 33,
+      "end": 35,
+      "href": "/bible-forest/dictionary/648ac55eba956c0013dc17cc"
+    },
+    {
+      "start": 46,
+      "end": 49,
+      "href": "/bible-forest/dictionary/60e5376bd73fa40012bc3bcd"
+    },
+    {
+      "start": 62,
+      "end": 64,
+      "href": "/bible-forest/dictionary/63d0e4156f82e70014841d1c"
+    },
+    {
+      "start": 73,
+      "end": 74,
+      "href": "/bible-forest/dictionary/62f7320a55b278001668dd63"
+    },
+    {
+      "start": 77,
+      "end": 78,
+      "href": "/bible-forest/dictionary/626eacac8f55f40014219ab2"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "사로잡혔던 이스라엘의 뭇 자손은 가나안 사람에게 속한 땅을 사르밧까지 얻을 것이며 예루살렘의 사로잡혔던 자 곧 스바랏에 있는 자는 남방의 성읍들을 얻을 것이니라",
+  "edit_deploy": "on",
+  "chapter_title": null
+},
+{
+  "_id": {
+    "$oid": "644395ffe73ff90013f3e22b"
+  },
+  "createdTs": null,
+  "updatedTs": 1782219421,
+  "updatedBy": "640989a122333e4cfb043150",
+  "createdBy": null,
+  "id": "644395ffe73ff90013f3e22b",
+  "book": 31,
+  "chapter": 1,
+  "verse": 21,
+  "content": [
+    {
+      "txt": "구원자",
+      "link": "60bab6b11376e50012a0daf6"
+    },
+    {
+      "txt": "들이 "
+    },
+    {
+      "txt": "시온 산",
+      "link": "60feb0e21ef2ea00133538cb"
+    },
+    {
+      "txt": "에 올라와서 "
+    },
+    {
+      "txt": "에서",
+      "link": "60bad1f01376e50012a0daff"
+    },
+    {
+      "txt": "의 "
+    },
+    {
+      "txt": "산",
+      "link": "60ba1bb11376e50012a0da53"
+    },
+    {
+      "txt": "을 "
+    },
+    {
+      "txt": "심판",
+      "link": "60c0c0ac6cfae70012b03713"
+    },
+    {
+      "txt": "하리니 <span style=\"color:crimson;\">¹</span>"
+    },
+    {
+      "txt": "나라",
+      "link": "60ba1bcc1376e50012a0da54"
+    },
+    {
+      "txt": "가 "
+    },
+    {
+      "txt": "여호와",
+      "link": "613c3a6ae8113c001ae0b559"
+    },
+    {
+      "txt": "께 속하리라"
+    }
+  ],
+  "result": null,
+  "deploy": "off",
+  "script": "구원자들이 시온 산에 올라와서 에서의 산을 심판하리니 나라가 여호와께 속하리라",
+  "link_pos": [
+    {
+      "start": 0,
+      "end": 2,
+      "href": "/bible-forest/dictionary/60bab6b11376e50012a0daf6"
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "href": "/bible-forest/dictionary/60feb0e21ef2ea00133538cb"
+    },
+    {
+      "start": 53,
+      "end": 54,
+      "href": "/bible-forest/dictionary/60bad1f01376e50012a0daff"
+    },
+    {
+      "start": 57,
+      "end": 57,
+      "href": "/bible-forest/dictionary/60ba1bb11376e50012a0da53"
+    },
+    {
+      "start": 60,
+      "end": 61,
+      "href": "/bible-forest/dictionary/60c0c0ac6cfae70012b03713"
+    },
+    {
+      "start": 103,
+      "end": 104,
+      "href": "/bible-forest/dictionary/60ba1bcc1376e50012a0da54"
+    },
+    {
+      "start": 107,
+      "end": 109,
+      "href": "/bible-forest/dictionary/613c3a6ae8113c001ae0b559"
+    }
+  ],
+  "link_deploy": "on",
+  "edit_script": "구원자들이 <span style=\"color:crimson;\">¹</span>시온산에 올라와서 에서의 산을 심판하리니 <span style=\"color:crimson;\">²</span>나라가 여호와께 속하리라",
+  "edit_deploy": "on",
+  "chapter_title": null
+}]
